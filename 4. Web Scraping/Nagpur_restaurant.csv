@@ -1,0 +1,818 @@
+,Name,Rating,Cuisine,Avg Rate,Area,Zone
+0,Moti Mahal Delux Restaurant,4.4," North Indian, Mughlai, Biryani",₹ 900 for 2 (approx) ,Sitabuldi, Central Nagpur
+1,Corridor Seven Coffee Roaster,5," Desserts, Continental",₹ 800 for 2 (approx) ,Sitabuldi, Central Nagpur
+2,Jagat Restaurant,5," North Indian, Chinese, Pizza, Street Food",₹ 600 for 2 (approx) ,Sitabuldi, Central Nagpur
+3,Kalpataru,3.9," North Indian, Asian, Desserts","₹ 1,600 for 2 (approx) ","Hotel Hardeo,Sitabuldi", Central Nagpur
+4,Side Walk,3.8," North Indian, Continental, Chinese","₹ 1,900 for 2 (approx) ","Hotel Hardeo,Sitabuldi", Central Nagpur
+5,Barbeque Nation,4.3," North Indian, Chinese","₹ 2,000 for 2 (approx) ","Eternity Mall,Sitabuldi", Central Nagpur
+6,Ice Lounge,3.6, Fast Food,"₹ 2,000 for 2 (approx) ","Hotel Hardeo,Sitabuldi", Central Nagpur
+7,Robo 2.0,4.3," North Indian, Chinese",₹ 800 for 2 (approx) ,"Eternity Mall,Sitabuldi", Central Nagpur
+8,High Steak,4.2," North Indian, Continental, Chinese","₹ 1,200 for 2 (approx) ","Hotel Centre Point,Ramdaspeth", West Nagpur
+9,Hotel Brijinn,4.3," North Indian, Fast Food",₹ 600 for 2 (approx) ,Gandhibagh, East Nagpur
+10,D9 Restro Lounge,3.6," North Indian, Mughlai, Chinese",₹ 500 for 2 (approx) ,Sitabuldi, Central Nagpur
+11,TAO - Asian Kitchen,5," Asian, Sushi","₹ 1,900 for 2 (approx) ",Civil Lines, West Nagpur
+12,TDS Restro Lounge,4.2," North Indian, Chinese, Continental","₹ 2,100 for 2 (approx) ","Milestone Building,Ramdaspeth", West Nagpur
+13,The Frontier Post,5," Mughlai, North Indian","₹ 1,600 for 2 (approx) ","Tuli International,Sadar", West Nagpur
+14,The Treat,4.2," Chinese, North Indian",₹ 800 for 2 (approx) ,Gandhibagh, East Nagpur
+15,AU 79,3," Chinese, North Indian, Continental, Mughlai","₹ 1,200 for 2 (approx) ","Hotel Gangakashi,Sitabuldi", Central Nagpur
+16,Esco Cafe - Lounge & Bar,5," Continental, North Indian, Desserts",₹ 900 for 2 (approx) ,Sitabuldi, Central Nagpur
+17,Dessertz & More,4.3," Desserts, Fast Food",₹ 500 for 2 (approx) ,Mohan Nagar, North Nagpur
+18,Nanking's,3.6," Chinese, Asian, Seafood","₹ 1,000 for 2 (approx) ",Civil Lines, West Nagpur
+19,Nawab's,4," Mughlai, North Indian, Chinese",₹ 800 for 2 (approx) ,Civil Lines, West Nagpur
+20,Bougainvillea,4.6, North Indian,"₹ 1,200 for 2 (approx) ","Hotel Centre Point,Ramdaspeth", West Nagpur
+21,Roast Cafe,4.8," North Indian, Chinese, Fast Food, Biryani",₹ 600 for 2 (approx) ,Sadar, West Nagpur
+22,The Yellow Chilli,4.2," North Indian, Street Food","₹ 1,200 for 2 (approx) ",Untkhana, West Nagpur
+23,Hotel Darshan Towers - Amantran Restaurant,3.4," Chinese, North Indian, Fast Food","₹ 1,200 for 2 (approx) ",Gandhibagh, East Nagpur
+24,Vyanjanam-The Taste Of India,4.2," Chinese, South Indian, North Indian",₹ 500 for 2 (approx) ,Ramdaspeth, West Nagpur
+25,The Locals Bar & Cafe,3.8," North Indian, Italian, Continental, Chinese","₹ 1,000 for 2 (approx) ","AD Complex,Sadar", West Nagpur
+26,Food Links,4.3, Fast Food,₹ 500 for 2 (approx) ,"VCA Stadium Complex,Civil Lines", West Nagpur
+27,Della Italia,4.6, Desserts,₹ 600 for 2 (approx) ,Civil Lines, West Nagpur
+28,M's Repose Restro Lounge,3.3," North Indian, Malvani, Continental, Chinese","₹ 1,500 for 2 (approx) ","Shriram Tower,Sadar", West Nagpur
+29,LB's Kitchen,4," North Indian, Mughlai, Chinese",₹ 900 for 2 (approx) ,Sadar, West Nagpur
+30,Freakk De Bistro,4.1," Fast Food, Finger Food","₹ 2,000 for 2 (approx) ","Hotel Centre Point,Ramdaspeth", West Nagpur
+31,Orbiyo Natural Icecreams,4.1, Desserts,₹ 200 for 2 (approx) ,Sadar, West Nagpur
+32,House of Beers,3.5," Finger Food, Chinese, North Indian","₹ 1,500 for 2 (approx) ",Civil Lines, West Nagpur
+33,Meeting Point,4.4," North Indian, Chinese, Thai, Continental, Asian","₹ 1,300 for 2 (approx) ","Hotel Centre Point,Ramdaspeth", West Nagpur
+34,Juiceb,1.7," Chinese, North Indian, Pizza",₹ 500 for 2 (approx) ,"Empress City Mall,Gandhibagh", East Nagpur
+35,Maddtowns Sports Restrobar,3.4," North Indian, Chinese, Fast Food","₹ 1,700 for 2 (approx) ",Mohan Nagar, North Nagpur
+36,Pablo - The Art Cafe' Lounge,4.5," North Indian, American, Italian, Continental","₹ 1,200 for 2 (approx) ",Civil Lines, West Nagpur
+37,Krishnum Food Plaza,4," North Indian, South Indian, Fast Food, Chinese, Beverages, Desserts",₹ 700 for 2 (approx) ,Sadar, West Nagpur
+38,Toast,3.7," Fast Food, Beverages",₹ 500 for 2 (approx) ,Sadar, West Nagpur
+39,Tattwam,4.3," South Indian, North Indian",₹ 700 for 2 (approx) ,Ramdaspeth, West Nagpur
+40,F&B studio,4.5," Fast Food, Chinese, Beverages",₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+41,Tornados,4, Fast Food,₹ 300 for 2 (approx) ,Civil Lines, West Nagpur
+42,Drifters Tap Station,4.5," North Indian, Continental, Chinese, Italian","₹ 1,000 for 2 (approx) ",Ramdaspeth, West Nagpur
+43,Tornados,4.2, Fast Food,₹ 300 for 2 (approx) ,Ramdaspeth, West Nagpur
+44,Khichadiwala,4.4, Health Food,₹ 400 for 2 (approx) ,Ramdaspeth, West Nagpur
+45,ABs - Absolute Barbecues,4.4," North Indian, Chinese","₹ 1,400 for 2 (approx) ",Dharampeth, West Nagpur
+46,Hungama Street Cafe,4.2," Chinese, Fast Food",₹ 700 for 2 (approx) ,Dharampeth, West Nagpur
+47,Three Beans,4.7," American, Italian, Continental, Desserts",₹ 600 for 2 (approx) ,Dharampeth, West Nagpur
+48,Nagpur Adda,1.5, North Indian,"₹ 1,200 for 2 (approx) ",Sitabuldi, Central Nagpur
+49,Bighdey Nawab,4.4," Mughlai, North Indian","₹ 1,300 for 2 (approx) ",Nandanvan, East Nagpur
+50,Tandoori Chaska,3.9," Chinese, North Indian, Biryani",₹ 700 for 2 (approx) ,Nandanvan, East Nagpur
+51,Little Italy,3.4," Italian, North Indian, Chinese, Mexican","₹ 1,400 for 2 (approx) ",Civil Lines, West Nagpur
+52,Uptown501,3.6," North Indian, Continental, Asian","₹ 1,100 for 2 (approx) ",Dharampeth, West Nagpur
+53,Hotel Amir's Pure Veg Punjabi Restaurant,3.3," Pizza, Biryani, Street Food",₹ 700 for 2 (approx) ,Gandhibagh, East Nagpur
+54,Toss Chinese & Barbecue,3.4," Chinese, North Indian",₹ 300 for 2 (approx) ,Ramdaspeth, West Nagpur
+55,The Sidewalk Cafe,3.8," Fast Food, Pizza",₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+56,Hitchki,3.3," North Indian, Chinese, Continental","₹ 1,700 for 2 (approx) ",Chhaoni, North Nagpur
+57,Step Inn,4.1," North Indian, Chinese","₹ 1,000 for 2 (approx) ",Gokulpeth, West Nagpur
+58,Amaira,3.9," Chinese, North Indian","₹ 1,000 for 2 (approx) ","MTDC Building,Civil Lines", West Nagpur
+59,Shahi Haandi Kebab & Biryani,5," Mughlai, North Indian",₹ 500 for 2 (approx) ,Gokulpeth, West Nagpur
+60,London Bubble Co,4.7, Desserts,₹ 600 for 2 (approx) ,Dharampeth, West Nagpur
+61,Radha Krishna By Ram Bhandar,2.5," North Indian, Chinese, Fast Food",₹ 400 for 2 (approx) ,Gandhibagh, East Nagpur
+62,Icing On The Cake,3.2," Continental, Beverages, Chinese, Pizza",₹ 900 for 2 (approx) ,Dharampeth, West Nagpur
+63,Orbiyo Natural Icecreams,4.4, Desserts,₹ 200 for 2 (approx) ,Dharampeth, West Nagpur
+64,Bouffage Cafe & Bistro,5," North Indian, Seafood, Italian, Chinese, Fast Food, Mughlai, Desserts","₹ 1,200 for 2 (approx) ",Dharampeth, West Nagpur
+65,Greens Pure Veg Restaurant,5," North Indian, Continental, Chinese","₹ 1,000 for 2 (approx) ",Ravi Nagar, West Nagpur
+66,Licksters,3.5, Desserts,₹ 200 for 2 (approx) ,Dharampeth, West Nagpur
+67,Italy Via Punjab,4.4," North Indian, Italian, Biryani, Desserts",₹ 800 for 2 (approx) ,Dharampeth, West Nagpur
+68,Yamazaki Pan-Asian Cuisine,5," Asian, Sushi, Chinese","₹ 1,000 for 2 (approx) ",Bajaj Nagar, West Nagpur
+69,SSD's Swad Ghar Ka,4.3, North Indian,₹ 500 for 2 (approx) ,Bajaj Nagar, West Nagpur
+70,Namaste Mexico,5," Mexican, Fast Food, Italian, Pizza",₹ 500 for 2 (approx) ,Nandanvan, East Nagpur
+71,The Chocolate Room,4.4," Italian, Fast Food, Pizza, Desserts, Beverages",₹ 600 for 2 (approx) ,Ravi Nagar, West Nagpur
+72,The Next Chapter Cafe,4.5," Fast Food, Continental, North Indian, Beverages",₹ 900 for 2 (approx) ,Dharampeth, West Nagpur
+73,Mustard Restro Lounge,4.4," North Indian, Chinese, Continental","₹ 1,700 for 2 (approx) ","Vijay Arcade,Dharampeth", West Nagpur
+74,Kareem's,5," Mughlai, Chinese, North Indian","₹ 1,300 for 2 (approx) ",Sadar, West Nagpur
+75,Hotel Sujal Saoji,4," Maharashtrian, North Indian, Chinese",₹ 600 for 2 (approx) ,Bajaj Nagar, West Nagpur
+76,Toss - Cafe And Restro,4.2," Chinese, Fast Food, Italian, Beverages",₹ 800 for 2 (approx) ,Bajaj Nagar, West Nagpur
+77,Aww The Cafe Studio,2.4, Fast Food,₹ 600 for 2 (approx) ,Civil Lines, West Nagpur
+78,Brewin Cafe,4.8," Fast Food, Desserts, Beverages",₹ 500 for 2 (approx) ,Bajaj Nagar, West Nagpur
+79,Salud Restro Lounge,4.5," North Indian, Chinese, Continental, Italian, Mexican","₹ 1,500 for 2 (approx) ",Bajaj Nagar, West Nagpur
+80,Cafe Khoka,5," Fast Food, Beverages",₹ 500 for 2 (approx) ,Civil Lines, West Nagpur
+81,Mocha,3.9," North Indian, Continental, Fast Food","₹ 1,000 for 2 (approx) ",Dharampeth, West Nagpur
+82,Chaat Shaala,4.2," Fast Food, Street Food",₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+83,Smokin Grills,4.5," Fast Food, Pizza",₹ 700 for 2 (approx) ,Bajaj Nagar, West Nagpur
+84,The Cafe Barrel,3.9," North Indian, Chinese, Fast Food","₹ 1,100 for 2 (approx) ",Dharampeth, West Nagpur
+85,Crostino,3.9," Fast Food, Beverages",₹ 500 for 2 (approx) ,Nandanvan, East Nagpur
+86,The Waffle Boss Co.,4.4, Desserts,₹ 300 for 2 (approx) ,Bajaj Nagar, West Nagpur
+87,Food Mohalla,5," Italian, Fast Food",₹ 600 for 2 (approx) ,Bajaj Nagar, West Nagpur
+88,Deja Brew,4.1, North Indian,"₹ 1,500 for 2 (approx) ","Regenta Central Hotel & Convention Centre,Nandanvan", East Nagpur
+89,Mini Punjab,3.3," North Indian, Continental, Chinese",₹ 700 for 2 (approx) ,Dharampeth, West Nagpur
+90,Hot Sandwiches,3.8," Fast Food, Italian",₹ 500 for 2 (approx) ,Lakadganj, East Nagpur
+91,Mittran Di Sigri,3.5," North Indian, Chinese","₹ 1,100 for 2 (approx) ",Sadar, West Nagpur
+92,Barbeque Hut,3.3," North Indian, Chinese",₹ 900 for 2 (approx) ,Gandhibagh, East Nagpur
+93,Dairy Don,3.2, Desserts,₹ 300 for 2 (approx) ,"Madhu Madhav Towers,Dharampeth", West Nagpur
+94,Food Links,4.4, Fast Food,₹ 500 for 2 (approx) ,Nandanvan, East Nagpur
+95,The Diet Studio,3.3, Health Food,₹ 700 for 2 (approx) ,Bajaj Nagar, West Nagpur
+96,Beyond Kitchen and Bar,4," North Indian, Chinese","₹ 1,400 for 2 (approx) ",Dharampeth, West Nagpur
+97,Rosetta Elite-7th Heaven,3.9," North Indian, Fast Food",₹ 800 for 2 (approx) ,Wardha Road, South Nagpur
+98,Cake Links,4.5, Desserts,₹ 400 for 2 (approx) ,Nandanvan, East Nagpur
+99,7 Bucks Cafe,3.5," Chinese, Continental, Fast Food",₹ 600 for 2 (approx) ,Ravi Nagar, West Nagpur
+100,Rhythm & Blues,1," Continental, Italian, North Indian","₹ 1,500 for 2 (approx) ","Tuli International,Sadar", West Nagpur
+101,Orbiyo Natural Icecreams,4.4, Desserts,₹ 200 for 2 (approx) ,Nandanvan, East Nagpur
+102,Two Joes,4.3," Chinese, North Indian, Fast Food, Mexican",₹ 700 for 2 (approx) ,Bajaj Nagar, West Nagpur
+103,Feliz Cafe,3.6," North Indian, Continental, Chinese","₹ 1,100 for 2 (approx) ","Regenta Central Hotel & Convention Centre,Nandanvan", East Nagpur
+104,Hotel Maitreyee,5," Mughlai, North Indian, Beverages, Biryani",₹ 800 for 2 (approx) ,Gandhi Nagar, West Nagpur
+105,Ruchkar Assal Maharashtrian Vyanjan,4.1," Maharashtrian, Chinese, North Indian",₹ 700 for 2 (approx) ,Bajaj Nagar, West Nagpur
+106,Cake Links,4, Desserts,₹ 400 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+107,Vintage Cafe,4.2, Fast Food,₹ 300 for 2 (approx) ,"Ganesh Tower,Ravi Nagar", West Nagpur
+108,Shabana's Herbs & Spices,2.3, Fast Food,₹ 900 for 2 (approx) ,Chhaoni, North Nagpur
+109,Anna Idli,3.9, South Indian,₹ 400 for 2 (approx) ,Laxminagar, South Nagpur
+110,Hideout Cafe,2.1," Fast Food, Desserts",₹ 600 for 2 (approx) ,Dharampeth, West Nagpur
+111,Dairy Don's Supreme Sandwiches,2.3, Fast Food,₹ 300 for 2 (approx) ,"Madhu Madhav Towers,Dharampeth", West Nagpur
+112,Food Links,3.7, Fast Food,₹ 500 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+113,Royal Plaza,," North Indian, Mughlai",₹ 400 for 2 (approx) ,Sitabuldi, Central Nagpur
+114,Lush House,3.9," North Indian, Health Food, Continental, Desserts, Pizza",₹ 600 for 2 (approx) ,Bajaj Nagar, West Nagpur
+115,Orbiyo Natural Icecreams,3.5, Desserts,₹ 200 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+116,Kabab Hut,3.9," Awadhi, Mughlai, Desserts","₹ 1,400 for 2 (approx) ",Wardha Road, South Nagpur
+117,Bajrang Bhojnalay,," North Indian, Fast Food",₹ 400 for 2 (approx) ,Sitabuldi, Central Nagpur
+118,N7 Nitro Factory,3.3, Desserts,₹ 300 for 2 (approx) ,Nandanvan, East Nagpur
+119,Chai Choupati,3," Fast Food, Beverages",₹ 500 for 2 (approx) ,Nandanvan, East Nagpur
+120,Nandanvan Street House,3," Fast Food, Chinese, Beverages",₹ 600 for 2 (approx) ,Nandanvan, East Nagpur
+121,Titoos Restaurant and Bar,," Chinese, North Indian, Maharashtrian",₹ 500 for 2 (approx) ,Sitabuldi, Central Nagpur
+122,Juhi's Kitchen,3.9," Chinese, North Indian",₹ 700 for 2 (approx) ,Bajaj Nagar, West Nagpur
+123,Crostino,3," Fast Food, Beverages",₹ 500 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+124,Orbiyo Natural Icecreams,, Desserts,₹ 200 for 2 (approx) ,Ganeshpeth, East Nagpur
+125,Orbiyo Natural Icecreams,, Desserts,₹ 200 for 2 (approx) ,Dhantoli, West Nagpur
+126,The Pancake Story,3," Desserts, Fast Food",₹ 300 for 2 (approx) ,"Pathak House,Bajaj Nagar", West Nagpur
+127,9 3/4 Central Perk Cafe,5, Fast Food,₹ 900 for 2 (approx) ,Dharampeth, West Nagpur
+128,Krishnum Restaurant,," North Indian, South Indian, Fast Food",₹ 700 for 2 (approx) ,Gandhibagh, East Nagpur
+129,Cake Links,, Desserts,₹ 400 for 2 (approx) ,Dhantoli, West Nagpur
+130,Coelum Cafe,, Fast Food,₹ 300 for 2 (approx) ,"Sanskrutik Sankul Complex,Sitabuldi", Central Nagpur
+131,Ni Hao,4.7," Chinese, Asian","₹ 3,500 for 2 (approx) ","Radisson Blu Hotel Nagpur,Wardha Road", South Nagpur
+132,Uncle John's Pizza,5," Pizza, Fast Food",₹ 500 for 2 (approx) ,Sadar, West Nagpur
+133,The Creative Kitchen,4.4," Continental, North Indian, Chinese, Italian","₹ 2,500 for 2 (approx) ","Radisson Blu Hotel Nagpur,Wardha Road", South Nagpur
+134,Mississipi Street,3.3," North Indian, Italian, South Indian, Chinese",₹ 800 for 2 (approx) ,Pratap Nagar, South Nagpur
+135,Annapurna Restaurant,3," North Indian, South Indian, Fast Food",₹ 700 for 2 (approx) ,Lakadganj, East Nagpur
+136,Veggietude,, North Indian,"₹ 1,400 for 2 (approx) ",Civil Lines, West Nagpur
+137,Bouffage,," Continental, North Indian, Chinese, Fast Food, Italian, Mughlai, Seafood","₹ 1,200 for 2 (approx) ",Mohan Nagar, North Nagpur
+138,Cake Walk,4.5," Fast Food, Beverages, Desserts",₹ 700 for 2 (approx) ,"Radisson Blu Hotel Nagpur,Wardha Road", South Nagpur
+139,DALI THE ART CAFE,4.6, Continental,"₹ 1,300 for 2 (approx) ",Wardha Road, South Nagpur
+140,Cafe Fruita,2.3," Fast Food, North Indian",₹ 300 for 2 (approx) ,Nandanvan, East Nagpur
+141,Oasis,," Continental, North Indian, Fast Food","₹ 1,000 for 2 (approx) ",Civil Lines, West Nagpur
+142,Shabana Bakery,1," Fast Food, Chinese, Pizza",₹ 200 for 2 (approx) ,Sadar, West Nagpur
+143,Sam's Pizza,4," Pizza, Italian",₹ 800 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+144,Cafe 9 3/4,3.5, Fast Food,₹ 600 for 2 (approx) ,Pratap Nagar, South Nagpur
+145,Ark - Indian Kitchen,, North Indian,"₹ 1,200 for 2 (approx) ",Civil Lines, West Nagpur
+146,Indiya Oye,4," North Indian, Mughlai, Desserts, Awadhi","₹ 2,800 for 2 (approx) ","Radisson Blu Hotel Nagpur,Wardha Road", South Nagpur
+147,Nandri,," South Indian, Chinese, Chettinad",₹ 600 for 2 (approx) ,Sadar, West Nagpur
+148,Dairy Don's Supreme Chaat,1, Street Food,₹ 100 for 2 (approx) ,"Madhu Madhav Towers,Dharampeth", West Nagpur
+149,Ethyl Bar,4," Finger Food, North Indian, Continental","₹ 3,600 for 2 (approx) ","Radisson Blu Hotel Nagpur,Wardha Road", South Nagpur
+150,Khajur,," North Indian, Continental, Parsi, Goan","₹ 1,000 for 2 (approx) ",Sadar, West Nagpur
+151,Icing On The Cake,," Continental, Chinese, North Indian, Pizza, Beverages",₹ 900 for 2 (approx) ,Sadar, West Nagpur
+152,Bula's Kitchen,3.3," Chinese, North Indian, Fast Food, Tibetan, Mughlai",₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+153,Cake Links,1, Desserts,₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+154,Chicago Pizza,1," Pizza, Italian",₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+155,Taco Bell,, Tex Mex,₹ 600 for 2 (approx) ,Untkhana, West Nagpur
+156,Four Seasons,, North Indian,"₹ 1,200 for 2 (approx) ","Tuli International,Sadar", West Nagpur
+157,The Patisserie Shop,," Desserts, Fast Food",₹ 500 for 2 (approx) ,"Tuli International,Sadar", West Nagpur
+158,Mr. Hops Brew Cafe,3.9," North Indian, Continental, Chinese","₹ 1,700 for 2 (approx) ",Wardha Road, South Nagpur
+159,Orbiyo Natural Icecreams,4, Desserts,₹ 200 for 2 (approx) ,Pratap Nagar, South Nagpur
+160,Cake Links,4, Desserts,₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+161,Bakasur,1," North Indian, Chinese","₹ 1,200 for 2 (approx) ",Bajaj Nagar, West Nagpur
+162,Eelaichii Family Restaurant,3.6," Chinese, North Indian",₹ 650 for 2 (approx) ,Pratap Nagar, South Nagpur
+163,Cake Links,, Desserts,₹ 400 for 2 (approx) ,"VCA Stadium Complex,Civil Lines", West Nagpur
+164,Orbiyo Natural Icecreams,3.8, Desserts,₹ 200 for 2 (approx) ,"Shantinath Apartment,Wardhaman Nagar", East Nagpur
+165,Ruchi's Kitchen,1, North Indian,₹ 900 for 2 (approx) ,Bajaj Nagar, West Nagpur
+166,Khichadiwala,4.7, Health Food,₹ 400 for 2 (approx) ,Gayatri Nagar, South Nagpur
+167,Ravi's Food,," Fast Food, North Indian, Chinese",₹ 700 for 2 (approx) ,Sadar, West Nagpur
+168,The Bali's Cafe,3.7, Fast Food,₹ 500 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+169,Mogra,," North Indian, Fast Food",₹ 500 for 2 (approx) ,Civil Lines, West Nagpur
+170,Suryakant Saoji,1, North Indian,₹ 500 for 2 (approx) ,Lakadganj, East Nagpur
+171,Hotel Daawat,2.3," Mughlai, North Indian, Chinese",₹ 800 for 2 (approx) ,Mankapur, North Nagpur
+172,Treat At Street Cafe,4.3, Fast Food,₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+173,JMV Food Zone,," North Indian, Chinese, Fast Food",₹ 700 for 2 (approx) ,Sadar, West Nagpur
+174,Icing On The Cake,," Desserts, Fast Food",₹ 400 for 2 (approx) ,Untkhana, West Nagpur
+175,Ivory House Restaurant,5," North Indian, Chinese","₹ 1,000 for 2 (approx) ",Pratap Nagar, South Nagpur
+176,Biryani By Kilo,1," Biryani, Mughlai",₹ 800 for 2 (approx) ,Dharampeth, West Nagpur
+177,Giani's,," Desserts, Beverages",₹ 400 for 2 (approx) ,Sadar, West Nagpur
+178,Food Links,3.2, Fast Food,₹ 500 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+179,Cake N Chocolate,, Desserts,₹ 400 for 2 (approx) ,Mahal, East Nagpur
+180,Dream Restaurant,4," Chinese, North Indian, Mughlai",₹ 800 for 2 (approx) ,"Hotel Shivani International,Wardha Road", South Nagpur
+181,Cheesy Crazy Cafe,," Italian, Fast Food",₹ 200 for 2 (approx) ,Sadar, West Nagpur
+182,House Of Caffeine,4.1," Street Food, Chinese, Fast Food, Beverages",₹ 800 for 2 (approx) ,Bajaj Nagar, West Nagpur
+183,Shabana Bakery & Kitchen,," Fast Food, Desserts",₹ 400 for 2 (approx) ,Sadar, West Nagpur
+184,Kickass 42,, Fast Food,₹ 300 for 2 (approx) ,Sadar, West Nagpur
+185,DZO! Luxury Lounge and Pub,5," Finger Food, Fast Food","₹ 3,000 for 2 (approx) ",Pratap Nagar, South Nagpur
+186,4 Amigos,1," Fast Food, Chinese",₹ 900 for 2 (approx) ,Bajaj Nagar, West Nagpur
+187,BBC Courtyard,2.7," Chinese, North Indian, Continental","₹ 1,300 for 2 (approx) ",Gandhibagh, East Nagpur
+188,Little Indian,, North Indian,"₹ 1,500 for 2 (approx) ",Civil Lines, West Nagpur
+189,Nosh Cafe,," Fast Food, Continental, Beverages",₹ 300 for 2 (approx) ,"Narmada Plaza,Dharampeth", West Nagpur
+190,Nosh,, Fast Food,₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+191,Orbiyo Natural Icecreams,, Desserts,₹ 200 for 2 (approx) ,Dharampeth, West Nagpur
+192,La Pasta Fresca Deli,," Continental, Beverages",₹ 800 for 2 (approx) ,Dharampeth, West Nagpur
+193,Hotel Ashoka Imperial,4," North Indian, Chinese",₹ 900 for 2 (approx) ,Manish Nagar, South Nagpur
+194,Delhi Grill,," Chinese, Fast Food",₹ 700 for 2 (approx) ,Chhaoni, North Nagpur
+195,Nothing Before Coffee,," Desserts, Beverages",₹ 300 for 2 (approx) ,Dharampeth, West Nagpur
+196,C for Chaat,, Street Food,₹ 300 for 2 (approx) ,Dharampeth, West Nagpur
+197,Veggietude,5," North Indian, Chinese",₹ 900 for 2 (approx) ,Pratap Nagar, South Nagpur
+198,KOYLA 29 Kebabs and More,, North Indian,₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+199,Shabana's Bakery & Cafe,," Chinese, Fast Food, Desserts",₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+200,Being foodie Express Kitchen,3.6," Chinese, North Indian, Fast Food",₹ 800 for 2 (approx) ,Pratap Nagar, South Nagpur
+201,Walkers Cafe,, Fast Food,₹ 500 for 2 (approx) ,Nandanvan, East Nagpur
+202,Jack N Jill,," North Indian, Chinese, Beverages",₹ 500 for 2 (approx) ,Jaripatka, North Nagpur
+203,Food Links,4.4, Fast Food,₹ 500 for 2 (approx) ,Manish Nagar, South Nagpur
+204,Casa Unplugged,5," Fast Food, Beverages",₹ 600 for 2 (approx) ,Hingna T Point, South Nagpur
+205,Angels N Devils Restro,4.3," North Indian, Chinese, Fast Food","₹ 1,000 for 2 (approx) ",Hingna T Point, South Nagpur
+206,Crostino,4.4," Fast Food, Beverages",₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+207,M.S. Foods,," Chinese, Fast Food",₹ 300 for 2 (approx) ,"Achraj Tower,Sadar", West Nagpur
+208,Bablu Da Dhaba,5," North Indian, Chinese","₹ 1,000 for 2 (approx) ",Wardha Road, South Nagpur
+209,Orbiyo Natural Icecreams,4.1, Desserts,₹ 200 for 2 (approx) ,"Balaji Arcade,Manish Nagar", South Nagpur
+210,S-Cube,, Fast Food,₹ 600 for 2 (approx) ,Laxminagar, South Nagpur
+211,Golden Harvest,4.3," Chinese, North Indian","₹ 1,100 for 2 (approx) ",Wardha Road, South Nagpur
+212,Kayo Lounge,," Fast Food, Beverages",₹ 600 for 2 (approx) ,Subhash Nagar, Central Nagpur
+213,The Highway Smokehouse,4," North Indian, Mughlai, Chinese, Fast Food, Desserts","₹ 1,500 for 2 (approx) ",Wardha Road, South Nagpur
+214,Mr. Browniee,," Fast Food, Beverages",₹ 400 for 2 (approx) ,Chhaoni, North Nagpur
+215,Yummi Momos,," Chinese, Fast Food",₹ 300 for 2 (approx) ,Sadar, West Nagpur
+216,Express By AB's,, North Indian,₹ 800 for 2 (approx) ,Dharampeth, West Nagpur
+217,Hunky-Dory Restro & Cafe,," North Indian, Chinese, Italian, Fast Food","₹ 1,200 for 2 (approx) ",Chhaoni, North Nagpur
+218,Bawarchi Restaurant,3.6," North Indian, Continental, Chinese",₹ 500 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+219,Brussels' Waffles,, Desserts,₹ 300 for 2 (approx) ,"Madhu Madhav Towers,Dharampeth", West Nagpur
+220,Cheesimania,3.9, Fast Food,₹ 600 for 2 (approx) ,Pratap Nagar, South Nagpur
+221,Ten Tables Tandoor Family Restaurant,3.9," North Indian, Biryani, Mughlai",₹ 700 for 2 (approx) ,Manish Nagar, South Nagpur
+222,The Daawat Mahal,4.4," North Indian, Chinese",₹ 800 for 2 (approx) ,Hingna T Point, South Nagpur
+223,Jack N Jill,," North Indian, Chinese, Burger, Fast Food, Beverages",₹ 500 for 2 (approx) ,Bajaj Nagar, West Nagpur
+224,The Pizza Project,," North Indian, Pizza",₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+225,Lovelys Baker Street,3.5," Fast Food, Burger",₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+226,Median Grilled,3.9," North Indian, Chinese, Fast Food",₹ 600 for 2 (approx) ,Manish Nagar, South Nagpur
+227,The Cake Affair,1, Desserts,₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+228,The Beer Cafe,," Continental, Chinese",₹ 700 for 2 (approx) ,Ravi Nagar, West Nagpur
+229,Cake Links,3, Desserts,₹ 400 for 2 (approx) ,"Balaji Arcade,Manish Nagar", South Nagpur
+230,Asian Bistro - Steam and More,," Asian, Chinese, Sushi",₹ 900 for 2 (approx) ,Bajaj Nagar, West Nagpur
+231,Pintu Saoji Restaurant,, North Indian,₹ 500 for 2 (approx) ,Lakadganj, East Nagpur
+232,The Brewed Leaf,," Fast Food, Italian, Continental",₹ 600 for 2 (approx) ,Gokulpeth, West Nagpur
+233,DABO Club And Kitchen,4.5," Continental, North Indian, Desserts, Beverages","₹ 2,200 for 2 (approx) ",Manish Nagar, South Nagpur
+234,House Of Caffeine,4," Italian, Fast Food, Desserts, Beverages","₹ 1,000 for 2 (approx) ",Hingna T Point, South Nagpur
+235,C.E.O. Sakkardhara,," Chinese, Italian, Fast Food",₹ 500 for 2 (approx) ,Nandanvan, East Nagpur
+236,Sham-E-Mehfil,3.4," Biryani, North Indian, Chinese, Seafood",₹ 800 for 2 (approx) ,Hingna T Point, South Nagpur
+237,Shrikhandwala,, Desserts,₹ 300 for 2 (approx) ,Bajaj Nagar, West Nagpur
+238,Burger Bar,," Burger, Fast Food","₹ 1,000 for 2 (approx) ",Laxminagar, South Nagpur
+239,Hideout Cafe,, Fast Food,₹ 600 for 2 (approx) ,Bajaj Nagar, West Nagpur
+240,Icing On The Cake,," Desserts, Fast Food",₹ 600 for 2 (approx) ,Lakadganj, East Nagpur
+241,Shabana's Signature Shop,1," Fast Food, Pizza, Chinese",₹ 300 for 2 (approx) ,Gittikhadan, North Nagpur
+242,Pizza Hut,," Pizza, Fast Food",₹ 800 for 2 (approx) ,Bajaj Nagar, West Nagpur
+243,Hangout Cafe,, Fast Food,₹ 500 for 2 (approx) ,Nandanvan, East Nagpur
+244,Chill House Cafe,, Fast Food,₹ 400 for 2 (approx) ,Nandanvan, East Nagpur
+245,Fusion Grill,," Fast Food, Beverages",₹ 500 for 2 (approx) ,Bajaj Nagar, West Nagpur
+246,UFO Fries & Corn,," Italian, Fast Food","₹ 1,000 for 2 (approx) ",Bajaj Nagar, West Nagpur
+247,Temptation Cafe,, Fast Food,₹ 500 for 2 (approx) ,Nandanvan, East Nagpur
+248,Athithi Devo Bhava,," North Indian, Chinese",₹ 600 for 2 (approx) ,Nandanvan, East Nagpur
+249,Buland Darbar - Biryani & Kebabs,, North Indian,₹ 500 for 2 (approx) ,Bajaj Nagar, West Nagpur
+250,Seven O Eleven,," Continental, Italian, Beverages",₹ 800 for 2 (approx) ,Pratap Nagar, South Nagpur
+251,Roti Botti,, North Indian,₹ 600 for 2 (approx) ,Bajaj Nagar, West Nagpur
+252,The Barbque House,1," North Indian, Chinese, Fast Food",₹ 700 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+253,The Pink Berry,, Desserts,₹ 500 for 2 (approx) ,Laxminagar, South Nagpur
+254,Cluckers Fried Chicken Restaurant,," Burger, Fast Food",₹ 400 for 2 (approx) ,Civil Lines, West Nagpur
+255,Tandoori Heights,4.5," North Indian, Mughlai","₹ 1,000 for 2 (approx) ","The Legend Inn,Wardha Road", South Nagpur
+256,Tangerine,3.9, North Indian,"₹ 1,600 for 2 (approx) ","The Pride Hotel,Wardha Road", South Nagpur
+257,Luk-kha Iron Kitchen,," North Indian, Fast Food",₹ 400 for 2 (approx) ,Gandhi Nagar, West Nagpur
+258,Foodie Heist,, Fast Food,₹ 400 for 2 (approx) ,Nandanvan, East Nagpur
+259,Cafe Pride,3.8," North Indian, South Indian, Continental, Chinese","₹ 1,500 for 2 (approx) ","The Pride Hotel,Wardha Road", South Nagpur
+260,The Seven Hotel,," North Indian, Continental, Chinese","₹ 1,500 for 2 (approx) ",Laxminagar, South Nagpur
+261,Skytouch Rooftop,1.4," North Indian, Chinese, Mughlai",₹ 700 for 2 (approx) ,Manish Nagar, South Nagpur
+262,Shikhar,4," North Indian, Chinese","₹ 1,000 for 2 (approx) ","The Legend Inn,Wardha Road", South Nagpur
+263,Ravi's Food,3," Fast Food, North Indian, Chinese",₹ 700 for 2 (approx) ,Mankapur, North Nagpur
+264,Food Beyond Fantasy,4.3," North Indian, Chinese, Fast Food","₹ 1,400 for 2 (approx) ",Vayu Sena, West Nagpur
+265,The Social Monk,2," North Indian, Chinese, Continental","₹ 1,200 for 2 (approx) ",Pratap Nagar, South Nagpur
+266,Xotik Cafe,,,₹ 300 for 2 (approx),"Ginger Mall,Jaripatka", North Nagpur
+267,Aaswad Family Restaurant,," Chinese, North Indian",₹ 600 for 2 (approx) ,Nandanvan, East Nagpur
+268,Boards and Brews,, North Indian,₹ 500 for 2 (approx) ,Ravi Nagar, West Nagpur
+269,Czaar Lounge and Restaurant,3.5," North Indian, Chinese, Continental, Thai","₹ 1,000 for 2 (approx) ",Wardha Road, South Nagpur
+270,Cluckers Fried Chicken Restaurant,," Burger, Fast Food",₹ 400 for 2 (approx) ,Bajaj Nagar, West Nagpur
+271,Median Grilled Burgers,3.4," Fast Food, Pizza, Beverages",₹ 600 for 2 (approx) ,Manish Nagar, South Nagpur
+272,Yoodley Cakes And Shakes,1," Desserts, Beverages",₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+273,Spirited Square,," Chinese, Fast Food, Italian","₹ 2,400 for 2 (approx) ",Wardha Road, South Nagpur
+274,Food Beyond Fantasy,2.6, Chinese,"₹ 1,200 for 2 (approx) ",Zingabai Takli, West Nagpur
+275,Fructose,," Desserts, Beverages",₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+276,Haveli Heritage,, Mughlai,₹ 400 for 2 (approx) ,Khamla, South Nagpur
+277,Yummi Momos & Restro,, Fast Food,₹ 300 for 2 (approx) ,Vayu Sena, West Nagpur
+278,Dragon Chinese,, Chinese,₹ 400 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+279,Suryakant Saoji,1," Maharashtrian, North Indian",₹ 600 for 2 (approx) ,Pratap Nagar, South Nagpur
+280,Rolls Mania,, Fast Food,₹ 300 for 2 (approx) ,Pratap Nagar, South Nagpur
+281,Six Degrees Lounge,," North Indian, Chinese, Fast Food, Beverages","₹ 2,400 for 2 (approx) ",Pratap Nagar, South Nagpur
+282,The Roll Corner,, Fast Food,₹ 200 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+283,The Roll and Chinese Corner,, Fast Food,₹ 300 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+284,The Biryani Corner,," Biryani, North Indian",₹ 400 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+285,Tapari Cafeos,," Fast Food, Beverages",₹ 300 for 2 (approx) ,Pratap Nagar, South Nagpur
+286,Machhan Restaurant,3," North Indian, Chinese, Fast Food","₹ 1,300 for 2 (approx) ",Wardha Road, South Nagpur
+287,F TV lounge Nagpur,," North Indian, Fast Food, Beverages","₹ 2,300 for 2 (approx) ",Wardha Road, South Nagpur
+288,Cheers Bar,2.3," North Indian, Asian","₹ 1,000 for 2 (approx) ",Wardha Road, South Nagpur
+289,Cake Links,, Desserts,₹ 400 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+290,Oye Orange,1, North Indian,₹ 700 for 2 (approx) ,"Empress City Mall,Gandhibagh", East Nagpur
+291,The Pink Berry,, Desserts,₹ 400 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+292,Sugar Ice cream and Shakes,, Desserts,₹ 300 for 2 (approx) ,Wardha Road, South Nagpur
+293,Icing On The Cake,," Continental, Chinese, Beverages",₹ 900 for 2 (approx) ,Pratap Nagar, South Nagpur
+294,Yummi Momos,, Fast Food,₹ 300 for 2 (approx) ,pachpaoli, East Nagpur
+295,Blossoms,," North Indian, Chinese",₹ 600 for 2 (approx) ,"Hotel Shivani International,Wardha Road", South Nagpur
+296,The Gramophone,4.3," Chinese, North Indian, Continental","₹ 1,700 for 2 (approx) ","Hotel Heritage Embassy,Hingna T Point", South Nagpur
+297,Oasis,4.2," Chinese, North Indian, Continental","₹ 1,000 for 2 (approx) ","Hotel Heritage Embassy,Hingna T Point", South Nagpur
+298,Ivory House Rooftop Restaurant,," North Indian, Chinese","₹ 1,000 for 2 (approx) ",Pratap Nagar, South Nagpur
+299,Moonlight Garden Restaurant,1," North Indian, Chinese",₹ 600 for 2 (approx) ,Manish Nagar, South Nagpur
+300,Billu Bassi Cuisine,3.7," Chinese, North Indian, Continental",₹ 800 for 2 (approx) ,"Hotel Heritage Embassy,Hingna T Point", South Nagpur
+301,The Breakfast Story,," Continental, American, Beverages",₹ 800 for 2 (approx) ,Hingna T Point, South Nagpur
+302,Yum Yum Cafe,," Fast Food, Beverages",₹ 400 for 2 (approx) ,Wardha Road, South Nagpur
+303,Vyanjan Restaurant,," North Indian, Chinese",₹ 800 for 2 (approx) ,Somalwada, South Nagpur
+304,Starboy Pizza & Shakes,," Italian, Pizza",₹ 400 for 2 (approx) ,Gayatri Nagar, South Nagpur
+305,New York Waffles & Dinges,, Desserts,₹ 400 for 2 (approx) ,Gayatri Nagar, South Nagpur
+306,Icing On The Cake,," Continental, North Indian, Pizza",₹ 800 for 2 (approx) ,Vayu Sena, West Nagpur
+307,Yummi Momos,," Chinese, Fast Food",₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+308,Shabana's Afzal Bakery,," Fast Food, Chettinad, Pizza",₹ 200 for 2 (approx) ,Gittikhadan, North Nagpur
+309,Mr Fries,, Fast Food,₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+310,Mad Casa,," Fast Food, Pizza",₹ 300 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+311,Golden Harvest Airport Centre Point,," North Indian, Chinese","₹ 2,500 for 2 (approx) ",Wardha Road, South Nagpur
+312,MotoRush Garage Cafe,," Burger, Continental",₹ 700 for 2 (approx) ,Subhash Nagar, Central Nagpur
+313,UNLtd.,," Pizza, Fast Food",₹ 500 for 2 (approx) ,Manish Nagar, South Nagpur
+314,Hotel Gulmohar Family Restaurant,," North Indian, Chinese",₹ 800 for 2 (approx) ,Manish Nagar, South Nagpur
+315,Frost and Feather,," Fast Food, Beverages",₹ 500 for 2 (approx) ,Manish Nagar, South Nagpur
+316,Hardrock Lounge By RR,," North Indian, Italian","₹ 1,000 for 2 (approx) ",Manish Nagar, South Nagpur
+317,C.E.O. Hingna T Point,, Fast Food,₹ 500 for 2 (approx) ,Hingna T Point, South Nagpur
+318,House Of Caffeine,4.1," Fast Food, Pizza, Burger",₹ 600 for 2 (approx) ,Hingna T Point, South Nagpur
+319,Kickass 42,," Street Food, Fast Food, Beverages",₹ 300 for 2 (approx) ,Wardha Road, South Nagpur
+320,V4 Veggie Restaurant,1," North Indian, South Indian, Chinese",₹ 500 for 2 (approx) ,Hingna T Point, South Nagpur
+321,Club NH7,2.8," North Indian, Chinese, Continental","₹ 1,100 for 2 (approx) ",Subhash Nagar, Central Nagpur
+322,Hotel The Nirvana,, North Indian,"₹ 1,300 for 2 (approx) ",Wadi, West Nagpur
+323,Rock Bottom,5," Chinese, North Indian, Continental","₹ 1,300 for 2 (approx) ",Hingna T Point, South Nagpur
+324,Swad Palace Family Restaurant,," North Indian, Chinese","₹ 1,200 for 2 (approx) ",Koradi Road, North Nagpur
+325,Jaiswal Biryani House,," Biryani, North Indian",₹ 800 for 2 (approx) ,Hingna T Point, South Nagpur
+326,Uttar De Puttar Family Garden Restaurant,," North Indian, Mughlai, Chinese",₹ 700 for 2 (approx) ,Kamptee, North Nagpur
+327,Bombaywala,," North Indian, Fast Food, South Indian",₹ 400 for 2 (approx) ,Hingna T Point, South Nagpur
+328,Supreme Chinese,," Chinese, Fast Food",₹ 300 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+329,Zero Degree Restaurant & Lounge,4.2," North Indian, Chinese, Continental, Finger Food, Desserts","₹ 1,400 for 2 (approx) ","Zero Degree,Hingna T Point", South Nagpur
+330,The Jailer's Kitchen - Family Restaurant,3.5," North Indian, Mughlai",₹ 500 for 2 (approx) ,Mihan, North Nagpur
+331,The Latest Recipe,4.1," North Indian, Continental, Asian, Mughlai","₹ 1,100 for 2 (approx) ","Le Méridien Nagpur,Wardha Road", South Nagpur
+332,Longitude,4, Finger Food,"₹ 3,000 for 2 (approx) ","Le Méridien Nagpur,Wardha Road", South Nagpur
+333,Club 9912,2.5," Chinese, North Indian, Continental","₹ 1,500 for 2 (approx) ",Hingna T Point, South Nagpur
+334,Orbiyo Natural Icecreams,, Desserts,₹ 200 for 2 (approx) ,Hingna T Point, South Nagpur
+335,Roof Zero,1.8," Chinese, North Indian, Continental","₹ 1,400 for 2 (approx) ","Zero Degree,Hingna T Point", South Nagpur
+336,The Divine Cafe And Restro,5," Fast Food, North Indian",₹ 500 for 2 (approx) ,Hingna T Point, South Nagpur
+337,Cafe Chocolicious And Chicken Affair,," Fast Food, Beverages",₹ 400 for 2 (approx) ,Nandanvan, East Nagpur
+338,Havana Restro,2," North Indian, Seafood","₹ 1,000 for 2 (approx) ",Wardha Road, South Nagpur
+339,Elemento Family Restaurant,," North Indian, Chinese, Beverages",₹ 700 for 2 (approx) ,Wardha Road, South Nagpur
+340,The Habitat,3.9," North Indian, Chinese, Fast Food","₹ 1,100 for 2 (approx) ",Hingna T Point, South Nagpur
+341,Mississippi Restro,3.9, North Indian,₹ 600 for 2 (approx) ,Wardha Road, South Nagpur
+342,Black Ice,," North Indian, Chinese, Fast Food",₹ 900 for 2 (approx) ,"Zero Degree,Hingna T Point", South Nagpur
+343,Kings Landing,," Chinese, North Indian, Continental","₹ 1,200 for 2 (approx) ","Zero Degree,Hingna T Point", South Nagpur
+344,Spice and Symphony,5, North Indian,"₹ 1,000 for 2 (approx) ",Wadi, West Nagpur
+345,Dublin 88 - The Irish Hub,3.6," Continental, North Indian","₹ 1,300 for 2 (approx) ",Vayu Sena, West Nagpur
+346,Highlands Water Front,3.6," Continental, North Indian, Chinese","₹ 1,600 for 2 (approx) ",Wadi, West Nagpur
+347,Behind the Lake,," North Indian, Chinese","₹ 1,000 for 2 (approx) ",Koradi Road, North Nagpur
+348,Village Side,," Chinese, North Indian",₹ 800 for 2 (approx) ,Yerla, North Nagpur
+349,Wonders Of World,4.2," Chinese, North Indian, Continental, Mughlai, Biryani, Beverages, Desserts","₹ 1,400 for 2 (approx) ",Vayu Sena, West Nagpur
+350,"Santorini: Food, Folks, Fun",," North Indian, Chinese",₹ 900 for 2 (approx) ,Wardha Road, South Nagpur
+351,Whistling Woods,," North Indian, Chinese, Italian, Desserts","₹ 1,100 for 2 (approx) ",Wardha Road, South Nagpur
+352,The Atmosphere - Highway Hangout,," Chinese, North Indian","₹ 1,000 for 2 (approx) ",Vayu Sena, West Nagpur
+353,Karhandla Farm and Resort,5," Mughlai, North Indian, Continental, Chinese","₹ 1,200 for 2 (approx) ",Nandanvan, East Nagpur
+354,Falani Mastani,5, Desserts,₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+355,Chinese Only,, Fast Food,₹ 200 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+356,KFC,5," Burger, Fast Food",₹ 600 for 2 (approx) ,"Eternity Mall,Sitabuldi", Central Nagpur
+357,Haldiram's,4.5," Rajasthani, South Indian, Chinese, Desserts",₹ 300 for 2 (approx) ,Sitabuldi, Central Nagpur
+358,East India Company,5," Continental, Biryani, North Indian, Mughlai","₹ 1,100 for 2 (approx) ",Civil Lines, West Nagpur
+359,Ice cube,5," North Indian, Chinese","₹ 1,200 for 2 (approx) ",Sadar, West Nagpur
+360,Pizza Hut - 2251,5," Pizza, Fast Food",₹ 800 for 2 (approx) ,"Trilium Mall,Untkhana", West Nagpur
+361,Muscleheadon The Health Cafe,4.3, Health Food,₹ 500 for 2 (approx) ,"Milestone Building,Ramdaspeth", West Nagpur
+362,Agent Jack's,5, Italian,"₹ 1,500 for 2 (approx) ","Trilium Mall,Untkhana", West Nagpur
+363,Uttar Dakshin By Naivedhyam,5," North Indian, South Indian, Beverages",₹ 700 for 2 (approx) ,Sadar, West Nagpur
+364,Cafe Coffee Day,5," Beverages, Fast Food",₹ 800 for 2 (approx) ,Civil Lines, West Nagpur
+365,Moti Mahal Restaurant,5," North Indian, Mughlai, Chinese, Desserts",₹ 800 for 2 (approx) ,Sadar, West Nagpur
+366,Ashoka Restaurant & Bar,4.4," North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages","₹ 1,500 for 2 (approx) ",Sadar, West Nagpur
+367,Pizza On Fire,4, Pizza,₹ 500 for 2 (approx) ,Civil Lines, West Nagpur
+368,New Checker's Restaurant,4," North Indian, Chinese, Fast Food","₹ 1,000 for 2 (approx) ","SJTI Complex,Sadar", West Nagpur
+369,Haldiram's,5," North Indian, Continental, South Indian, Chinese, Desserts",₹ 500 for 2 (approx) ,Sadar, West Nagpur
+370,The Other Side,4.1," Fast Food, Modern Indian, North Indian","₹ 1,500 for 2 (approx) ",Sadar, West Nagpur
+371,Chill N Grill Sky High,3.7," Chinese, Continental, North Indian, Thai","₹ 1,900 for 2 (approx) ",Sadar, West Nagpur
+372,Navratna Raghav,4, North Indian,₹ 400 for 2 (approx) ,Sadar, West Nagpur
+373,Mintleaf Restaurant,4," Italian, Chinese, Continental, Desserts","₹ 1,200 for 2 (approx) ","Hotel Tuli Imperial,Ramdaspeth", West Nagpur
+374,Zinq,3.5," North Indian, Asian, Continental","₹ 1,200 for 2 (approx) ",Sadar, West Nagpur
+375,Chai Pani Etc,5, Fast Food,₹ 300 for 2 (approx) ,Dharampeth, West Nagpur
+376,Biere Cafe,4, Fast Food,₹ 800 for 2 (approx) ,Sadar, West Nagpur
+377,Carnations,2.9," Chinese, North Indian","₹ 1,600 for 2 (approx) ",Sadar, West Nagpur
+378,Drunken Monkey,4, Fast Food,₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+379,Majestic Masala,3," North Indian, Rajasthani","₹ 2,100 for 2 (approx) ","Hotel Tuli Imperial,Ramdaspeth", West Nagpur
+380,Firangish Cafe & Courtyard,3.8," Italian, Fast Food, Beverages, Desserts",₹ 600 for 2 (approx) ,Dharampeth, West Nagpur
+381,Cafe Bar,1," North Indian, Fast Food",₹ 800 for 2 (approx) ,Sitabuldi, Central Nagpur
+382,Haldiram's,5," North Indian, Continental, South Indian, Chinese, Desserts",₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+383,Pizza Hut - 2250,1," Pizza, Fast Food",₹ 800 for 2 (approx) ,"Eternity Mall,Sitabuldi", Central Nagpur
+384,Nineties Cafe,5," Italian, Chinese",₹ 700 for 2 (approx) ,Dharampeth, West Nagpur
+385,Sanjha Chullah,2," North Indian, Chinese, Mughlai","₹ 1,600 for 2 (approx) ",Sadar, West Nagpur
+386,Chill N Grill,1.8," North Indian, Chinese, Asian, Biryani",₹ 900 for 2 (approx) ,"Poonam Arcade,Sadar", West Nagpur
+387,El Classico,3.9," Chinese, Fast Food, North Indian","₹ 1,200 for 2 (approx) ","Madhu Madhav Towers,Dharampeth", West Nagpur
+388,YO momo,1, Fast Food,₹ 100 for 2 (approx) ,Civil Lines, West Nagpur
+389,Vishnuji Ki Rasoi,3.3," North Indian, Maharashtrian",₹ 600 for 2 (approx) ,Bajaj Nagar, West Nagpur
+390,Hotspot,5, Fast Food,₹ 400 for 2 (approx) ,Nandanvan, East Nagpur
+391,Cafe Coffee Day,3," Beverages, Fast Food",₹ 800 for 2 (approx) ,Sadar, West Nagpur
+392,Pooldeck Restro Bar,3.9," North Indian, Continental","₹ 2,200 for 2 (approx) ","Hotel Ashok,Bajaj Nagar", West Nagpur
+393,Diplomat Bar,, North Indian,₹ 900 for 2 (approx) ,Sitabuldi, Central Nagpur
+394,Treat At Street Cafe,, Fast Food,₹ 800 for 2 (approx) ,Sitabuldi, Central Nagpur
+395,Fuel Headquaters,4," Chinese, Fast Food, Continental, Italian, Beverages",₹ 500 for 2 (approx) ,Bajaj Nagar, West Nagpur
+396,Vira Food Court,," North Indian, Chinese",₹ 800 for 2 (approx) ,Sitabuldi, Central Nagpur
+397,Gulmarg Little Hut Restaurant,, North Indian,₹ 400 for 2 (approx) ,Sitabuldi, Central Nagpur
+398,New Shubhas Restaurant & Bar,," North Indian, Chinese",₹ 700 for 2 (approx) ,Sitabuldi, Central Nagpur
+399,Hotel Gulshan Plaza,," North Indian, Biryani",₹ 700 for 2 (approx) ,Sitabuldi, Central Nagpur
+400,Mumbai Vada Pav,," Fast Food, Street Food",₹ 300 for 2 (approx) ,Sitabuldi, Central Nagpur
+401,Just Delicious,," Chinese, North Indian",₹ 500 for 2 (approx) ,"Empress City Mall,Gandhibagh", East Nagpur
+402,Hotel Sunny International,, North Indian,"₹ 1,000 for 2 (approx) ",Wardha Road, South Nagpur
+403,Fionaa Lounge And Restaurant,2," North Indian, Chinese, Thai, Continental, Italian, Beverages","₹ 1,300 for 2 (approx) ",Dharampeth, West Nagpur
+404,Babbu Gold Plaza,," Biryani, North Indian, Mughlai",₹ 800 for 2 (approx) ,Dhantoli, West Nagpur
+405,Domino's Pizza,," Pizza, Fast Food",₹ 500 for 2 (approx) ,"Eternity Mall,Sitabuldi", Central Nagpur
+406,Foodie Soul,," Mughlai, North Indian",₹ 600 for 2 (approx) ,Sitabuldi, Central Nagpur
+407,Goli Vada Pav,, Street Food,₹ 200 for 2 (approx) ,Sitabuldi, Central Nagpur
+408,The Social Brew,1.3," Continental, Fast Food",₹ 900 for 2 (approx) ,Dharampeth, West Nagpur
+409,Grand Dosa Point,, South Indian,₹ 200 for 2 (approx) ,Sitabuldi, Central Nagpur
+410,Hotel Dwarkamai,," North Indian, Chinese",₹ 700 for 2 (approx) ,Gandhibagh, East Nagpur
+411,Hotel Rahul,," North Indian, Chinese, South Indian",₹ 700 for 2 (approx) ,Gandhibagh, East Nagpur
+412,Being foodie Express Kitchen,," Chinese, North Indian, Mughlai",₹ 800 for 2 (approx) ,Sitabuldi, Central Nagpur
+413,New Moti Mahal Bar,, North Indian,₹ 600 for 2 (approx) ,Sitabuldi, Central Nagpur
+414,Madinah By Mak's Kitchen,, North Indian,₹ 300 for 2 (approx) ,Gandhibagh, East Nagpur
+415,Calcutta Bar & Restaurant,," North Indian, Chinese","₹ 1,300 for 2 (approx) ",Sitabuldi, Central Nagpur
+416,Ujjaval Restaurant,," North Indian, Chinese",₹ 500 for 2 (approx) ,Gandhibagh, East Nagpur
+417,Shiv Shakti Ice Cream,, Desserts,₹ 600 for 2 (approx) ,Dhantoli, West Nagpur
+418,Runway712,, Fast Food,₹ 300 for 2 (approx) ,Ramdaspeth, West Nagpur
+419,Cafe Coffee Day,5," Beverages, Fast Food",₹ 800 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+420,Sky Hi Restro,, North Indian,₹ 500 for 2 (approx) ,Gandhibagh, East Nagpur
+421,Varhadi That,," North Indian, Maharashtrian, Desserts",₹ 250 for 2 (approx) ,Dhantoli, West Nagpur
+422,Ganesh Bhojanalaya,," North Indian, Chinese",₹ 700 for 2 (approx) ,Sitabuldi, Central Nagpur
+423,The Nagpur Ashok,2.3," North Indian, Chinese, Beverages, Desserts","₹ 1,000 for 2 (approx) ","Hotel Ashok,Bajaj Nagar", West Nagpur
+424,Kaveri Bar,, North Indian,₹ 900 for 2 (approx) ,Sitabuldi, Central Nagpur
+425,Moksh The Restro Lounge,," Italian, North Indian, Continental, Burmese","₹ 2,000 for 2 (approx) ",Sitabuldi, Central Nagpur
+426,Moxa Restaurant,," North Indian, Chinese, Fast Food",₹ 800 for 2 (approx) ,Gandhibagh, East Nagpur
+427,The Creative Kitchen - Radisson Blu Nagpur,5," North Indian, Continental","₹ 1,800 for 2 (approx) ","Radisson Blu Hotel Nagpur,Wardha Road", South Nagpur
+428,Orange Restaurant,1," Maharashtrian, North Indian, Chinese",₹ 500 for 2 (approx) ,"MTDC Building,Civil Lines", West Nagpur
+429,The Bukhara,," Chinese, Continental, Italian","₹ 1,000 for 2 (approx) ",Sitabuldi, Central Nagpur
+430,Thanco's Natural Ice Cream,4.3, Desserts,₹ 200 for 2 (approx) ,Pratap Nagar, South Nagpur
+431,Tauby's,, Desserts,₹ 500 for 2 (approx) ,Civil Lines, West Nagpur
+432,Hibiscus,," North Indian, Continental","₹ 1,100 for 2 (approx) ",Civil Lines, West Nagpur
+433,Mumbai Vada Pav,," Fast Food, Street Food",₹ 300 for 2 (approx) ,Gandhibagh, East Nagpur
+434,Chandni Chowk Restaurant,," North Indian, Chinese",₹ 600 for 2 (approx) ,Dhantoli, West Nagpur
+435,We Cafe,5," Fast Food, Burger, Pizza",₹ 300 for 2 (approx) ,Pratap Nagar, South Nagpur
+436,Goli Vada Pav,, Street Food,₹ 200 for 2 (approx) ,Gandhibagh, East Nagpur
+437,Moti Mahal Tandoori Trail,," North Indian, Mughlai","₹ 1,500 for 2 (approx) ",Civil Lines, West Nagpur
+438,Hungry Eyes,," North Indian, Chinese",₹ 500 for 2 (approx) ,pachpaoli, East Nagpur
+439,Veeraswami,," South Indian, Street Food",₹ 300 for 2 (approx) ,Sadar, West Nagpur
+440,Kailash Parbat,," Street Food, North Indian",₹ 600 for 2 (approx) ,Untkhana, West Nagpur
+441,Vadilal Ice Cream,, Desserts,₹ 300 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+442,Agent Jack's Bar,," Chinese, North Indian, Continental","₹ 1,500 for 2 (approx) ",Ayodhya Nagar, South Nagpur
+443,Checker's,," Chinese, Fast Food, Beverages",₹ 500 for 2 (approx) ,Civil Lines, West Nagpur
+444,The Dark Knight Cafe,, Fast Food,₹ 600 for 2 (approx) ,Gandhibagh, East Nagpur
+445,Kailash Parbat,, North Indian,₹ 800 for 2 (approx) ,"Lotus Plaza,Civil Lines", West Nagpur
+446,UFO,," North Indian, Chinese, Continental","₹ 1,200 for 2 (approx) ","Hotel Centre Point,Ramdaspeth", West Nagpur
+447,Subway,," Fast Food, Health Food",₹ 500 for 2 (approx) ,Civil Lines, West Nagpur
+448,Fuel Station,," Chinese, Fast Food, Beverages","₹ 1,000 for 2 (approx) ",Gandhibagh, East Nagpur
+449,Giani's,, Beverages,₹ 400 for 2 (approx) ,"VCA Stadium Complex,Civil Lines", West Nagpur
+450,Fuel Station,," Chinese, Fast Food","₹ 1,000 for 2 (approx) ",Civil Lines, West Nagpur
+451,Bullock Cart Bar & Restaurant,, North Indian,"₹ 1,300 for 2 (approx) ",Sadar, West Nagpur
+452,Jashan Bar & Restaurant,, North Indian,"₹ 1,600 for 2 (approx) ",Sadar, West Nagpur
+453,McDonald's,," Burger, Fast Food",₹ 500 for 2 (approx) ,"Trilium Mall,Untkhana", West Nagpur
+454,Mad Fries,, Fast Food,₹ 500 for 2 (approx) ,"VCA Stadium Complex,Civil Lines", West Nagpur
+455,Rangoli Hotel,," North Indian, Chinese",₹ 900 for 2 (approx) ,Dhantoli, West Nagpur
+456,Shankar Bhojnalaya,, North Indian,₹ 600 for 2 (approx) ,Ramdaspeth, West Nagpur
+457,Pizzzenia,, Pizza,₹ 700 for 2 (approx) ,Sadar, West Nagpur
+458,Havmore,, Desserts,₹ 300 for 2 (approx) ,"VCA Stadium Complex,Civil Lines", West Nagpur
+459,Eataly Cafe,," Continental, Italian",₹ 300 for 2 (approx) ,Civil Lines, West Nagpur
+460,Fuel Blend,,,₹ 300 for 2 (approx),"VCA Stadium Complex,Civil Lines", West Nagpur
+461,KFC,," Burger, Fast Food",₹ 600 for 2 (approx) ,"Trilium Mall,Untkhana", West Nagpur
+462,Moti Mahal,," North Indian, Chinese",₹ 800 for 2 (approx) ,"Trilium Mall,Untkhana", West Nagpur
+463,Top N Town,, Desserts,₹ 400 for 2 (approx) ,Sadar, West Nagpur
+464,Haldiram's,," North Indian, Continental, South Indian, Chinese, Desserts",₹ 500 for 2 (approx) ,Untkhana, West Nagpur
+465,Baskin Robbins,, Desserts,₹ 400 for 2 (approx) ,Sadar, West Nagpur
+466,Brain Freeze Ice Cream And Dessert,, Desserts,₹ 500 for 2 (approx) ,"SJTI Complex,Sadar", West Nagpur
+467,Liberty Faimly Restaurant,, North Indian,"₹ 1,000 for 2 (approx) ",Sadar, West Nagpur
+468,Dinshaw's Cream Studio,, Desserts,₹ 500 for 2 (approx) ,"SJTI Complex,Sadar", West Nagpur
+469,Cake's Inn,, Desserts,₹ 300 for 2 (approx) ,Sadar, West Nagpur
+470,Domino's Pizza,," Pizza, Fast Food",₹ 500 for 2 (approx) ,Sadar, West Nagpur
+471,Paratha Shop,, North Indian,₹ 500 for 2 (approx) ,Sadar, West Nagpur
+472,Choti Delhi,, North Indian,₹ 800 for 2 (approx) ,Sadar, West Nagpur
+473,Sangam Restaurant,," North Indian, South Indian, Chinese, Desserts",₹ 600 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+474,Tauby's,," Desserts, Fast Food",₹ 500 for 2 (approx) ,Ramdaspeth, West Nagpur
+475,Amarjeet Bar & Restaurant,," North Indian, Chinese","₹ 1,100 for 2 (approx) ",Gandhibagh, East Nagpur
+476,Panino The Sandwich World,, Fast Food,₹ 200 for 2 (approx) ,Ramdaspeth, West Nagpur
+477,Goli Vada Pav,, Street Food,₹ 200 for 2 (approx) ,Dhantoli, West Nagpur
+478,Finger Bite,, Fast Food,₹ 200 for 2 (approx) ,Dhantoli, West Nagpur
+479,Domino's Pizza,5," Pizza, Fast Food",₹ 500 for 2 (approx) ,Wardha Road, South Nagpur
+480,Ten 11,1," North Indian, Chinese",₹ 700 for 2 (approx) ,Nandanvan, East Nagpur
+481,Keventers,,,₹ 500 for 2 (approx),Civil Lines, West Nagpur
+482,Fuel Blend,,,₹ 300 for 2 (approx),Ramdaspeth, West Nagpur
+483,The Sandwich Shop,, Fast Food,₹ 400 for 2 (approx) ,Ramdaspeth, West Nagpur
+484,Chowringhee - Kathi Rolls & Kabab,," Fast Food, Chinese",₹ 300 for 2 (approx) ,Chhaoni, North Nagpur
+485,Maharaj Bag Lawn,," Chinese, North Indian, Seafood",₹ 700 for 2 (approx) ,Dharampeth, West Nagpur
+486,Cake's Inn,, Desserts,₹ 300 for 2 (approx) ,Gandhibagh, East Nagpur
+487,Lazeez,," North Indian, Biryani",₹ 400 for 2 (approx) ,Ramdaspeth, West Nagpur
+488,Tibb's Frankie,, Fast Food,₹ 500 for 2 (approx) ,Ramdaspeth, West Nagpur
+489,John Chinese Corner,, Chinese,₹ 300 for 2 (approx) ,Sadar, West Nagpur
+490,Paratha Corner,, North Indian,₹ 300 for 2 (approx) ,Sadar, West Nagpur
+491, The Egg Story,, Fast Food,₹ 400 for 2 (approx) ,Ramdaspeth, West Nagpur
+492,Chennai Chowpatty,, South Indian,₹ 300 for 2 (approx) ,Ramdaspeth, West Nagpur
+493,Misu Misu,," Asian, Thai, Seafood","₹ 1,000 for 2 (approx) ",Civil Lines, West Nagpur
+494,Ravaan Restaurant,," North Indian, Biryani",₹ 400 for 2 (approx) ,Sadar, West Nagpur
+495,Dahiya Momos,," Fast Food, Tibetan",₹ 300 for 2 (approx) ,Ramdaspeth, West Nagpur
+496,Mumbai Vada Pav,," Fast Food, Street Food",₹ 300 for 2 (approx) ,Sadar, West Nagpur
+497,Haldiram's,," North Indian, Continental, South Indian, Chinese, Desserts",₹ 500 for 2 (approx) ,Gandhibagh, East Nagpur
+498,Dinkys,, Chinese,₹ 200 for 2 (approx) ,Gandhibagh, East Nagpur
+499,Magic Of China,, Chinese,₹ 500 for 2 (approx) ,Gandhibagh, East Nagpur
+500,The Glass Onion,, Fast Food,₹ 300 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+501,Amazing Blazing Cakes,," Fast Food, Beverages, Desserts",₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+502,Crostino,4," Fast Food, Italian",₹ 500 for 2 (approx) ,Manish Nagar, South Nagpur
+503,The Terrace View,," North Indian, Chinese, Continental","₹ 1,200 for 2 (approx) ",Dharampeth, West Nagpur
+504,Corridor Seven Coffee Roaster,," Desserts, Continental",₹ 800 for 2 (approx) ,Dharampeth, West Nagpur
+505,Nourrir,, North Indian,₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+506,The Thick Shake Factory,, Desserts,₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+507,Radar Cafe Bistro,," North Indian, Chinese",₹ 800 for 2 (approx) ,Sadar, West Nagpur
+508,Cafe Illusions,," Continental, Fast Food, Health Food","₹ 1,000 for 2 (approx) ","LAD Apartment,Dharampeth", West Nagpur
+509,The Melt - Sandwiches And More,," Fast Food, Pizza, Italian",₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+510,Natural Fresh Ice Cream,, Desserts,₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+511,Redel - World Of Desserts,, Desserts,₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+512,Shivshakti Ice Cream,, Desserts,₹ 600 for 2 (approx) ,Gokulpeth, West Nagpur
+513,Raj Bhandar,, Street Food,₹ 200 for 2 (approx) ,Sadar, West Nagpur
+514,Barista,, Fast Food,₹ 600 for 2 (approx) ,Wardha Road, South Nagpur
+515,Hotel Al-Zam Zam,," North Indian, Mughlai, Chinese",₹ 700 for 2 (approx) ,Lakadganj, East Nagpur
+516,Choti Lahori,," Fast Food, Chinese, North Indian, Mughlai, Biryani","₹ 1,000 for 2 (approx) ",Dharampeth, West Nagpur
+517,Eat Street Express,," North Indian, Chinese",₹ 600 for 2 (approx) ,Dharampeth, West Nagpur
+518,Hotel Chariot,," Chinese, North Indian, Fast Food",₹ 700 for 2 (approx) ,Dharampeth, West Nagpur
+519,Gayatri Bhojnalaya,, Maharashtrian,₹ 300 for 2 (approx) ,Dharampeth, West Nagpur
+520,La Horee Deluxe Bar And Restaurant,," Chinese, North Indian","₹ 1,600 for 2 (approx) ",Dharampeth, West Nagpur
+521,The Blue Door,," Chinese, Italian, North Indian","₹ 1,200 for 2 (approx) ",Gokulpeth, West Nagpur
+522,Plated,5," North Indian, Chinese, Italian","₹ 1,300 for 2 (approx) ",Hingna T Point, South Nagpur
+523,7th Heaven Cake Shop,, Desserts,₹ 300 for 2 (approx) ,Gokulpeth, West Nagpur
+524,Jubilee Bakery,, Fast Food,₹ 400 for 2 (approx) ,Chhaoni, North Nagpur
+525,The Momo's Hut,, Fast Food,₹ 700 for 2 (approx) ,Sadar, West Nagpur
+526,Domino's Pizza,5," Pizza, Fast Food",₹ 500 for 2 (approx) ,Mankapur, North Nagpur
+527,Yello Cafe And Restro,," Chinese, North Indian, Fast Food, Street Food","₹ 1,000 for 2 (approx) ",Civil Lines, West Nagpur
+528,Crisp's by Shazz,, North Indian,₹ 300 for 2 (approx) ,Chhaoni, North Nagpur
+529,Firangi Kitchen By Nagpur Chi Khaugalli,, Fast Food,₹ 300 for 2 (approx) ,Bajaj Nagar, West Nagpur
+530,Theobroma,, Desserts,₹ 700 for 2 (approx) ,Byramji Town, North Nagpur
+531,Pizza Hut - 2253,," Pizza, Fast Food",₹ 800 for 2 (approx) ,Chhaoni, North Nagpur
+532,The Kitchen Dairies,, North Indian,₹ 400 for 2 (approx) ,Chhaoni, North Nagpur
+533,Shivshakti Ice Cream,, Desserts,₹ 600 for 2 (approx) ,Dharampeth, West Nagpur
+534,Raj Bhandar,, Street Food,₹ 200 for 2 (approx) ,Dharampeth, West Nagpur
+535,Domino's Pizza,," Pizza, Fast Food",₹ 500 for 2 (approx) ,Sadar, West Nagpur
+536,Cafe Fidatoj,4.1," Fast Food, Italian, Chinese",₹ 800 for 2 (approx) ,Hingna T Point, South Nagpur
+537,Cake Links,,,₹ 400 for 2 (approx),Dharampeth, West Nagpur
+538,Thaliwala.Com,, North Indian,₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+539,The Corner House,," North Indian, Maharashtrian, Mughlai, Chinese","₹ 1,200 for 2 (approx) ",Bajaj Nagar, West Nagpur
+540,Hotel Al Zam Zam,," North Indian, Chinese, Mughlai, Biryani",₹ 700 for 2 (approx) ,Dharampeth, West Nagpur
+541,Ustad Kitchen,," Fast Food, North Indian",₹ 500 for 2 (approx) ,Bajaj Nagar, West Nagpur
+542,Panino The Sandwich World,, Fast Food,₹ 200 for 2 (approx) ,"Poonam Chambers,Sadar", West Nagpur
+543,Opulence Cafe Time,," Fast Food, Pizza",₹ 700 for 2 (approx) ,Gokulpeth, West Nagpur
+544,Haldiram's Planet Food,," North Indian, Continental, South Indian, Chinese, Desserts",₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+545,Baskin Robbins,, Desserts,₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+546,Mocha Sky,4.3," Fast Food, North Indian","₹ 1,600 for 2 (approx) ",Wardha Road, South Nagpur
+547,Fuel Station Cafe & Restro,," Chinese, Fast Food, Pizza","₹ 1,000 for 2 (approx) ",Dharampeth, West Nagpur
+548,CHAKNA KITCHEN,, North Indian,₹ 400 for 2 (approx) ,Bajaj Nagar, West Nagpur
+549,The Common Ground - Coffee Bar,," Chinese, North Indian, Fast Food, Mughlai","₹ 1,000 for 2 (approx) ",Bajaj Nagar, West Nagpur
+550,Al Zam Zam,, North Indian,₹ 700 for 2 (approx) ,Lakadganj, East Nagpur
+551,The Kathi Crossing,," North Indian, Fast Food",₹ 400 for 2 (approx) ,Sadar, West Nagpur
+552,Fusion,," Chinese, Continental, North Indian",₹ 600 for 2 (approx) ,Lakadganj, East Nagpur
+553,Mizaaj Mughlai Restaurant,2," North Indian, Chinese, Mughlai",₹ 800 for 2 (approx) ,Hingna T Point, South Nagpur
+554,Villa 55,," North Indian, Italian, Fast Food, Desserts",₹ 600 for 2 (approx) ,Gokulpeth, West Nagpur
+555,The Kathi Crossing,, Fast Food,₹ 600 for 2 (approx) ,Civil Lines, West Nagpur
+556,Shahi Handi,," North Indian, Chinese, Mughlai, Seafood",₹ 500 for 2 (approx) ,Gokulpeth, West Nagpur
+557,Arabian Taj,," North Indian, Chinese, Mughlai, Biryani",₹ 900 for 2 (approx) ,pachpaoli, East Nagpur
+558,The Health cafe,, Fast Food,₹ 200 for 2 (approx) ,Gokulpeth, West Nagpur
+559,The Crave Factory,, Fast Food,₹ 500 for 2 (approx) ,pachpaoli, East Nagpur
+560,Mumbai Vada Pav,," Fast Food, Street Food",₹ 300 for 2 (approx) ,Nandanvan, East Nagpur
+561,New Grand Restaurant And Bar,1," North Indian, Chinese","₹ 1,600 for 2 (approx) ",Pratap Nagar, South Nagpur
+562,Heena Bar & Restaurant,, North Indian,₹ 800 for 2 (approx) ,Nandanvan, East Nagpur
+563,Pappe-Da,, North Indian,"₹ 1,000 for 2 (approx) ",Lakadganj, East Nagpur
+564,Rsvp Restrobar & Rooftop,3.5," Mughlai, North Indian, Continental, Fast Food",₹ 800 for 2 (approx) ,Hingna T Point, South Nagpur
+565,SuCasa,, North Indian,₹ 400 for 2 (approx) ,Gokulpeth, West Nagpur
+566,Cream Bell,, Desserts,₹ 200 for 2 (approx) ,pachpaoli, East Nagpur
+567,Tauby's,," Desserts, Fast Food",₹ 500 for 2 (approx) ,Bajaj Nagar, West Nagpur
+568,Usalad And Greens,, Health Food,₹ 300 for 2 (approx) ,Sadar, West Nagpur
+569,Owl Night Cafe,, Fast Food,₹ 400 for 2 (approx) ,Nandanvan, East Nagpur
+570,Regenta Central - Deja Brew,," Fast Food, North Indian",₹ 600 for 2 (approx) ,Nandanvan, East Nagpur
+571,Cake's Inn,, Desserts,₹ 300 for 2 (approx) ,Bajaj Nagar, West Nagpur
+572,Bro's Cafe,, Fast Food,₹ 500 for 2 (approx) ,Jaripatka, North Nagpur
+573,Subway,," Fast Food, Health Food, Beverages",₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+574,Domino's Pizza,," Pizza, Fast Food",₹ 500 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+575,Cheesino's,, Fast Food,₹ 500 for 2 (approx) ,Dharampeth, West Nagpur
+576,Sagar Restaurant,5," North Indian, Chinese, Seafood","₹ 1,100 for 2 (approx) ",Mankapur, North Nagpur
+577,Casino Family Restaurant,," Chinese, North Indian",₹ 800 for 2 (approx) ,Ravi Nagar, West Nagpur
+578,Dalchini Curries and More,," North Indian, Maharashtrian",₹ 800 for 2 (approx) ,Bajaj Nagar, West Nagpur
+579,Assal Varhadi,, North Indian,₹ 400 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+580,Hotel Surahi Bar,, North Indian,"₹ 1,200 for 2 (approx) ",Nandanvan, East Nagpur
+581,Goli Vada Pav,, Street Food,₹ 200 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+582,Quantity King,," Chinese, North Indian, Fast Food",₹ 700 for 2 (approx) ,Bajaj Nagar, West Nagpur
+583,Cafe Coffee Day,," Beverages, Fast Food",₹ 700 for 2 (approx) ,"Hotel Ashok,Bajaj Nagar", West Nagpur
+584,MO's Family Restaurant,," Chinese, North Indian",₹ 600 for 2 (approx) ,Bajaj Nagar, West Nagpur
+585,Goli Vada Pav,, Street Food,₹ 200 for 2 (approx) ,Nandanvan, East Nagpur
+586,Chill House Cafe,, Fast Food,₹ 400 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+587,The Hungry Heads,, Fast Food,₹ 300 for 2 (approx) ,pachpaoli, East Nagpur
+588,Cafe Coffee Day,1.3," Beverages, Fast Food",₹ 700 for 2 (approx) ,Gayatri Nagar, South Nagpur
+589,Khan Biryani,, Biryani,₹ 400 for 2 (approx) ,Nandanvan, East Nagpur
+590,Fuel Blend,,,₹ 300 for 2 (approx),Bajaj Nagar, West Nagpur
+591,Cafe Mayamia,," Fast Food, Italian",₹ 700 for 2 (approx) ,Bajaj Nagar, West Nagpur
+592,Al Zam Zam,, North Indian,₹ 700 for 2 (approx) ,Vivekanand Nagar, South Nagpur
+593,Panino The Sandwich World,, Fast Food,₹ 200 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+594,Goli Vada Pav,, Street Food,₹ 200 for 2 (approx) ,Jaripatka, North Nagpur
+595,Singh's Paratha,, North Indian,₹ 400 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+596,Biryani Aladin,, Biryani,₹ 400 for 2 (approx) ,Gandhibagh, East Nagpur
+597,Desi Grill,," North Indian, Chinese",₹ 500 for 2 (approx) ,Nandanvan, East Nagpur
+598,7 Horse Cafe,," Fast Food, Pizza, Italian",₹ 600 for 2 (approx) ,Nandanvan, East Nagpur
+599,Plan B - Burger Bar,," Burger, Fast Food",₹ 500 for 2 (approx) ,Bajaj Nagar, West Nagpur
+600,Baskin Robbins,, Desserts,₹ 400 for 2 (approx) ,Bajaj Nagar, West Nagpur
+601,Cafe Coffee Day,," Beverages, Fast Food",₹ 700 for 2 (approx) ,Bajaj Nagar, West Nagpur
+602,Biryani Kingdom,," Biryani, North Indian",₹ 400 for 2 (approx) ,Ravi Nagar, West Nagpur
+603,Bailey's Fumee,, Fast Food,₹ 300 for 2 (approx) ,Jaripatka, North Nagpur
+604,Indian Kitchen By Shidori Delights,," Maharashtrian, North Indian",₹ 700 for 2 (approx) ,Dharampeth, West Nagpur
+605,Euphoria Restaurant,," North Indian, Chinese, South Indian",₹ 600 for 2 (approx) ,Nandanvan, East Nagpur
+606,The Dhaba Factory,," North Indian, Chinese, Desserts","₹ 1,100 for 2 (approx) ",Jaripatka, North Nagpur
+607,Lafarine Patisserie,, Desserts,₹ 500 for 2 (approx) ,Bajaj Nagar, West Nagpur
+608,Tadka Bhojanalay,, North Indian,₹ 500 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+609,Domino's Pizza,," Pizza, Fast Food",₹ 500 for 2 (approx) ,Lakadganj, East Nagpur
+610,Goli Vada Pav,, Street Food,₹ 200 for 2 (approx) ,Bajaj Nagar, West Nagpur
+611,Goli Vada Pav,, Street Food,₹ 200 for 2 (approx) ,Lakadganj, East Nagpur
+612,Craving Windows,, Fast Food,₹ 400 for 2 (approx) ,Bajaj Nagar, West Nagpur
+613,Burger Singh,," Burger, Fast Food, Beverages",₹ 800 for 2 (approx) ,Bajaj Nagar, West Nagpur
+614,Cafe Mystic,," Fast Food, Italian",₹ 500 for 2 (approx) ,"Shraddhanad Peth Square,Bajaj Nagar", West Nagpur
+615,Cafe Hood 11,, Fast Food,₹ 800 for 2 (approx) ,Dharampeth, West Nagpur
+616,Durva Restaurant,," Chinese, North Indian, Fast Food",₹ 900 for 2 (approx) ,Dhantoli, West Nagpur
+617,Panino The Sandwich World,, Fast Food,₹ 200 for 2 (approx) ,Dharampeth, West Nagpur
+618,The Kathi Crossing,, Fast Food,₹ 300 for 2 (approx) ,Dharampeth, West Nagpur
+619,Ambience Garden Restaurant,4," North Indian, Chinese, Continental",₹ 900 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+620,Hotel President Park,," North Indian, Chinese","₹ 1,500 for 2 (approx) ",Dharampeth, West Nagpur
+621,Amazing Blazing Cakes,, Fast Food,₹ 400 for 2 (approx) ,Jaripatka, North Nagpur
+622,Hotel Krishnum,," North Indian, South Indian, Fast Food",₹ 700 for 2 (approx) ,Vivekanand Nagar, South Nagpur
+623,PP'S Garage Pub,," North Indian, Chinese","₹ 1,000 for 2 (approx) ",Dharampeth, West Nagpur
+624,The Belgian Waffle Co,, Desserts,₹ 400 for 2 (approx) ,"Vighnaharta Complex,Pratap Nagar", South Nagpur
+625,Tandoor Studio by Outdoors,, Fast Food,₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+626,Variety Foods,, North Indian,₹ 500 for 2 (approx) ,Vivekanand Nagar, South Nagpur
+627,Family Foods,, North Indian,₹ 200 for 2 (approx) ,Vivekanand Nagar, South Nagpur
+628,Rajesh Samosa,," Fast Food, North Indian",₹ 300 for 2 (approx) ,Vivekanand Nagar, South Nagpur
+629,KFC,," Burger, Fast Food",₹ 600 for 2 (approx) ,Bajaj Nagar, West Nagpur
+630,Baba Taj Biryani And Barbeque,, Biryani,₹ 500 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+631,Foody Moody Restaurants,," Chinese, North Indian",₹ 600 for 2 (approx) ,Nandanvan, East Nagpur
+632,Tauby's,, Desserts,₹ 500 for 2 (approx) ,Vivekanand Nagar, South Nagpur
+633,Grand Kashmir Family Restaurant,," Chinese, North Indian, Mughlai",₹ 900 for 2 (approx) ,pachpaoli, East Nagpur
+634,Hotel Al-Zam Zam,," North Indian, Chinese, Mughlai","₹ 1,000 for 2 (approx) ",Vivekanand Nagar, South Nagpur
+635,Curry House,," Chinese, North Indian, Fast Food",₹ 600 for 2 (approx) ,Pratap Nagar, South Nagpur
+636,Domino's Pizza,," Pizza, Fast Food",₹ 500 for 2 (approx) ,Bajaj Nagar, West Nagpur
+637,Haldiram's Express,5," North Indian, Continental, South Indian, Chinese, Desserts",₹ 500 for 2 (approx) ,Hingna T Point, South Nagpur
+638,Patiala House,3," Mughlai, North Indian","₹ 1,200 for 2 (approx) ","Urban Hermitage,Wardha Road", South Nagpur
+639,Foody Moody,," North Indian, Chinese",₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+640,Metro Biryani Corner,, Biryani,₹ 400 for 2 (approx) ,Manish Nagar, South Nagpur
+641,DJ Hard Rock,," Chinese, North Indian","₹ 1,200 for 2 (approx) ",Jaripatka, North Nagpur
+642,Nimje Saoji Restaurant,," Chinese, North Indian",₹ 500 for 2 (approx) ,Wardha Road, South Nagpur
+643,Aura Cafe And Lounge,, Fast Food,₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+644,Waghmare Saoji,," North Indian, Maharashtrian",₹ 500 for 2 (approx) ,Manish Nagar, South Nagpur
+645,Goli Vada Pav,, Street Food,₹ 200 for 2 (approx) ,Pratap Nagar, South Nagpur
+646,Enfield Cafe,, Fast Food,₹ 300 for 2 (approx) ,Pratap Nagar, South Nagpur
+647,The Punjabi Grill,, North Indian,₹ 900 for 2 (approx) ,Wardha Road, South Nagpur
+648,Rolls Mania,, Fast Food,₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+649,Cream Bell,, Desserts,₹ 200 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+650,Cafe Emoji,, Fast Food,₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+651,Joyo Cake,, Desserts,₹ 800 for 2 (approx) ,Nandanvan, East Nagpur
+652,Varhadi Vyanjan,," North Indian, Maharashtrian",₹ 300 for 2 (approx) ,Pratap Nagar, South Nagpur
+653,D'Arabian Cafe,, Fast Food,₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+654,Matichi Handi,, North Indian,₹ 800 for 2 (approx) ,Pratap Nagar, South Nagpur
+655,Al Hamd Restaurant,," Chinese, North Indian, Biryani",₹ 900 for 2 (approx) ,Mankapur, North Nagpur
+656,The Sandwich Store,, Fast Food,₹ 400 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+657,Singh's BarbeQ And Currys,, North Indian,₹ 800 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+658,The Kathi Crossing,, Fast Food,₹ 300 for 2 (approx) ,Pratap Nagar, South Nagpur
+659,Pizza Hut - 2252,," Pizza, Fast Food",₹ 800 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+660,Hotel Al Khabir,," Biryani, North Indian",₹ 500 for 2 (approx) ,Gittikhadan, North Nagpur
+661,Manu's Missal Co,, Fast Food,₹ 300 for 2 (approx) ,Pratap Nagar, South Nagpur
+662,Magic Food Court,," Chinese, Fast Food, North Indian","₹ 1,000 for 2 (approx) ",Jaripatka, North Nagpur
+663,Cream Bell,, Desserts,₹ 200 for 2 (approx) ,Pratap Nagar, South Nagpur
+664,Spanish Multicuisine Restaurant,," Chinese, North Indian","₹ 1,000 for 2 (approx) ",Jaripatka, North Nagpur
+665,TCK Restaurant,," Continental, North Indian","₹ 2,200 for 2 (approx) ","Radisson Blu Hotel Nagpur,Wardha Road", South Nagpur
+666,The Indian Grill,," Chinese, North Indian",₹ 900 for 2 (approx) ,Jaripatka, North Nagpur
+667,Sagar,," Chinese, North Indian",₹ 600 for 2 (approx) ,Jaripatka, North Nagpur
+668,Domino's Pizza,," Pizza, Fast Food",₹ 500 for 2 (approx) ,"Poonam Mall,Wardhaman Nagar", East Nagpur
+669,Cafe Illusions,," Pizza, Burger, Fast Food","₹ 1,200 for 2 (approx) ",Pratap Nagar, South Nagpur
+670,Panino The Sandwich World,, Fast Food,₹ 200 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+671,Amber Restaurant & Bar,, North Indian,"₹ 1,000 for 2 (approx) ",Pratap Nagar, South Nagpur
+672,Raj Bhandar,, Street Food,₹ 200 for 2 (approx) ,Pratap Nagar, South Nagpur
+673,Short Order,," Chinese, North Indian, Fast Food",₹ 600 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+674,Kitchen Glory,, North Indian,₹ 600 for 2 (approx) ,Wardha Road, South Nagpur
+675,Cream Bell,, Desserts,₹ 200 for 2 (approx) ,Gittikhadan, North Nagpur
+676,Mock Drills,, North Indian,₹ 400 for 2 (approx) ,Manish Nagar, South Nagpur
+677,Iora Restaurant,," North Indian, Chinese","₹ 1,000 for 2 (approx) ",Wardhaman Nagar, East Nagpur
+678,Paradise Restaurant,, North Indian,₹ 300 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+679,Patiala Foods And Family Restaurants,, North Indian,₹ 400 for 2 (approx) ,Jaripatka, North Nagpur
+680,Domino's Pizza,," Pizza, Italian",₹ 500 for 2 (approx) ,"Pioneers Sunshine,Gittikhadan", North Nagpur
+681,Tibb's Frankie,, Fast Food,₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+682,The Cook-Do,, North Indian,₹ 600 for 2 (approx) ,Gittikhadan, North Nagpur
+683,Cafe Coffee Day,," Beverages, Fast Food",₹ 800 for 2 (approx) ,Pratap Nagar, South Nagpur
+684,Bonfire 69 family Garden Restaurant,, North Indian,₹ 700 for 2 (approx) ,Manish Nagar, South Nagpur
+685,Magic Hands Kitchen,," Maharashtrian, North Indian",₹ 500 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+686,Rock N Roll,," Fast Food, Lebanese",₹ 200 for 2 (approx) ,Sadar, West Nagpur
+687,Cafe Coffee Day,," Beverages, Fast Food",₹ 800 for 2 (approx) ,Wardha Road, South Nagpur
+688,Shawarmaasta,, Fast Food,₹ 400 for 2 (approx) ,Manish Nagar, South Nagpur
+689,Tauby's,, Desserts,₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+690,Five Fingers Magic,," Fast Food, North Indian, Chinese",₹ 300 for 2 (approx) ,Bajaj Nagar, West Nagpur
+691,Kartare Da Dhaba,, North Indian,₹ 400 for 2 (approx) ,Jaripatka, North Nagpur
+692,Mamma Mia Restro,," Fast Food, Street Food",₹ 300 for 2 (approx) ,Pratap Nagar, South Nagpur
+693,Only 4 You Cafe And Restro,, Fast Food,₹ 400 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+694,Mehfil Chinese Cuisine,, Chinese,₹ 300 for 2 (approx) ,Wardha Road, South Nagpur
+695,Indian Restro,, Fast Food,₹ 300 for 2 (approx) ,Bajaj Nagar, West Nagpur
+696,Biryani Darbar,, Biryani,₹ 400 for 2 (approx) ,Hingna T Point, South Nagpur
+697,Mr.Brownie,," Chinese, Fast Food",₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+698,Ugemuge Hotel,, North Indian,₹ 300 for 2 (approx) ,Dhantoli, West Nagpur
+699,Bhagwati Foods & Namkeen,, North Indian,₹ 400 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+700,Republic Of Food,, Fast Food,₹ 600 for 2 (approx) ,Gayatri Nagar, South Nagpur
+701,Biryani House,," North Indian, Biryani",₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+702,Chicago Pizza,," Pizza, Italian",₹ 400 for 2 (approx) ,Dharampeth, West Nagpur
+703,Glam Chilli,, Chinese,₹ 300 for 2 (approx) ,Pratap Nagar, South Nagpur
+704,Fastfood Galaxy,, Fast Food,₹ 200 for 2 (approx) ,Vivekanand Nagar, South Nagpur
+705,Bachlor Nawabi Thali,, North Indian,₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+706,Shree Balaji Family Restaurant,, North Indian,₹ 600 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+707,Paras Saoji,, North Indian,₹ 700 for 2 (approx) ,Dhantoli, West Nagpur
+708,Mumbai Vada Pav,," Fast Food, Street Food",₹ 300 for 2 (approx) ,Gandhibagh, East Nagpur
+709,Haldiram's Planet Food,," North Indian, South Indian, Fast Food, Street Food",₹ 300 for 2 (approx) ,Pratap Nagar, South Nagpur
+710,Haldiram's,," North Indian, Continental, South Indian, Chinese, Desserts",₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+711,Taste of Punjab,," North Indian, Mughlai, Chinese",₹ 900 for 2 (approx) ,Pratap Nagar, South Nagpur
+712,New Lucky Hotel,," North Indian, Biryani",₹ 500 for 2 (approx) ,Mankapur, North Nagpur
+713,Bouffage,," Continental, North Indian, Chinese, Fast Food, Italian, Mughlai, Seafood","₹ 1,200 for 2 (approx) ",Wardha Road, South Nagpur
+714,Vyanjan Restaurant,, North Indian,₹ 800 for 2 (approx) ,Manish Nagar, South Nagpur
+715,Yello,," Fast Food, Chinese",₹ 700 for 2 (approx) ,Pratap Nagar, South Nagpur
+716,Luveat Food Plaza,," Chinese, North Indian",₹ 400 for 2 (approx) ,Manish Nagar, South Nagpur
+717,Cocina n Caffena,," Fast Food, North Indian, Italian",₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+718,Crazy Cheesy Cafe,," Fast Food, Pizza",₹ 300 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+719,Underground Family Restaurant,," Chinese, North Indian",₹ 700 for 2 (approx) ,Manish Nagar, South Nagpur
+720,Cafe Durga,," Fast Food, Chinese, South Indian",₹ 300 for 2 (approx) ,Pratap Nagar, South Nagpur
+721,Pk Saoji,," Maharashtrian, North Indian",₹ 300 for 2 (approx) ,Manish Nagar, South Nagpur
+722,Maa Ki Rasoi,, North Indian,₹ 400 for 2 (approx) ,Wardha Road, South Nagpur
+723,Pokket Cafe,, Fast Food,₹ 500 for 2 (approx) ,Manish Nagar, South Nagpur
+724,Panino The Sandwich World,, Fast Food,₹ 200 for 2 (approx) ,"Ghanshyam Laxmi Apartment,Manish Nagar", South Nagpur
+725,The Den,," Chinese, North Indian",₹ 800 for 2 (approx) ,Pratap Nagar, South Nagpur
+726,Dahiya Momos,," Fast Food, Tibetan",₹ 300 for 2 (approx) ,"Mangalmurti Complex,Pratap Nagar", South Nagpur
+727,Dahiya Momos,," Fast Food, Tibetan",₹ 300 for 2 (approx) ,Manish Nagar, South Nagpur
+728,24×7 Kitchen,, North Indian,₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+729,Make My Cake,,,₹ 400 for 2 (approx),Pratap Nagar, South Nagpur
+730,Candle Light,," North Indian, Chinese","₹ 1,000 for 2 (approx) ",Pratap Nagar, South Nagpur
+731,Fusion Cafe & Outlet,," Continental, Fast Food",₹ 400 for 2 (approx) ,Manish Nagar, South Nagpur
+732,PB'S Kitchen,, North Indian,₹ 500 for 2 (approx) ,Nandanvan, East Nagpur
+733,Firestone Kitchen,, North Indian,₹ 300 for 2 (approx) ,Wardha Road, South Nagpur
+734,Nawabi Rasoi,," Biryani, North Indian",₹ 400 for 2 (approx) ,Jaripatka, North Nagpur
+735,Baskin Robbins,, Desserts,₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+736,C To 7 The Ware House Cafe,, Fast Food,₹ 200 for 2 (approx) ,Hingna T Point, South Nagpur
+737,Mohit Saoji,, Maharashtrian,₹ 500 for 2 (approx) ,Ayodhya Nagar, South Nagpur
+738,U And Me Cafe,, Fast Food,₹ 500 for 2 (approx) ,Manish Nagar, South Nagpur
+739,Shri Hari Krishna Restaurant,," Maharashtrian, North Indian",₹ 400 for 2 (approx) ,Manish Nagar, South Nagpur
+740,Pintu Saoji Restaurant,," Mughlai, North Indian, Maharashtrian",₹ 700 for 2 (approx) ,Pratap Nagar, South Nagpur
+741,Light House Cafe,, Fast Food,₹ 600 for 2 (approx) ,Wardhaman Nagar, East Nagpur
+742,Biryani Maniya,, Biryani,₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+743,Cluckers Fried Chicken Restaurant,," Burger, Fast Food",₹ 400 for 2 (approx) ,Manish Nagar, South Nagpur
+744,Goli Vada Pav,, Street Food,₹ 200 for 2 (approx) ,Manish Nagar, South Nagpur
+745,Hungers House Cafe & Resto,, Fast Food,₹ 700 for 2 (approx) ,Manish Nagar, South Nagpur
+746,Swad Sadan,, North Indian,₹ 500 for 2 (approx) ,Manish Nagar, South Nagpur
+747,Khatika's Vyanjan,," North Indian, Continental",₹ 500 for 2 (approx) ,Pratap Nagar, South Nagpur
+748,39 Heights,," North Indian, Chinese",₹ 800 for 2 (approx) ,Manish Nagar, South Nagpur
+749,Nagpur Darbar,," North Indian, Mughlai",₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+750,Jay Veeru Ki Rasoi,, North Indian,₹ 500 for 2 (approx) ,Hingna T Point, South Nagpur
+751,Cafe Eternia,," Fast Food, Pizza, Chinese",₹ 300 for 2 (approx) ,Manish Nagar, South Nagpur
+752,Sandwich King,, Fast Food,₹ 500 for 2 (approx) ,Hingna T Point, South Nagpur
+753,Babbu's Celebrations,," North Indian, Chinese",₹ 800 for 2 (approx) ,Hingna T Point, South Nagpur
+754,Larokar Rasoi,, North Indian,₹ 600 for 2 (approx) ,Hingna T Point, South Nagpur
+755,Domino's Pizza,, Fast Food,₹ 500 for 2 (approx) ,Koradi Road, North Nagpur
+756,Renu Restaurant And Mess,," North Indian, Desserts",₹ 300 for 2 (approx) ,Hingna T Point, South Nagpur
+757,Fuel Station,," Chinese, Fast Food","₹ 1,000 for 2 (approx) ",Hingna T Point, South Nagpur
+758,Apna Desi Chulha,, North Indian,₹ 500 for 2 (approx) ,Mankapur, North Nagpur
+759,V The Indian Cuisine,," North Indian, Chinese","₹ 1,400 for 2 (approx) ",Wardha Road, South Nagpur
+760,Haldiram's,," North Indian, Continental, South Indian, Chinese, Desserts",₹ 500 for 2 (approx) ,Manish Nagar, South Nagpur
+761,The Majestic Manor,," North Indian, Chinese",₹ 900 for 2 (approx) ,Wardha Road, South Nagpur
+762,Vegg-The Foody House,, North Indian,₹ 400 for 2 (approx) ,Pratap Nagar, South Nagpur
+763,Kutumb Bhojanalya,," North Indian, Maharashtrian",₹ 400 for 2 (approx) ,Hingna T Point, South Nagpur
+764,Blues Ale House,," North Indian, Chinese","₹ 1,500 for 2 (approx) ",Wardha Road, South Nagpur
+765,Via China,," North Indian, Chinese, Seafood","₹ 1,300 for 2 (approx) ",Wardha Road, South Nagpur
+766,Glisten Family Restaurant,," Mughlai, North Indian, Chinese, Continental","₹ 1,300 for 2 (approx) ",Vayu Sena, West Nagpur
+767,Advait Saoji And Family Garden Restaurant,, North Indian,₹ 600 for 2 (approx) ,Manish Nagar, South Nagpur
+768,The Second Crush,, Fast Food,₹ 500 for 2 (approx) ,Hingna T Point, South Nagpur
+769,Puran Da Dhaba,," North Indian, Mughlai, Street Food, Fast Food, Desserts, Beverages","₹ 1,000 for 2 (approx) ","The Pride Hotel,Wardha Road", South Nagpur
+770,Cafe Zero Mile,," Italian, Fast Food",₹ 400 for 2 (approx) ,Wardha Road, South Nagpur
+771,Beyonds,," North Indian, Chinese","₹ 1,100 for 2 (approx) ","Urban Hermitage,Wardha Road", South Nagpur
+772,Nirvana Multicuisine Restaurant,," North Indian, Chinese",₹ 900 for 2 (approx) ,Vayu Sena, West Nagpur
+773,Creamy Cakes,,,₹ 400 for 2 (approx),Ayodhya Nagar, South Nagpur
+774,Babbu's Hotel,," North Indian, Mughlai, Chinese",₹ 800 for 2 (approx) ,Hingna T Point, South Nagpur
+775,Eden Garden Restaurant,," North Indian, Chinese",₹ 800 for 2 (approx) ,Mankapur, North Nagpur
+776,The Food Garage,3," Chinese, North Indian",₹ 500 for 2 (approx) ,Mihan, North Nagpur
+777,The Casino - Restro N Lounge,," Chinese, Continental, North Indian","₹ 1,200 for 2 (approx) ",Kamptee, North Nagpur
+778,Capital Coffee,,,₹ 400 for 2 (approx),Hingna T Point, South Nagpur
+779,Cream Bell,, Desserts,₹ 200 for 2 (approx) ,pachpaoli, East Nagpur
+780,Panino The Sandwich World,, Fast Food,₹ 200 for 2 (approx) ,Hingna T Point, South Nagpur
+781,Domino's Pizza,," Pizza, Fast Food",₹ 500 for 2 (approx) ,Hingna T Point, South Nagpur
+782,Cake's Inn,, Desserts,₹ 300 for 2 (approx) ,Hingna T Point, South Nagpur
+783,Elisha's All Day Cafe,," Fast Food, North Indian",₹ 800 for 2 (approx) ,Hingna T Point, South Nagpur
+784,Hotel City Line,5," Chinese, North Indian","₹ 1,000 for 2 (approx) ",Gittikhadan, North Nagpur
+785,Hotel Heritage Embassy,," North Indian, Chinese","₹ 1,000 for 2 (approx) ",Hingna T Point, South Nagpur
+786,Nature's Garden Restaurant,," North Indian, Chinese","₹ 1,100 for 2 (approx) ",Ayodhya Nagar, South Nagpur
+787,Pawan Bhojanalay,, North Indian,₹ 700 for 2 (approx) ,Hingna T Point, South Nagpur
+788,Roof Garden,," North Indian, Chinese","₹ 1,000 for 2 (approx) ",Wardha Road, South Nagpur
+789,Rahul Restaurant,," Chinese, North Indian",₹ 500 for 2 (approx) ,Wadi, West Nagpur
+790,Pizza Hut - 2254,," Pizza, Fast Food",₹ 800 for 2 (approx) ,Hingna T Point, South Nagpur
+791,Foody Moody Restaurants,," Chinese, North Indian",₹ 600 for 2 (approx) ,Hingna T Point, South Nagpur
+792,Sindh Punjab Tadka,," North Indian, Biryani",₹ 800 for 2 (approx) ,Ramdaspeth, West Nagpur
+793,Singh Saab,4.8," Chinese, North Indian","₹ 1,100 for 2 (approx) ",pachpaoli, East Nagpur
+794,Punjabi Tadka,," Chinese, North Indian",₹ 900 for 2 (approx) ,Kamptee, North Nagpur
+795,Soni's Cafe & Restaurant,," North Indian, South Indian",₹ 500 for 2 (approx) ,Hingna T Point, South Nagpur
+796,Rang,," Chinese, Continental, North Indian, Italian",₹ 700 for 2 (approx) ,Mihan, North Nagpur
+797,Happy Returns Cake,,,₹ 800 for 2 (approx),Nandanvan, East Nagpur
+798,Royal Garden,," Chinese, Fast Food, North Indian",₹ 800 for 2 (approx) ,Wadi, West Nagpur
+799,Food Nation,, North Indian,₹ 500 for 2 (approx) ,Kamptee, North Nagpur
+800,Rang De Basanti,," Chinese, North Indian, Mughlai, Seafood",₹ 800 for 2 (approx) ,Wardha Road, South Nagpur
+801,Patola. Happy Fooding,," North Indian, Chinese","₹ 1,000 for 2 (approx) ",Mihan, North Nagpur
+802,Kairos Restro,4.5," Chinese, North Indian","₹ 1,000 for 2 (approx) ",Vayu Sena, West Nagpur
+803,Chokar Dhani,5, North Indian,₹ 600 for 2 (approx) ,Vayu Sena, West Nagpur
+804,GrandIsle Restaurant,," North Indian, Chinese",₹ 800 for 2 (approx) ,Vayu Sena, West Nagpur
+805,Kasbaa Hill Restaurant,3.7," Chinese, North Indian, Continental, Italian","₹ 1,000 for 2 (approx) ",Vayu Sena, West Nagpur
+806,Flaming Work,," Chinese, Continental, North Indian","₹ 1,000 for 2 (approx) ",Wardha Road, South Nagpur
+807,Under The Moon,4," Chinese, Continental, North Indian",₹ 700 for 2 (approx) ,Gittikhadan, North Nagpur
+808,Iora Palms Restaurant,," Chinese, North Indian, Continental",₹ 900 for 2 (approx) ,Wardha Road, South Nagpur
+809,Hotel Royal Regency,," North Indian, Chinese",₹ 600 for 2 (approx) ,Wardha Road, South Nagpur
+810,DYN Arts & Bakes,,,₹ 300 for 2 (approx),Dharampeth, West Nagpur
+811,Vidarbha Tadka,, North Indian,₹ 500 for 2 (approx) ,Manish Nagar, South Nagpur
+812,Spice Magic,, North Indian,₹ 400 for 2 (approx) ,Gittikhadan, North Nagpur
+813,Tauby's,," Desserts, Fast Food",₹ 500 for 2 (approx) ,Sadar, West Nagpur
+814,The Biryani Destination,, Biryani,₹ 300 for 2 (approx) ,Vivekanand Nagar, South Nagpur
+815,Dineout SteppinOut Cookbook,,,₹ 900 for 2 (approx),Subhash Nagar, Central Nagpur
+816,Singh's,," North Indian, Chinese",₹ 700 for 2 (approx) ,Dhantoli, West Nagpur

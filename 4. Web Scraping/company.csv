@@ -1,0 +1,1361 @@
+name,rating,service,No of employees,Company Age,Location
+TCS,3.8,IT Services & Consulting , 1 Lakh+ Employees , 55 years old ,Mumbai
+Accenture,4.1,IT Services & Consulting , 1 Lakh+ Employees , 34 years old ,Dublin
+Cognizant,3.9,IT Services & Consulting , 1 Lakh+ Employees , 29 years old ,Teaneck. New Jersey.
+Wipro,3.8,IT Services & Consulting , 1 Lakh+ Employees , 78 years old ,Bangalore/Bengaluru
+ICICI Bank,4.0,Banking , 1 Lakh+ Employees , 29 years old ,Mumbai
+HDFC Bank,3.9,Banking , 1 Lakh+ Employees , 29 years old ,Mumbai
+Infosys,3.9,IT Services & Consulting , 1 Lakh+ Employees , 42 years old ,Bengaluru/Bangalore
+Capgemini,3.9,IT Services & Consulting , 1 Lakh+ Employees , 56 years old ,Paris
+Tech Mahindra,3.7,IT Services & Consulting , 1 Lakh+ Employees , 37 years old ,Pune
+Genpact,4.0,IT Services & Consulting , 50k-1 Lakh Employees , 26 years old ,New York
+HCLTech,3.7,IT Services & Consulting , 1 Lakh+ Employees , 32 years old ,Noida
+Axis Bank,3.8,Banking , 50k-1 Lakh Employees , 30 years old ,Mumbai
+Concentrix Corporation,3.9,BPO , 10k-50k Employees , 40 years old ,Fremont
+IBM,4.1,Software Product , 50k-1 Lakh Employees , 112 years old ,Armonk
+Amazon,4.2,Internet , 1 Lakh+ Employees , 29 years old ,Seattle
+Reliance Jio,4.0,Telecom , 50k-1 Lakh Employees , 16 years old ,Navi Mumbai
+Larsen & Toubro Limited,4.0,Engineering & Construction , 1 Lakh+ Employees , 85 years old ,Mumbai
+HDB Financial Services,4.0,NBFC , 10k-50k Employees , 16 years old ,Ahmedabad
+Reliance Retail,3.9,Retail , 1 Lakh+ Employees , 17 years old ,Navi Mumbai
+Teleperformance,3.6,BPO , 10k-50k Employees , 45 years old ,Paris
+Vodafone Idea,4.2,Telecom , 10k-50k Employees , 5 years old ,Gandhinagar
+Deloitte,4.0,Management Consulting , 50k-1 Lakh Employees , 178 years old ,London
+Kotak Mahindra Bank,3.8,Banking , 10k-50k Employees , 20 years old ,Mumbai
+BYJU'S,3.2,EdTech , 1k-5k Employees , 12 years old ,Bangalore
+Reliance Industries,4.0,Oil & Gas , Public , 46 years old ,Navi Mumbai
+Bharti Airtel,4.0,Telecom , 10k-50k Employees , 28 years old ,Gurgaon/Gurugram
+Tata Motors,4.2,Automobile , 10k-50k Employees , 78 years old ,Pune
+Flipkart,4.1,Internet , 10k-50k Employees , 16 years old ,Bangalore
+Ernst & Young,3.7,Accounting & Auditing , 10k-50k Employees , 21 years old ,London
+WNS,3.6,BPO , 10k-50k Employees , 27 years old ,Mumbai
+IndusInd Bank,3.7,Banking , 10k-50k Employees , 29 years old ,Gurgaon/Gurugram
+Mahindra & Mahindra,4.2,Automobile , 1 Lakh+ Employees , 78 years old ,Mumbai
+DXC Technology,3.9,IT Services & Consulting , 10k-50k Employees , 6 years old ,Minato
+Infosys BPM,3.9,BPO , 10k-50k Employees , 21 years old ,Bangalore/Bengaluru
+IDFC FIRST Bank,4.0,Banking , 10k-50k Employees , 5 years old ,Mumbai
+Maruti Suzuki,4.2,Automobile , 10k-50k Employees , 40 years old ,New Delhi
+Bajaj Finserv,4.0,Insurance , 10k-50k Employees , 16 years old ,Pune
+Hinduja Global Solutions,4.0,Software Product , 10k-50k Employees , 23 years old ,Bangalore/Bengaluru
+Conneqt Business Solutions,3.7,Analytics & KPO , 10k-50k Employees , 21 years old ,Mumbai
+HSBC Group,4.1,Banking , 10k-50k Employees , 21 years old ,Pune
+iEnergizer,4.3,BPO , 10k-50k Employees , 23 years old ,Noida
+Startek,3.3,BPO , 10k-50k Employees , 6 years old ,Mumbai
+Ericsson,4.3,Telecom , 10k-50k Employees , 147 years old ,Stockholm
+Mphasis,3.6,IT Services & Consulting , 10k-50k Employees , 25 years old ,Bangalore/Bengaluru
+PwC,3.7,Accounting & Auditing , 10k-50k Employees , 143 years old ,London
+HDFC Life,4.1,Insurance , 10k-50k Employees , 1 years old ,Mumbai
+Yes Bank,3.9,Banking , 10k-50k Employees , 19 years old ,Mumbai
+Dr. Reddy's,4.2,Pharma , 10k-50k Employees , 39 years old ,Hyderabad/Secunderabad
+Asian Paints,4.1,Chemicals , 10k-50k Employees , 81 years old ,Mumbai
+Cipla Pharmaceutical,4.1,Pharma , 10k-50k Employees , 88 years old ,Mumbai
+Sutherland Global Services,3.8,IT Services & Consulting , 10k-50k Employees , 37 years old ,Pittsford
+NTT DATA,4.0,IT Services & Consulting , 10k-50k Employees , 35 years old ,Chiyoda City
+ICICI Prudential Life Insurance,4.1,Insurance , 10k-50k Employees , 23 years old ,Mumbai
+Jana Small Finance Bank,3.8,Banking , 10k-50k Employees , 17 years old ,Bangalore/Bengaluru
+EXL Service,3.8,Analytics & KPO , 10k-50k Employees , 24 years old ,New York City
+KPMG,3.7,Management Consulting , 10k-50k Employees , 36 years old ,Bengaluru/Bangalore
+HCL Group,3.8,IT Services & Consulting , 1 Lakh+ Employees , 47 years old ,Chennai
+Udaan,4.0,Internet , 1k-5k Employees , 7 years old ,Bangalore
+UltraTech Cement,4.2,Building Material , 10k-50k Employees , 40 years old ,Mumbai
+Lupin,4.1,Pharma , 10k-50k Employees , 55 years old ,Mumbai
+Bandhan Bank,3.8,Banking , 50k-1 Lakh Employees , 22 years old ,Kolkata
+Paytm,3.6,FinTech , 5k-10k Employees , 13 years old ,Noida
+Bajaj Finance,4.1,NBFC , 10k-50k Employees , 36 years old ,Pune
+L&T Infotech,3.8,IT Services & Consulting , 10k-50k Employees , 27 years old ,Mumbai
+Indian Army,4.7,Defence & Aerospace , 1 Lakh+ Employees , 128 years old ,New Delhi
+ITC,3.9,FMCG , 10k-50k Employees , 48 years old ,Kolkata
+AU Small Finance Bank,4.2,Financial Services , 10k-50k Employees , 27 years old ,Jaipur
+Mindtree,4.0,IT Services & Consulting , 10k-50k Employees , 24 years old ,Bangalore/Bengaluru
+Hindustan Unilever,4.2,FMCG , 10k-50k Employees , 90 years old ,Mumbai
+JP Morgan Chase,4.2,10k-50k Employees , Forbes Global 2000 , 23 years old ,New York
+FIS,3.9,IT Services & Consulting , 5k-10k Employees , 55 years old ,Jacksonville
+Ujjivan Small Finance Bank,4.1,Banking , 10k-50k Employees , 6 years old ,Bangalore/Bengaluru
+Delhivery,4.0,Logistics , 10k-50k Employees , 12 years old ,Delhi
+Wells Fargo,4.2,Banking , 10k-50k Employees , 171 years old ,San Francisco
+IIFL Finance,3.8,Financial Services , 10k-50k Employees , 28 years old ,Mumbai
+Amazon Development Centre India,4.2,Hyderabad/Secunderabad +48 more,,,Hyderabad/Secunderabad
+Home Credit Finance,4.1,Financial Services , 5k-10k Employees , 11 years old ,Gurugram
+Quess,4.0,Recruitment , 1 Lakh+ Employees , 16 years old ,Bangalore
+Sun Pharmaceutical Industries,4.1,Pharma , 10k-50k Employees , 40 years old ,Mumbai
+TATA Steel,4.1,Iron & Steel , 1 Lakh+ Employees , 116 years old ,Mumbai
+Hexaware Technologies,3.7,IT Services & Consulting , 10k-50k Employees , 33 years old ,Mumbai
+OPPO,3.9,Consumer Electronics & Appliances , 10k-50k Employees , 19 years old ,Dongguan
+Shapoorji Pallonji Group,4.2,Engineering & Construction , 5k-10k Employees , 158 years old ,Mumbai
+JSW Steel,3.9,Iron & Steel , 10k-50k Employees , 41 years old ,Mumbai
+Ashok Leyland,4.1,Automobile , 10k-50k Employees , 75 years old ,Chennai
+Shriram Transport Finance,4.1,NBFC , 10k-50k Employees , 44 years old ,Mumbai
+Aurobindo Pharma,4.0,Pharma , 10k-50k Employees , 37 years old ,Hyderabad/Secunderabad
+Max Life Insurance,4.1,Insurance , 10k-50k Employees , 23 years old ,Gurgaon/Gurugram
+Vivo,4.0,Consumer Electronics & Appliances , 5k-10k Employees , 14 years old ,Gurgaon/Gurugram
+Muthoot Finance,3.6,NBFC , 10k-50k Employees , 84 years old ,Kochi/Cochin
+eClerx,3.5,IT Services & Consulting , 10k-50k Employees , 23 years old ,Mumbai
+Zydus Cadila,4.2,Pharma , 10k-50k Employees , 71 years old ,Ahmedabad
+Oracle,3.9,Software Product , 50k-1 Lakh Employees , 46 years old ,Austin
+Siemens,4.2,Power , 5k-10k Employees , 176 years old ,Munich
+Apollo Hospitals,4.1,Healthcare , 50k-1 Lakh Employees , 40 years old ,Chennai
+Mahindra & Mahindra Financial Services,4.3,NBFC , 10k-50k Employees , 32 years old ,Mumbai
+Tata Projects,4.2,Engineering & Construction , 10k-50k Employees , 44 years old ,Mumbai
+JLL,4.2,Real Estate , 5k-10k Employees , 26 years old ,Mumbai
+Capgemini Technology Services India Limited,4.0,Bengaluru/Bangalore +31 more,,,Bengaluru/Bangalore
+First Source,3.9,BPO , 10k-50k Employees , 22 years old ,Mumbai
+Hero MotoCorp,4.1,Automobile , 5k-10k Employees , 39 years old ,Gurgaon/Gurugram
+Hewlett-Packard Enterprise,4.3,Emerging Technologies , 10k-50k Employees , 8 years old ,Houston
+JustDial,3.6,Internet , 10k-50k Employees , 27 years old ,Mumbai
+Bajaj Allianz Life Insurance,4.1,Insurance , 10k-50k Employees , 22 years old ,Pune
+Omega Healthcare,3.7,IT Services & Consulting , 5k-10k Employees , 19 years old ,Florida
+Cyient,3.7,IT Services & Consulting , 10k-50k Employees , 32 years old ,Hyderabad/Secunderabad
+Megha Engineering & Infrastructures,4.1,Engineering & Construction , 1k-5k Employees , 34 years old ,Hyderabad/Secunderabad
+L&T Construction,4.0,Engineering & Construction , 10k-50k Employees , 79 years old ,Chennai
+Hyundai Motor,4.3,Automobile , 10k-50k Employees , 56 years old ,Seoul
+D Mart,3.9,Retail , 10k-50k Employees , 4 years old ,Mumbai
+Reliance Communications,3.9,Telecom , 10k-50k Employees , 21 years old ,Navi Mumbai
+TVS Motor,4.0,Automobile , 10k-50k Employees , 44 years old ,Chennai
+BigBasket,4.0,Internet , 10k-50k Employees , 12 years old ,Bangalore
+Bosch,4.3,Auto Components , 10k-50k Employees , 137 years old ,Gerlingen
+Oyo Rooms,3.4,Hospitality , 1k-5k Employees , 10 years old ,Gurgaon
+Indiamart Intermesh,3.7,Internet , 10k-50k Employees , 27 years old ,Noida
+Intelenet Global Services,3.7,BPO , 10k-50k Employees , 23 years old ,Mumbai
+Manappuram Finance,3.9,NBFC , 10k-50k Employees , 74 years old ,Thrissur/Trichur
+Atos Syntel,3.6,IT Services & Consulting , 5k-10k Employees , 43 years old ,Troy
+Future Group,4.2,Retail , 10k-50k Employees , 10 years old ,Mumbai
+SBI Cards & Payment Services,3.7,Financial Services , 1k-5k Employees , 25 years old ,Gurgaon/Gurugram
+BNY Mellon,4.1,IT Services & Consulting , 5k-10k Employees , 19 years old ,New York City
+Cummins,4.4,Auto Components , 10k-50k Employees , 61 years old ,Columbus
+Bosch Global Software Technologies,4.2,Software Product , 10k-50k Employees , 33 years old ,Gerlingen
+Wipro BPS,3.8,IT Services & Consulting , 1 Lakh+ Employees , 23 years old ,Bengaluru
+UST,3.8,IT Services & Consulting , 10k-50k Employees , 22 years old ,Aliso Viejo
+IQVIA,4.1,Clinical Research , 10k-50k Employees , 41 years old ,Durham
+Coforge,3.6,IT Services & Consulting , 10k-50k Employees , 19 years old ,Noida
+Amdocs,4.0,Software Product , 10k-50k Employees , 41 years old ,Chesterfield
+Fullerton India,4.1,Financial Services , 10k-50k Employees , 16 years old ,Mumbai
+Schneider Electric,4.1,Industrial Automation , 10k-50k Employees , 24 years old ,Paris
+Samsung,4.1,5k-10k Employees , Public , 85 years old ,Seoul
+Nagarro,4.4,IT Services & Consulting , 10k-50k Employees , 27 years old ,Munich
+ICICI Lombard General Insurance Company,3.8,Insurance , 10k-50k Employees , 22 years old ,Mumbai
+GlobalLogic,3.8,IT Services & Consulting , 10k-50k Employees , 23 years old ,San Jose
+CBRE,4.2,Real Estate , 10k-50k Employees , 117 years old ,Los Angeles
+Virtusa Consulting Services,3.8,IT Services & Consulting , 10k-50k Employees , 27 years old ,Southborough
+JBM Group,4.0,Auto Components , 10k-50k Employees , 40 years old ,Gurgaon/Gurugram
+Dell,4.1,Consumer Electronics & Appliances , 10k-50k Employees , 39 years old ,Round Rock
+Ecom Express,4.1,Logistics , 10k-50k Employees , 11 years old ,Gurgaon
+Bajaj Auto,3.9,Automobile , 5k-10k Employees , 78 years old ,Pune
+State Bank of India,3.8,Banking , 1 Lakh+ Employees , 217 years old ,Mumbai
+Cholamandalam Investment & Finance,4.1,NBFC , 5k-10k Employees , 45 years old ,Chennai
+Equitas Small Finance Bank,4.1,Banking , 10k-50k Employees , 16 years old ,Chennai
+Viatris,4.2,Pharma , 10k-50k Employees , 62 years old ,Canonsburg
+Swiggy,4.0,Internet , 5k-10k Employees , 9 years old ,Bangalore
+Samvardhana Motherson Group,3.8,Auto Components , 5k-10k Employees , 37 years old ,Noida
+KEC International,4.1,Real Estate , 5k-10k Employees , 78 years old ,Mumbai
+Nagarjuna Construction Company,4.1,Engineering & Construction , 1k-5k Employees , 25 years old ,Hyderabad/Secunderabad
+Aditya Birla Fashion and Retail,4.2,Retail , 10k-50k Employees , 8 years old ,Mumbai
+SBI Life Insurance Company,3.8,Insurance , 10k-50k Employees , 22 years old ,Mumbai
+Ekart Logistics,4.1,Logistics , 5k-10k Employees , 14 years old ,San Francisco
+Muthoot Fincorp,4.0,NBFC , 10k-50k Employees , 136 years old ,Trivandrum/Thiruvananthapuram
+Godrej & Boyce Manufacturing,3.9,FMCG , 10k-50k Employees , 126 years old ,Mumbai
+Royal Enfield,4.2,Automobile , 1k-5k Employees , 122 years old ,Gurgaon/Gurugram
+L&T Technology Services,3.4,IT Services & Consulting , 10k-50k Employees , 11 years old ,Vadodara/Baroda
+Optum,4.1,Healthcare , 10k-50k Employees , 46 years old ,Prairie
+Tata Communications,4.2,Telecom , 5k-10k Employees , 37 years old ,Mumbai
+LG Electronics,4.0,Consumer Electronics & Appliances , 10k-50k Employees , 65 years old ,Seoul
+Piramal Capital Housing Finance,4.3,NBFC , 5k-10k Employees , 3 years old ,Mumbai
+John Deere,4.3,IT Services & Consulting , 5k-10k Employees , 22 years old ,Moline
+Whitehat jr,3.6,EdTech , 5k-10k Employees , 5 years old ,Mumbai
+L&T Finance,4.0,NBFC , 10k-50k Employees , 29 years old ,Mumbai
+Intas Pharmaceuticals,4.2,Pharma , 10k-50k Employees , 23 years old ,Ahmedabad
+Thermax Limited,4.2,Industrial Machinery , 5k-10k Employees , 43 years old ,Pune
+Varun Beverages,4.0,Beverage , 10k-50k Employees , 28 years old ,Gurgaon/Gurugram
+Hetero Drugs,3.8,Pharma , 1k-5k Employees , 30 years old ,Hyderabad/Secunderabad
+UnitedHealth,4.2,Healthcare , 10k-50k Employees , 46 years old ,Minnetonka
+Ford Motor,4.5,Automobile , 5k-10k Employees , 120 years old ,Dearborn
+Sodexo,4.1,Facility Management Services , 10k-50k Employees , 15 years old ,Issy les Moulineaux
+Abbott Healthcare,4.2,Pharma , 1k-5k Employees , 32 years old ,Illinois City
+Deutsche Bank,4.1,Banking , 10k-50k Employees , 153 years old ,Frankfurt
+Subros,4.0,Auto Components , 1k-5k Employees , 38 years old ,Noida
+Randstad,3.9,1k-5k Employees , Conglomerate , 31 years old ,Chennai
+Macleods Pharmaceuticals,3.8,Pharma , 5k-10k Employees , 37 years old ,Mumbai
+VE Commercial Vehicles,4.0,Automobile , 1k-5k Employees , 15 years old ,Gurgaon/Gurugram
+Automatic Data Processing (ADP),4.2,IT Services & Consulting , 5k-10k Employees , 74 years old ,New Jersey
+American Express,4.3,Financial Services , 10k-50k Employees , 173 years old ,New York City
+CARS24,3.6,Internet , 5k-10k Employees , 8 years old ,Gurgaon
+Havells,4.1,Electrical Equipment , 5k-10k Employees , 40 years old ,Noida
+Wipro Consumer Care & Lighting,3.7,FMCG , 1k-5k Employees , 78 years old ,Bangalore/Bengaluru
+Pidilite Industries,4.3,Chemicals , 5k-10k Employees , 64 years old ,Mumbai
+Alkem Laboratories,4.0,Pharma , 10k-50k Employees , 50 years old ,Mumbai
+Hindustan Coca Cola Beverages,4.4,Beverage , 5k-10k Employees , 26 years old ,Bangalore
+Bharat Electronics,4.1,Consumer Electronics & Appliances , 5k-10k Employees , 69 years old ,Bangalore/Bengaluru
+Indian Air Force,4.6,Defence & Aerospace , 1 Lakh+ Employees , 91 years old ,New Delhi
+Alembic Pharmaceuticals,4.0,Pharma , 10k-50k Employees , 116 years old ,Vadodara/Baroda
+Axis Direct,4.0,Financial Services , 1k-5k Employees , 12 years old ,San Mateo
+Wipro Infotech,4.0,IT Services & Consulting , 1 Lakh+ Employees (Global) , 78 years old ,Bangalore
+Atos,3.9,IT Services & Consulting , 201-500 Employees , 26 years old ,Vilnius
+Team Lease,3.9,Recruitment , 1k-5k Employees , 7 years old ,Bangalore/Bengaluru
+Cgi Group,4.2,IT Services & Consulting , 10k-50k Employees , 47 years old ,Montreal
+Hindalco Industries,4.3,Metals & Mining , 10k-50k Employees , 65 years old ,Mumbai
+Vishal Mega Mart,3.8,Retail , 10k-50k Employees , 15 years old ,Gurgaon/Gurugram
+DCB Bank,3.9,Banking , 5k-10k Employees , 93 years old ,Mumbai
+Persistent Systems,3.9,IT Services & Consulting , 10k-50k Employees , 33 years old ,Pune
+Publicis Sapient,3.6,IT Services & Consulting , 10k-50k Employees , 33 years old ,New York
+CMS IT Services,3.2,IT Services & Consulting , 5k-10k Employees , 9 years old ,Bangalore
+ABB Group,4.1,Electrical Equipment , 10k-50k Employees , 35 years old ,Zurich
+Glenmark Pharmaceuticals,4.0,Pharma , 501-1k Employees , 46 years old ,Mumbai
+Ipca Laboratories,4.0,Pharma , 10k-50k Employees , 74 years old ,Mumbai
+NatWest Group,4.1,Banking , 10k-50k Employees , Forbes Global 2000 ,Gurgaon/Gurugram
+Honda Motorcycle & Scooter,4.2,Automobile , 1k-5k Employees , 24 years old ,Gurgaon/Gurugram
+DTDC Express,3.8,Logistics , 1k-5k Employees , 33 years old ,Bangalore/Bengaluru
+Standard Chartered Bank,4.0,Banking , 10k-50k Employees , 54 years old ,London
+MRF Tyres,3.7,Auto Components , 10k-50k Employees , 77 years old ,Chennai
+Bank of America,4.4,Banking , 10k-50k Employees , 25 years old ,Charlotte
+Maersk,4.3,Logistics , 10k-50k Employees , 119 years old ,Copenhagen
+Aarti Industries,4.1,Chemicals , 5k-10k Employees , 48 years old ,Mumbai
+R1 RCM,3.9,Accounting & Auditing , 5k-10k Employees , 20 years old ,Murray
+GATI-KWE,4.1,Logistics , 1k-5k Employees , 11 years old ,Hyderabad/Secunderabad
+Reliance Nippon Life Insurance,3.9,Insurance , 10k-50k Employees , 23 years old ,Mumbai
+Access Healthcare,3.9,IT Services & Consulting , 1k-5k Employees , 12 years old ,Dallas
+24/7 Customer,3.6,Software Product , 5k-10k Employees , 23 years old ,San Jose
+Biocon,3.9,Biotechnology , 10k-50k Employees , 45 years old ,Bangalore/Bengaluru
+Tata AIA Life Insurance,4.1,Insurance , 10k-50k Employees , 22 years old ,Mumbai
+Shoppers Stop,4.2,Retail , 5k-10k Employees , 32 years old ,Mumbai
+ITC Infotech India,3.6,IT Services & Consulting , 5k-10k Employees , 23 years old ,Bangalore/Bengaluru
+Utkarsh Small Finance Bank,3.9,Banking , 10k-50k Employees , 14 years old ,Varanasi
+Paras Hospital,4.7,Healthcare , 5k-10k Employees , 17 years old ,Gurgaon/Gurugram
+Conduent,3.6,IT Services & Consulting , 5k-10k Employees , 6 years old ,Florham Park
+Jindal Steel and Power,3.9,Iron & Steel , 5k-10k Employees , 71 years old ,Delhi/NCR
+Ceat Tyres,4.0,Auto Components , 5k-10k Employees , 65 years old ,Mumbai
+Suzlon Group,4.0,Power , 5k-10k Employees , 28 years old ,Pune
+Berger Paints,3.7,Chemicals , 1k-5k Employees , 100 years old ,Kolkata
+HDFC Ergo General Insurance,4.0,Insurance , 5k-10k Employees , 21 years old ,Mumbai
+Indian Oil Corporation,4.4,Oil & Gas , 10k-50k Employees , 64 years old ,Delhi/NCR
+RSPL Group,4.1,FMCG , 1k-5k Employees , 36 years old ,Mumbai
+Dabur,3.9,FMCG , 5k-10k Employees , 139 years old ,Ghaziabad
+RBL Bank,3.7,Banking , 1k-5k Employees , 80 years old ,Mumbai
+PolicyBazaar,3.5,FinTech , 5k-10k Employees , 15 years old ,Gurgaon
+Escorts Kubota Limited,4.1,Automobile , 10k-50k Employees , 63 years old ,Faridabad
+GeBBS Healthcare Solutions,3.8,BPO , 5k-10k Employees , 18 years old ,Culver City
+ACC,4.0,Building Material , 5k-10k Employees , 87 years old ,Mumbai
+PNB MetLife,3.5,Insurance , 5k-10k Employees , 22 years old ,Mumbai
+JK Cement,4.1,Building Material , 1k-5k Employees , 49 years old ,Gurgaon/Gurugram
+Kotak Mahindara Life Insurance,3.8,Insurance , 10k-50k Employees , 22 years old ,Mumbai
+Cogent E Services,3.4,BPO , 10k-50k Employees , 19 years old ,Noida
+Carelon Global Solutions,4.1,Hyderabad/Secunderabad +9 more,,,Hyderabad/Secunderabad
+Simplex Infrastructures,3.3,Engineering & Construction , 1k-5k Employees , 99 years old ,Kolkata
+Bajaj Electricals,4.1,Consumer Electronics & Appliances , 1k-5k Employees , 85 years old ,Mumbai
+Titan Company,4.4,Other , 5k-10k Employees , 5 years old ,Mumbai
+Torrent Pharmaceuticals,3.9,Pharma , 10k-50k Employees , 52 years old ,Ahmedabad
+IndiGo,3.6,Aviation , 10k-50k Employees , 17 years old ,Gurgaon/Gurugram
+Reliance Digital,4.2,Retail , 5k-10k Employees , 16 years old ,Mumbai
+Aakash Educational Services,3.6,EdTech , 10k-50k Employees , 35 years old ,New Delhi
+ArcelorMittal Nippon Steel,4.0,Iron & Steel , 5k-10k Employees , Conglomerate ,Surat
+Arvind Group,4.1,Fashion & Textile , 10k-50k Employees , 92 years old ,Ahmedabad
+Wipro Enterprises Ltd,3.8,IT Services & Consulting , 501-1k Employees , 78 years old ,Bangalore
+KocharTech,4.2,IT Services & Consulting , 1k-5k Employees , 28 years old ,Gurgaon/Gurugram
+Dilip Buildcon,4.0,Engineering & Construction , 10k-50k Employees , 36 years old ,Bhopal
+Huawei Technologies,4.0,IT Services & Consulting , 51-200 Employees , 21 years old ,Gurgaon/Gurugram
+Jubilant Foods Works,3.8,Retail , 10k-50k Employees , 28 years old ,Noida
+KPIT Technologies,3.6,Software Product , 5k-10k Employees , 33 years old ,Pune
+UPL,4.1,Agro Chemicals , 1k-5k Employees , 54 years old ,Mumbai
+Lava International,4.1,Telecom , 1k-5k Employees , 14 years old ,Noida
+Domino's Pizza,4.0,Hospitality , 1k-5k Employees , 63 years old ,Ypsilanti
+Apollo Tyres,4.1,Auto Components , 5k-10k Employees , 51 years old ,Gurgaon/Gurugram
+Marpu Foundation,4.9,Non-Profit , 11-50 Employees , 7 years old ,Hyderabad/Secunderabad
+Reliance SMSL,4.0,BPO , 1k-5k Employees , 16 years old ,Mumbai
+Tata AIG,4.2,Insurance , 5k-10k Employees , 23 years old ,Mumbai
+Capita,3.9,5k-10k Employees , 18 years old , 18 years old ,Indore
+Flex,4.1,Electronics Manufacturing , 10k-50k Employees , 54 years old ,San Jose
+Birlasoft,3.7,IT Services & Consulting , 10k-50k Employees , 28 years old ,Pune
+Patanjali Ayurved,4.0,FMCG , 5k-10k Employees , 17 years old ,Haridwar
+Synechron,4.1,IT Services & Consulting , 5k-10k Employees , 22 years old ,New York
+McDonald's,4.3,Hospitality , 5k-10k Employees , 68 years old ,Chicago
+Statestreet HCL Services,3.2,BPO , 5k-10k Employees , 11 years old ,New Delhi
+S&P Global,4.2,IT Services & Consulting , 5k-10k Employees , 106 years old ,New York City
+Taj Hotels Resorts and Palaces,4.2,Hospitality , 10k-50k Employees , 120 years old ,Mumbai
+State Street Syntel,3.8,Financial Services , 501-1k Employees , 19 years old ,Mumbai
+AFCONS Infrastructure,4.4,Engineering & Construction , 10k-50k Employees , 64 years old ,Mumbai
+Lenskart,3.2,Other , 1k-5k Employees , 13 years old ,Faridabad
+Walmart,4.0,Retail , 5k-10k Employees , 14 years old ,Bangalore/Bengaluru
+Tech Mahindra Business Services,3.5,BPO , 1k-5k Employees , 20 years old ,Mumbai
+Tractors and Farm Equipment,4.1,Automobile , 5k-10k Employees , 63 years old ,Chennai
+Max Healthcare,4.1,Healthcare , 1k-5k Employees , 22 years old ,Delhi/NCR
+AGS Health,4.1,BPO , 10k-50k Employees , 12 years old ,Washington DC
+Mankind Pharma,4.1,Pharma , 5k-10k Employees , 28 years old ,New Delhi
+Capgemini Engineering,3.6,10k-50k Employees , Gurgaon/Gurugram +16 more,10k-50k Employees ,Gurgaon/Gurugram
+Zensar Technologies,3.8,IT Services & Consulting , 5k-10k Employees , 22 years old ,Pune
+Tata Technologies,3.7,IT Services & Consulting , 5k-10k Employees , 34 years old ,Singapore
+Square Yards,3.8,Real Estate , 1k-5k Employees , 10 years old ,Gurgaon
+Fortis Healthcare,4.0,Healthcare , 5k-10k Employees , 27 years old ,Gurgaon/Gurugram
+Bajaj Allianz General Insurance,4.1,Financial Services , 5k-10k Employees , 5k-10k Employees ,Pune
+Nestle,4.1,Food Processing , 5k-10k Employees , 64 years old ,Vevey
+Landmark Group,4.1,Retail , 1k-5k Employees , 50 years old ,Dubai Marina
+Blue Dart Express,4.1,Logistics , 10k-50k Employees , 40 years old ,Mumbai
+Ola Cabs,3.6,Internet , 501-1k Employees , 13 years old ,Bangalore
+Birla Sun Life Insurance,4.2,Insurance , 10k-50k Employees , 23 years old ,Mumbai
+Fiserv,3.7,FinTech , 5k-10k Employees , 39 years old ,Brookfield
+IGT Solutions,3.4,IT Services & Consulting , 5k-10k Employees , 25 years old ,Gurgaon/Gurugram
+HDFC Sales,4.0,Financial Services , 10k-50k Employees , 19 years old ,Mumbai
+Future Retail,4.3,Retail , 10k-50k Employees , 36 years old ,San Francisco
+Societe Generale,3.9,Financial Services , 1k-5k Employees , 23 years old ,Bangalore/Bengaluru
+BlackBuck,3.9,Logistics , 501-1k Employees , 8 years old ,Bangalore
+I Process Services,3.9,Recruitment , 1k-5k Employees , 18 years old ,Mumbai
+Nokia,4.2,Hardware & Networking , 10k-50k Employees , 158 years old ,Espoo
+Lifestyle,4.4,Retail , 10k-50k Employees , 24 years old ,Bangalore/Bengaluru
+Voltas,4.0,Consumer Electronics & Appliances , 1k-5k Employees , 69 years old ,Mumbai
+Eureka Forbes,3.9,Consumer Electronics & Appliances , 5k-10k Employees , 41 years old ,Mumbai
+Rivigo,3.9,Internet , 1k-5k Employees , 9 years old ,Gurgaon
+JMC Projects,4.2,Engineering & Construction , 1k-5k Employees , 41 years old ,Mumbai
+UNO Minda,4.0,Auto Components , 201-500 Employees , 65 years old ,Gurgaon
+The Himalaya Drug Company,4.1,Pharma , 5k-10k Employees , 93 years old ,San Francisco
+Extramarks Education,3.5,EdTech , 1k-5k Employees , 16 years old ,Noida
+State Street Corporation,3.8,Financial Services , 10k-50k Employees , 231 years old ,Boston
+Micro Labs,3.7,Pharma , 10k-50k Employees , 50 years old ,Bangalore/Bengaluru
+Radisson Hotels,4.0,Hospitality , 10k-50k Employees , 114 years old ,Minnetonka
+G4S,4.0,Law Enforcement & Security , 1 Lakh+ Employees , 27 years old ,Gurgaon/Gurugram
+Tata Teleservices,4.1,Telecom , 201-500 Employees , 27 years old ,Mumbai
+Aditya Birla Group,4.2,Retail , 10k-50k Employees , 166 years old ,Mumbai
+TVS Supply Chain Solutions,3.9,Logistics , 1k-5k Employees , 127 years old ,Chennai
+Exide Industries,3.6,Auto Components , 1k-5k Employees , 76 years old ,Kolkata
+Britannia,4.1,Food Processing , 5k-10k Employees , 131 years old ,Reading
+PepsiCo,4.1,Food Processing , 1k-5k Employees , 34 years old ,Harrison
+ElasticRun,3.4,Logistics , 1k-5k Employees , 7 years old ,Pune
+Grasim Industries,4.0,Building Material , 10k-50k Employees , 76 years old ,Nagda
+Ajanta Pharma,4.0,Pharma , 1k-5k Employees , 50 years old ,Mumbai
+Nokia Networks,4.4,10k-50k Employees , Chennai +79 more,10k-50k Employees ,Chennai
+R.R. Donnelley,4.1,BPO , 5k-10k Employees , 159 years old ,Chicago
+ACT Fibernet,4.1,Telecom , 5k-10k Employees , 15 years old ,Bengaluru/Bangalore
+Life Insurance Corporation of India,4.3,Insurance , 1 Lakh+ Employees , 67 years old ,Mumbai
+Cholamandalam MS General Insurance,3.9,Insurance , 1k-5k Employees , 22 years old ,Chennai
+Shree Cement,4.1,Building Material , 5k-10k Employees , 44 years old ,Kolkata
+Blue Star,4.1,Consumer Electronics & Appliances , 1k-5k Employees , 80 years old ,Mumbai
+Sterlite Technologies,3.9,Hardware & Networking , 1k-5k Employees , 35 years old ,Pune
+Pfizer,4.1,Pharma , 1k-5k Employees , 19 years old ,Chennai
+Johnson Controls,3.4,Industrial Automation , 1k-5k Employees , 28 years old ,Cork
+Delhi Public School,3.9,Education & Training , 1k-5k Employees , 25 years old ,Greater Noida
+Dalmia Bharat Cement,4.1,Building Material , 5k-10k Employees , 88 years old ,Delhi/NCR
+TVS Credit,4.3,NBFC , 10k-50k Employees , 15 years old ,Chennai
+Croma,4.2,Retail , 1k-5k Employees , 17 years old ,Mumbai
+CG Power and Industrial Solutions,3.8,Electrical Equipment , 1k-5k Employees , 86 years old ,Mumbai
+Sonalika Tractors,3.8,Automobile , 1k-5k Employees , 54 years old ,Hoshiarpur
+Yazaki,3.8,Auto Components , 10k-50k Employees , 82 years old ,Tokyo
+Renault-Nissan,4.1,Automobile , 10k-50k Employees , 16 years old ,Chennai
+Emcure Pharmaceuticals,3.8,Pharma , 5k-10k Employees , 42 years old ,Pune
+Samsung Electronics,4.1,Noida +184 more,,,Noida
+Mahindra Logistics,4.1,Logistics , 1k-5k Employees , 23 years old ,Mumbai
+IKS Health,3.6,Healthcare , 5k-10k Employees , 16 years old ,Mumbai
+PVR Cinemas,4.2,Media & Entertainment , 5k-10k Employees , 26 years old ,Gurgaon
+HCL Infosystems,4.0,IT Services & Consulting , 51-200 Employees , 47 years old ,Noida
+XpressBees,3.8,Logistics , 1k-5k Employees , 8 years old ,Pune
+Kalyan Jewellers,4.8,Metals & Mining , 5k-10k Employees , 30 years old ,Bengaluru/Bangalore
+Datamatics Global Services,3.6,IT Services & Consulting , 1k-5k Employees , 48 years old ,Mumbai
+BHEL,4.2,Electrical Equipment , 10k-50k Employees , 59 years old ,Bangalore/Bengaluru
+Raymond,4.1,Fashion & Textile , 5k-10k Employees , 98 years old ,New York
+V-Mart,4.2,Retail , 5k-10k Employees , 21 years old ,Gurgaon/Gurugram
+LTIMindtree,3.7,IT Services & Consulting , 27 years old , 27 years old ,Pune
+Indus Towers,4.0,Telecom , 1k-5k Employees , 16 years old ,Gurgaon
+Parle Agro,4.2,Beverage , 1k-5k Employees , 39 years old ,Mumbai
+Mahindra Holidays & Resorts,3.7,Hospitality , 5k-10k Employees , 27 years old ,Mumbai
+DS Group,4.0,FMCG , 1k-5k Employees , 94 years old ,Noida
+Barclays,4.1,Banking , 10k-50k Employees , 333 years old ,London
+Zomato,3.7,Internet , 1k-5k Employees , 15 years old ,Gurgaon
+Kalpataru Power Transmission,4.1,Power , 1k-5k Employees , 42 years old ,Mumbai
+Poonawalla Fincorp,3.9,NBFC , 5k-10k Employees , 35 years old ,Mumbai
+Indian Railways,4.1,Railways , 1 Lakh+ Employees , 170 years old ,Delhi/NCR
+Ambuja Cements,3.9,Building Material , 5k-10k Employees , 40 years old ,Mumbai
+SRF,4.3,Chemicals , 5k-10k Employees , 53 years old ,Gurgaon/Gurugram
+Info Edge,4.1,Internet , 1k-5k Employees , 28 years old ,Noida
+Cybage,4.0,IT Services & Consulting , 5k-10k Employees , 28 years old ,Pune
+Whirlpool,4.1,Consumer Electronics & Appliances , 1k-5k Employees , 112 years old ,Michigan
+Reliance Trends,4.3,Retail , 1 Lakh+ Employees , 17 years old ,Navi Mumbai
+Shriram City,4.1,Financial Services , 10k-50k Employees , 37 years old ,Chennai
+ICICI Securities,3.8,5k-10k Employees , Public , 28 years old ,Mumbai
+Kansai Nerolac Paints,3.9,Chemicals , 1k-5k Employees , 103 years old ,Mumbai
+Myntra,4.1,Retail , 1k-5k Employees , 16 years old ,Bangalore
+Force Motors,3.4,Automobile , 1k-5k Employees , 65 years old ,Pune
+Cadila Pharmaceuticals,3.3,Pharma , 5k-10k Employees , 72 years old ,Ahmedabad
+Sterling & Wilson,4.1,Real Estate , 5k-10k Employees , 96 years old ,Mumbai
+Shell,4.3,Oil & Gas , 10k-50k Employees , 19 years old ,London
+Shahi Exports,4.1,Retail , 1 Lakh+ Employees , 49 years old ,Faridabad
+BT Group,4.2,Telecom , 10k-50k Employees , 177 years old ,London
+ITC Hotels,4.1,Hospitality , 5k-10k Employees , 48 years old ,Kolkata
+3i Infotech,3.6,IT Services & Consulting , 1k-5k Employees , 30 years old ,Mumbai
+JCB,4.0,Industrial Machinery , 1k-5k Employees , 78 years old ,Rocester
+Endurance Technologies,3.8,Auto Components , 1k-5k Employees , 38 years old ,Aurangabad
+Taurus BPO Services,4.7,BPO , 1k-5k Employees , 8 years old ,Pune
+Blinkit,3.8,Internet , 1k-5k Employees , 10 years old ,Gurgaon
+Bharti AXA Life Insurance,3.9,Insurance , 5k-10k Employees , 17 years old ,Mumbai
+Delphi TVS,4.0,Auto Components , 1k-5k Employees , 34 years old ,Kanchipuram
+Brakes India,4.0,Auto Components , 1k-5k Employees , 61 years old ,Chennai
+Lodha group,4.1,Real Estate , 1k-5k Employees , 43 years old ,Mumbai
+JK Tyres,3.8,Auto Components , 1k-5k Employees , 72 years old ,New Delhi
+Bharat Petroleum,4.1,Oil & Gas , 5k-10k Employees , 71 years old ,Mumbai
+Future Generali India Life Insurance,3.8,Insurance , 1k-5k Employees , 16 years old ,Mumbai
+ZS,3.6,Management Consulting , 5k-10k Employees , 40 years old ,Evanston
+Sobha,4.0,Real Estate , 1k-5k Employees , 28 years old ,Bangalore/Bengaluru
+Syngene International,3.9,Pharma , 1k-5k Employees , 30 years old ,Bangalore/Bengaluru
+Tata Motors Finance,4.2,NBFC , 1k-5k Employees , 66 years old ,Mumbai
+Coromandel International,4.1,Agriculture , 5k-10k Employees , 62 years old ,Hyderabad/Secunderabad
+Fujitsu,4.0,IT Services & Consulting , 5k-10k Employees , 88 years old ,Bangalore/Bengaluru
+Aavas Financiers,4.0,Financial Services , 5k-10k Employees , 12 years old ,Jaipur
+café Coffee day,4.0,Beverage , 10k-50k Employees , 27 years old ,Bengaluru
+Mahindra Rural Housing Finance,4.1,Financial Services , 5k-10k Employees , 16 years old ,Mumbai
+Thomson Reuters,4.2,Printing & Publishing , 1k-5k Employees , 15 years old ,Toronto
+Tata Elxsi,4.0,IT Services & Consulting , 10k-50k Employees , 34 years old ,Bangalore/Bengaluru
+Gabriel India,4.2,Auto Components , 1k-5k Employees , 62 years old ,Pune
+MSN Laboratories,3.8,Pharma , 1k-5k Employees , 20 years old ,Hyderabad/Secunderabad
+Movate,3.6,IT Services & Consulting , 10k-50k Employees (Global) , 27 years old ,Plano
+Indian Navy,4.6,Defence & Aerospace , 50k-1 Lakh Employees , 73 years old ,Delhi/NCR
+Kyndryl,4.0,IT Services & Consulting , 10k-50k Employees , 2 years old ,New York
+Bureau Veritas,3.9,Accounting & Auditing , 1k-5k Employees , 195 years old ,Paris La Défense
+Sopra Steria,4.0,IT Services & Consulting , 5k-10k Employees , 55 years old ,Paris
+Honda,4.1,Automobile , 10k-50k Employees , 38 years old ,Greater Noida
+suzuki motor gujarat,4.2,Fortune India 500 , Becharaji +61 more,Fortune India 500 ,Becharaji
+Big Bazaar,4.3,Retail , 10k-50k Employees , 22 years old ,Mumbai
+Care Health Insurance,3.8,Internet , 5k-10k Employees , 11 years old ,Gurgaon
+GVK Emergency Management and Research Institute,3.7,Non-Profit , 10k-50k Employees , 18 years old ,Hyderabad/Secunderabad
+Lucas-TVS,4.0,Auto Components , 5k-10k Employees , 62 years old ,Chennai
+Ninjacart,3.9,Logistics , 1k-5k Employees , 8 years old ,Bangalore
+Adani Wilmar,4.2,FMCG , 1k-5k Employees , 24 years old ,Ahmedabad
+Power Mech Projects,3.8,Engineering & Construction , 1k-5k Employees , 16 years old ,Hyderabad/Secunderabad
+CAMS,3.7,IT Services & Consulting , 5k-10k Employees , 35 years old ,Chennai
+UpGrad,4.1,EdTech , 1k-5k Employees , 8 years old ,San Francisco
+Parle Products,3.9,Food Processing , 1k-5k Employees , 94 years old ,Mumbai
+TVS Sundram Fasteners,3.7,Auto Components , 1k-5k Employees , 61 years old ,Chennai
+SAP,4.3,IT Services & Consulting , 5k-10k Employees , 51 years old ,Walldorf
+Exide Life Insurance,3.8,Insurance , 1k-5k Employees , 22 years old ,Bangalore/Bengaluru
+RMSI,3.8,IT Services & Consulting , 1k-5k Employees , 31 years old ,Noida
+PHN Technology,4.6,Pune +29 more,,,Pune
+Uflex,3.8,Packaging , 5k-10k Employees , 38 years old ,Noida
+Motilal Oswal Financial Services,3.6,5k-10k Employees , Public , 36 years old ,Mumbai
+ValueLabs,3.8,IT Services & Consulting , 5k-10k Employees , 26 years old ,Hyderabad/Secunderabad
+Cisco,4.4,IT Services & Consulting , 10k-50k Employees , 39 years old ,San Jose
+Canara HSBC Life Insurance,3.7,Insurance , 1k-5k Employees , 15 years old ,Gurgaon/Gurugram
+Unacademy,3.4,EdTech , 1k-5k Employees , 8 years old ,Bangalore
+Jindal Stainless,4.2,Iron & Steel , 1k-5k Employees , 53 years old ,Delhi/NCR
+Tata Capital Financial Services,4.2,Financial Services , 1k-5k Employees , 16 years old ,Mumbai
+Wockhardt,3.9,Pharma , 5k-10k Employees , 24 years old ,Mumbai
+Renault Nissan Technology & Business Centre India,3.8,Automobile , 5k-10k Employees (Global) , 16 years old ,Chennai
+Citicorp,3.8,Financial Services , 201-500 Employees , 26 years old ,Mumbai
+IDBI Bank,3.8,Banking , 10k-50k Employees , 59 years old ,Mumbai
+AXA Business Services,3.8,Insurance , 1k-5k Employees , 77 years old ,Paris
+AECOM,4.2,Engineering & Construction , 1k-5k Employees , 33 years old ,Dallas
+Laurus Labs,4.2,Pharma , 1k-5k Employees , 18 years old ,Hyderabad/Secunderabad
+BA Continuum,4.3,IT Services & Consulting , 10k-50k Employees , 20 years old ,Gurgaon/Gurugram
+NoBroker,3.4,Internet , 1k-5k Employees , 9 years old ,Bangalore
+Fincare Small Finance Bank,4.0,NBFC , 5k-10k Employees , 16 years old ,Bangalore
+Hindustan Aeronautics,4.3,Defence & Aerospace , 10k-50k Employees , 83 years old ,Bangalore/Bengaluru
+Star Health & Allied Insurance,3.9,Insurance , 10k-50k Employees , 17 years old ,Chennai
+Indiabulls,3.7,NBFC , 1k-5k Employees , 23 years old ,Gurgaon/Gurugram
+XL Dynamics,3.4,Accounting & Auditing , 1k-5k Employees , 21 years old ,Navi Mumbai
+Citibank,4.0,Banking , 1-10 Employees , 211 years old ,New York
+Bhushan Power & Steel,4.0,Iron & Steel , 5k-10k Employees , 53 years old ,Delhi/NCR
+Vedantu,3.4,EdTech , 5k-10k Employees , 12 years old ,Bangalore
+Bank of Baroda,3.6,Banking , 50k-1 Lakh Employees , 115 years old ,Vadodara/Baroda
+Xoriant,4.0,IT Services & Consulting , 1k-5k Employees , 33 years old ,Sunnyvale
+G R Infraprojects,4.1,Engineering & Construction , 10k-50k Employees , 28 years old ,Udaipur
+MetLife,4.4,IT Services & Consulting , 1k-5k Employees , 15 years old ,New York
+Dr Lal PathLabs,4.2,Healthcare , 1k-5k Employees , 74 years old ,Gurgaon/Gurugram
+DBS Bank,3.8,Banking , 5k-10k Employees , 8 years old ,Hyderabad/Secunderabad
+Vardhman Fabrics,4.1,Fashion & Textile , 10k-50k Employees , Fortune India 500 ,Baddi
+VVDN Technologies,3.6,IT Services & Consulting , 1k-5k Employees , 16 years old ,Gurgaon
+Kotak Securities,3.7,Financial Services , 5k-10k Employees , 29 years old ,Mumbai
+Tata Play,4.1,Media & Entertainment , 1k-5k Employees , 17 years old ,Mumbai
+Sify Technologies,4.0,Telecom , 1k-5k Employees , 28 years old ,Chennai
+Narayana Health,4.2,Healthcare , 10k-50k Employees , 23 years old ,Bangalore/Bengaluru
+CMA CGM,4.1,Ports & Shipping , 1k-5k Employees , 45 years old ,Marseille
+Harman Connected Services,3.7,IT Services & Consulting , 10k-50k Employees , 22 years old ,Mountain View
+Aragen Life Sciences,4.2,Pharma , 1k-5k Employees , 23 years old ,Hyderabad/Secunderabad
+Aditya Birla Capital,4.0,Financial Services , 10k-50k Employees , 16 years old ,Mumbai
+Philips,3.9,Consumer Electronics & Appliances , 5k-10k Employees , 93 years old ,Amsterdam
+Akums Drugs & Pharmaceuticals,4.0,Pharma , 1k-5k Employees , 19 years old ,Delhi/NCR
+Reliance General Insurance,3.8,Insurance , 5k-10k Employees , 23 years old ,Mumbai
+Honeywell Automation,3.9,Consumer Electronics & Appliances , 10k-50k Employees , 117 years old ,Morris Plains
+PhonePe,4.1,FinTech , 501-1k Employees , 8 years old ,Bangalore
+SGS,4.0,1k-5k Employees , Forbes Global 2000 , 145 years old ,Geneva
+HERE Technologies,3.9,IT Services & Consulting , 1k-5k Employees , 38 years old ,Eindhoven
+Yamaha Motor,4.0,Automobile , 1k-5k Employees , 16 years old ,Iwata
+Hero FinCorp,4.2,NBFC , 5k-10k Employees , 32 years old ,Delhi
+Quest Global,3.6,10k-50k Employees , 26 years old , 26 years old ,Singapore
+BT Global Services,4.1,IT Services & Consulting , 1k-5k Employees , 23 years old ,London
+Crisil,3.8,Financial Services , 1k-5k Employees , 36 years old ,Mumbai
+Intellect Design Arena,4.0,FinTech , 1k-5k Employees , 9 years old ,Chennai
+Novartis,4.1,Pharma , 1k-5k Employees , 27 years old ,Switzerland
+Straive,3.6,EdTech , 1k-5k Employees , 43 years old ,Singapore
+Sigma Electric Manufacturing Corporation,4.0,Industrial Machinery , 1k-5k Employees , 41 years old ,Garner
+Amazon Transportation Services,4.2,Logistics , 1k-5k Employees , 11 years old ,Seattle
+Microland,3.6,IT Services & Consulting , 1k-5k Employees , 34 years old ,Bangalore
+CMS Infosystems,3.7,IT Services & Consulting , 5k-10k Employees , 15 years old ,Mumbai
+Allsec Technologies,3.9,BPO , 5k-10k Employees , 23 years old ,Chennai
+Safexpress,4.1,Logistics , 5k-10k Employees , 26 years old ,Delhi/NCR
+Reckitt Benckiser,4.1,FMCG , 1k-5k Employees , 24 years old ,Slough
+Metro,4.2,Retail , 1k-5k Employees , 59 years old ,Bangalore/Bengaluru
+Biological E,4.2,Pharma , 1k-5k Employees , 70 years old ,Hyderabad/Secunderabad
+Exotic Learning,4.6,EdTech , 51-200 Employees , 3 years old ,Lucknow
+YASH Technologies,3.9,IT Services & Consulting , 5k-10k Employees , 27 years old ,East Moline
+Meesho,3.7,Internet , 1k-5k Employees , 8 years old ,Bangalore
+NCR Corporation,4.1,Software Product , 5k-10k Employees , 139 years old ,Atlanta
+Piramal Group,4.0,Financial Services , 1k-5k Employees , 43 years old ,Mumbai
+TCE,3.8,Engineering & Construction , 5k-10k Employees , 61 years old ,Mumbai
+Exl India,3.7,IT Services & Consulting , 11-50 Employees , 66 years old ,New Delhi
+Spark Minda,3.8,Auto Components , 10k-50k Employees , 65 years old ,Gurgaon
+SBI General Insurance,3.9,Insurance , 1k-5k Employees , 14 years old ,Mumbai
+Oberoi Group of Hotels,4.2,Hospitality , 1k-5k Employees , 89 years old ,Delhi/NCR
+Cavinkare,4.0,FMCG , 1k-5k Employees , 40 years old ,Chennai
+Hyatt Regency,4.2,Hospitality , 1k-5k Employees , 43 years old ,New Delhi
+ABC,3.9,Broadcasting , 1k-5k Employees (Global) , 80 years old ,New York
+KONE,4.2,Engineering & Construction , 5k-10k Employees , 113 years old ,Chennai
+Procter & Gamble,4.3,FMCG , 10k-50k Employees , 186 years old ,Cincinnati
+DIVI'S Laboratories,3.7,Healthcare , 10k-50k Employees , 33 years old ,Hyderabad/Secunderabad
+Microsoft Corporation,4.2,Software Product , 5k-10k Employees , 48 years old ,Sunnyvale
+Honeywell Technology Solutions,3.9,Defence & Aerospace , 10k-50k Employees , 29 years old ,Bangalore/Bengaluru
+ESAF Microfinance & Investments (P),3.9,Financial Services , 1k-5k Employees , 7 years old ,Thrissur/Trichur
+Karvy Data Management Services,3.6,Analytics & KPO , 1k-5k Employees , 15 years old ,Hyderabad/Secunderabad
+USV,4.0,Pharma , 1k-5k Employees , 62 years old ,Mumbai
+Angel One,3.9,Financial Services , 1k-5k Employees , 1k-5k Employees ,Mumbai
+Adecco Group,3.8,Recruitment , 1k-5k Employees , 24 years old ,Zurich
+Optum Global Solutions,4.1,IT Services & Consulting , 1k-5k Employees , 1k-5k Employees ,Hyderabad/Secunderabad
+Mother Dairy Fruit & Vegetable,4.2,Food Processing , 1k-5k Employees , 49 years old ,Noida
+SS&C TECHNOLOGIES,3.6,Software Product , 5k-10k Employees , 37 years old ,Windsor Locks
+USHA International,4.3,Consumer Electronics & Appliances , 1k-5k Employees , 89 years old ,Gurgaon/Gurugram
+Johnson & Johnson,4.3,Pharma , 1k-5k Employees , 66 years old ,New Brunswick
+Mercedes-Benz Research & Development India,4.0,Automobile , 5k-10k Employees , 27 years old ,Bengaluru/Bangalore
+KFintech,3.6,FinTech , 5k-10k Employees , 6 years old ,Hyderabad
+Innovsource Services,4.0,Recruitment , 1k-5k Employees , 19 years old ,Mumbai
+Alstom Transportation,3.9,Engineering & Construction , 5k-10k Employees , 95 years old ,Saint-Ouen
+Honda Cars,4.3,Automobile , 5k-10k Employees , Fortune India 500 ,Greater Noida
+24-7 Intouch,3.1,BPO , 1k-5k Employees , 22 years old ,Winnipeg
+Jet Airways,4.6,Aviation , 201-500 Employees , 30 years old ,Mumbai
+Matrimony.com,4.4,Internet , 1k-5k Employees , 26 years old ,Chennai
+Samsung India Electronics,4.1,Consumer Electronics & Appliances , Noida +149 more,Consumer Electronics & Appliances ,Noida
+Aon,3.9,Financial Services , 10k-50k Employees , 83 years old ,London
+Google,4.4,Internet , 10k-50k Employees , 25 years old ,Mountain View
+Max Fashion,4.2,Retail , 5k-10k Employees , 9 years old ,Abu Dhabi
+V-Guard Industries,4.4,Electrical Equipment , 1k-5k Employees , 46 years old ,Kochi/Cochin
+Torrent Power,3.8,Power , 5k-10k Employees , 27 years old ,Ahmedabad
+DHL Express,4.1,Logistics , 1k-5k Employees , 44 years old ,Bonn
+Motherson Automotive Technologies and Engineering,4.0,Auto Components , 501-1k Employees , 26 years old ,Noida
+Niva Bupa Health Insurance Company,3.7,Financial Services , 1k-5k Employees , 15 years old ,Delhi/NCR
+Verizon,4.2,Telecom , 5k-10k Employees , 23 years old ,New York City
+PI Industries,4.2,Agro Chemicals , 1k-5k Employees , 76 years old ,Gurgaon/Gurugram
+CitiusTech,3.6,IT Services & Consulting , 1k-5k Employees , 18 years old ,New Jersey
+HDFC Securities,3.6,Financial Services , 1k-5k Employees , 23 years old ,Mumbai
+Isgec Heavy Engineering,3.9,Industrial Machinery , 1k-5k Employees , 90 years old ,Noida
+First American Corporation,3.9,IT Services & Consulting , 1k-5k Employees , 134 years old ,Santa Ana
+DHL Supply Chain,4.3,Logistics , 1k-5k Employees , 54 years old ,Bonn
+Credit Suisse,4.1,5k-10k Employees , 167 years old , 167 years old ,Zurich
+Aforeserve,3.4,IT Services & Consulting , 1k-5k Employees , 23 years old ,Noida
+Chegg,4.3,IT Services & Consulting , 501-1k Employees , 18 years old ,Santa Clara
+Orange Business Services,4.3,IT Services & Consulting , 1k-5k Employees , 17 years old ,Paris
+Swaraj Tractors,4.2,Automobile , 1k-5k Employees , 61 years old ,Mumbai
+Planet Spark,3.7,EdTech , 51-200 Employees , 6 years old ,Gurgaon
+Medi Assist India,3.7,Healthcare , 1k-5k Employees , 23 years old ,Bangalore
+NTPC,4.3,10k-50k Employees , Fortune India 500 , 48 years old ,Delhi/NCR
+Varroc Group,3.7,Auto Components , 1k-5k Employees , 35 years old ,Aurangabad
+Dell EMC,4.2,IT Services & Consulting , 10k-50k Employees , 44 years old ,Hopkinton
+Tata Communications Transformation Services,4.1,Telecom , 10k-50k Employees , 17 years old ,Mumbai
+Team Computers,3.7,IT Services & Consulting , 1k-5k Employees , 36 years old ,Delhi/NCR
+Belrise Industries,3.8,Auto Components , 10k-50k Employees , 27 years old ,Aurangabad
+Kent RO Systems,3.6,Consumer Electronics & Appliances , 1k-5k Employees , 24 years old ,Noida
+Inox Leisure,4.1,Media & Entertainment , 10k-50k Employees , 24 years old ,Mumbai
+Marriott International,4.2,Hospitality , 10k-50k Employees , 96 years old ,Bethesda
+FactSet,4.0,Analytics & KPO , 1k-5k Employees , 45 years old ,Norwalk
+Hindustan Construction Company,4.1,Engineering & Construction , 1k-5k Employees , 97 years old ,Mumbai
+Medanta the Medicity,4.2,Healthcare , 1k-5k Employees , 14 years old ,Gurgaon
+Faurecia,4.0,Auto Components , 1k-5k Employees , 26 years old ,Nanterre
+Sony,4.4,Consumer Electronics & Appliances , 1k-5k Employees , 29 years old ,Delhi/NCR
+FedEx Express,4.2,Logistics , 5k-10k Employees , 52 years old ,Moon Township
+Jindal Saw,4.0,Building Material , 1k-5k Employees , 39 years old ,Delhi/NCR
+Emami,4.0,FMCG , 1k-5k Employees , 49 years old ,Kolkata
+Dainik Bhaskar Group Of Publication,4.0,Printing & Publishing , 5k-10k Employees , 65 years old ,Bhopal
+Nayara Energy,4.2,Oil & Gas , 1k-5k Employees , 34 years old ,Mumbai
+Tesco,4.0,IT Services & Consulting , 1k-5k Employees , 104 years old ,Hertfordshire
+Mercer,3.9,Management Consulting , 1k-5k Employees , 78 years old ,New York
+SRL Diagnostics,4.1,Healthcare , 1k-5k Employees , 28 years old ,Mumbai
+SBI Securities,3.7,Financial Services , 5k-10k Employees , 17 years old ,Mumbai
+Haier Appliances India,4.0,Consumer Electronics & Appliances , 1k-5k Employees , 19 years old ,Qingdao
+L&T Energy Hydrocarbon,3.8,Oil & Gas , 5k-10k Employees , 14 years old ,Mumbai
+Trent,4.1,Retail , 1k-5k Employees , 25 years old ,Mumbai
+Allstate,4.1,IT Services & Consulting , 5k-10k Employees , 11 years old ,Bangalore/Bengaluru
+Bharat Financial Inclusion,4.1,Financial Services , 10k-50k Employees , 25 years old ,Hyderabad
+Security and Intelligence Services (India),4.2,BPO , 1 Lakh+ Employees , 38 years old ,Delhi/NCR
+Saint-Gobain,4.0,Building Material , 10k-50k Employees , 358 years old ,Paris
+iOPEX Technologies,3.9,IT Services & Consulting , 1k-5k Employees , 14 years old ,San Jose
+Sitel,3.8,BPO , 5k-10k Employees , 38 years old ,Miami
+Bata,3.9,Fashion & Textile , 1k-5k Employees , 92 years old ,Lausanne
+J. Kumar Infraprojects,4.1,Engineering & Construction , 5k-10k Employees , 43 years old ,Mumbai
+KFC,4.2,Hospitality , 1k-5k Employees , 71 years old ,Louisville
+Muthoot Group,3.6,NBFC , 1k-5k Employees , 136 years old ,Wedel
+NIIT,3.6,Education & Training , 1k-5k Employees , 42 years old ,Gurgaon/Gurugram
+Frankfinn Institute of Air Hostess Training,3.9,Education & Training , 1k-5k Employees , 30 years old ,Gurgaon/Gurugram
+L.G.Balakrishnan & Bros,3.8,Industrial Machinery , 1k-5k Employees , 86 years old ,Coimbatore
+Apollo Pharmacy,3.9,Pharma , 10k-50k Employees , 40 years old ,Chennai
+Panasonic,4.0,Consumer Electronics & Appliances , 10k-50k Employees , 105 years old ,Kadoma
+Barclays Shared Services,4.2,IT Services & Consulting , 5k-10k Employees , 16 years old ,London
+Hindustan Petroleum,4.2,Oil & Gas , 10k-50k Employees , 49 years old ,Mumbai
+Oracle Cerner,3.9,IT Services & Consulting , 1k-5k Employees , 44 years old ,Kansas
+Relaxo Footwear,4.1,Fashion & Textile , 1k-5k Employees , 47 years old ,New Delhi
+Globiva,3.3,BPO , 1k-5k Employees , 6 years old ,Gurgaon/Gurugram
+TATA Power,4.0,Power , 10k-50k Employees , 112 years old ,Mumbai
+Narayana Educational Society,3.6,Education & Training , 1k-5k Employees , 38 years old ,Hyderabad/Secunderabad
+HCL Technologies BPO Services,3.6,BPO , 1 Lakh+ Employees , 23 years old ,Noida
+Trident Group,3.5,Fashion & Textile , 10k-50k Employees , 33 years old ,Ludhiana
+Paisabazaar.com,3.6,FinTech , 1k-5k Employees , 9 years old ,Gurgaon/Gurugram
+ISS Facility Services,4.2,Facility Management Services , 10k-50k Employees , 18 years old ,Copenhagen
+Tata Capital,4.1,NBFC , 5k-10k Employees , 16 years old ,Mumbai
+Lumax Industries,4.0,Auto Components , 1k-5k Employees , 78 years old ,Pune
+Marico,4.1,FMCG , 1k-5k Employees , 33 years old ,Mumbai
+Toyota Kirloskar Motor,4.3,Automobile , 5k-10k Employees , 26 years old ,Bangalore/Bengaluru
+Pantaloons,4.2,Fashion & Textile , 10k-50k Employees , 26 years old ,Mumbai
+Tata Group,4.4,IT Services & Consulting , 1 Lakh+ Employees , 155 years old ,Mumbai
+Welspun,4.0,Fashion & Textile , 5k-10k Employees , 38 years old ,Mumbai
+IDC Technologies,3.3,IT Services & Consulting , 1k-5k Employees , 20 years old ,Milpitas
+Aircel,4.4,Telecom , 5k-10k Employees , 24 years old ,Gurgaon/Gurugram
+Ocwen Financial Solutions,4.0,Financial Services , 1k-5k Employees , 35 years old ,West Palm Beach
+Star Union Dai-ichi Life Insurance,3.9,Insurance , 1k-5k Employees , 14 years old ,Navi Mumbai
+Fabindia,3.9,Fashion & Textile , 1k-5k Employees , 65 years old ,Delhi/NCR
+VLCC,3.8,FMCG , 201-500 Employees , 34 years old ,Delhi/NCR
+Nuvoco Vistas,4.2,Building Material , 1k-5k Employees , 24 years old ,Mumbai
+Daikin,4.2,Consumer Electronics & Appliances , 1k-5k Employees , 23 years old ,Osaka City
+Satin Creditcare Network,4.2,NBFC , 5k-10k Employees , 33 years old ,Gurgaon/Gurugram
+BNP Paribas,3.9,Financial Services , 10k-50k Employees , 175 years old ,Paris
+Morgan Stanley,3.8,Financial Services , 10k-50k Employees , 92 years old ,New York
+Haldiram Foods,4.0,FMCG , 1k-5k Employees , 53 years old ,Nagpur
+Suguna Foods,4.0,Food Processing , 5k-10k Employees , 39 years old ,Coimbatore
+Aadhar Housing Finance,4.2,Financial Services , 1k-5k Employees , 13 years old ,Mumbai
+Bajaj Capital,3.9,Financial Services , 1k-5k Employees , 59 years old ,Delhi/NCR
+Akzo Nobel India,4.1,Chemicals , 1k-5k Employees , 84 years old ,Amsterdam
+Oracle Financial Services Software,3.9,IT Services & Consulting , 10k-50k Employees , 33 years old ,Mumbai
+Collabera Technologies,3.5,IT Services & Consulting , 501-1k Employees , 32 years old ,Basking Ridge
+HTC Global Services,3.7,IT Services & Consulting , 5k-10k Employees , 33 years old ,Troy
+Daimler India Commercial Vehicles,4.1,Automobile , 1k-5k Employees , 137 years old ,Chennai
+Photon Interactive,4.1,IT Services & Consulting , 1k-5k Employees , 24 years old ,London
+Bayer,4.2,Pharma , 1k-5k Employees , 160 years old ,Monheim Am Rhein
+Edelweiss,3.8,Financial Services , 5k-10k Employees , 6 years old ,Mumbai
+Fusion BPO Services,3.1,BPO , 1k-5k Employees , 19 years old ,Draper
+Krishna Maruti,4.1,Auto Components , 1k-5k Employees , 29 years old ,Gurgaon/Gurugram
+Cushman & Wakefield,4.3,Real Estate , 1k-5k Employees , 26 years old ,Chicago
+CGI Information Systems And Management Consultants,4.2,Bengaluru/Bangalore +9 more,,,Bengaluru/Bangalore
+Bharat Forge,3.8,Iron & Steel , 1k-5k Employees , 62 years old ,Pune
+Standard Chartered Global Business Services,4.0,IT Services & Consulting , 10k-50k Employees , 22 years old ,Chennai
+Iksula,4.0,IT Services & Consulting , 201-500 Employees , 16 years old ,Mumbai
+Adani Power,3.9,Power , 1k-5k Employees , 17 years old ,Ahmedabad
+GE Vernova,4.2,Noida +63 more,,,Noida
+Unisys,3.9,IT Services & Consulting , 1k-5k Employees , 37 years old ,Blue Bell
+TTEC India,3.9,BPO , 1k-5k Employees , 39 years old ,Englewood
+Gland Pharma,3.9,Pharma , 1k-5k Employees , 45 years old ,Hyderabad/Secunderabad
+Hero Motors Company,4.0,Automobile , 201-500 Employees , 25 years old ,New Delhi
+Sysnet Global Technologies,3.6,IT Services & Consulting , 1k-5k Employees , 24 years old ,Delhi/NCR
+Indiabulls Home Loans,3.9,NBFC , 5k-10k Employees , 18 years old ,Gurgaon/Gurugram
+Aptara,3.3,Printing & Publishing , 1k-5k Employees , 35 years old ,Falls Church
+Sharekhan,4.0,FinTech , 1k-5k Employees , 23 years old ,Mumbai
+Supreme Industries,4.1,5k-10k Employees , Public , 81 years old ,Mumbai
+GMR Group,4.1,Engineering & Construction , 5k-10k Employees , 45 years old ,Delhi/NCR
+Evalueserve,3.6,IT Services & Consulting , 1k-5k Employees , 23 years old ,Schaffhausen
+FirstCry,3.8,Retail , 1k-5k Employees , 13 years old ,Pune
+Sanofi,4.4,Pharma , 5k-10k Employees , 19 years old ,Paris
+Vfs Global Services,3.8,BPO , 1k-5k Employees , 22 years old ,Mumbai
+Iris Software,4.3,IT Services & Consulting , 1k-5k Employees , 32 years old ,Edison
+Adani Ports and SEZ,3.9,Real Estate , 1k-5k Employees , 25 years old ,Ahmedabad
+Jindal X,3.7,BPO , 501-1k Employees , 25 years old ,New Delhi
+Cinépolis,4.2,Retail , 1k-5k Employees , 52 years old ,Morelia
+NSE.IT,3.6,IT Services & Consulting , 201-500 Employees , 24 years old ,Mumbai
+The Jaypee Group,3.9,Engineering & Construction , 5k-10k Employees , 44 years old ,Noida
+Amity University,3.7,Education & Training , 1k-5k Employees , 18 years old ,Noida
+Saipem,3.8,Industrial Machinery , 10k-50k Employees (Global) , 66 years old ,San Donato Milanese
+Northern Trust Operating Services,4.1,Financial Services , 5k-10k Employees , 18 years old ,Bangalore/Bengaluru
+Aye Finance,4.2,FinTech , 1k-5k Employees , 10 years old ,Delhi
+Granules India,4.0,Pharma , 1k-5k Employees , 39 years old ,Hyderabad/Secunderabad
+Polycab Wires,4.0,Electrical Equipment , 1k-5k Employees , 27 years old ,Mumbai
+Spicejet,3.5,Aviation , 5k-10k Employees , 19 years old ,Gurgaon/Gurugram
+Ashoka Buildcon,4.1,Engineering & Construction , 1k-5k Employees , 47 years old ,Nasik/Nashik
+Indiabulls Consumer Finance,3.9,NBFC , 1k-5k Employees , 29 years old ,Mumbai
+KIA MOTORS,3.8,Automobile , 1k-5k Employees , 79 years old ,Seoul
+Compass Group Support Services,4.0,Hospitality , 10k-50k Employees , 82 years old ,Chertsey
+Altruist Technologies,3.1,Internet , 51-200 Employees , 18 years old ,Chandigarh
+Manipal Hospitals,4.2,Healthcare , 5k-10k Employees , 70 years old ,Bangalore/Bengaluru
+Godrej Group,4.0,FMCG , 10k-50k Employees , 126 years old ,Mumbai
+SYSKA LED Lights,3.2,Consumer Electronics & Appliances , 1k-5k Employees (Global) , 11 years old ,Pune
+Videocon d2h,3.9,Internet , 501-1k Employees , 14 years old ,Mumbai
+ICICI Home Finance,3.9,NBFC , 1k-5k Employees , 24 years old ,Mumbai
+ITD Cementation India,4.2,Engineering & Construction , 1k-5k Employees , 92 years old ,Mumbai
+Ab Inbev,3.5,Beverage , 1k-5k Employees , 35 years old ,Leuven
+Indoco Remedies,3.7,Pharma , 1k-5k Employees , 76 years old ,Mumbai
+Xiaomi,3.8,Consumer Electronics & Appliances , 1k-5k Employees , 13 years old ,Haidian District
+Tata Advanced Systems,3.8,Defence & Aerospace , 5k-10k Employees , 16 years old ,Hyderabad/Secunderabad
+Broadridge Financial Solutions,4.0,Financial Services , 1k-5k Employees , 16 years old ,New York City
+Mondelez International,4.5,Food Processing , 1k-5k Employees , 11 years old ,Greater Chicago Area
+Health Care Global Enterprises,4.1,Healthcare , 5k-10k Employees , 34 years old ,Bangalore/Bengaluru
+Caterpillar Inc,4.2,Industrial Machinery , 5k-10k Employees , 98 years old ,Deerfield
+Infinite Computer Solutions,3.7,IT Services & Consulting , 1k-5k Employees , 22 years old ,Rockville
+MiraMed Ajuba,4.0,IT Services & Consulting , 1k-5k Employees , 22 years old ,Chennai
+Asahi India Glass,3.9,Auto Components , 1k-5k Employees , 39 years old ,Gurgaon/Gurugram
+Steel Strips Wheels,3.8,Auto Components , 1k-5k Employees , 38 years old ,Chandigarh
+GlaxoSmithKline Pharmaceuticals,4.1,Pharma , 1k-5k Employees , Fortune India 500 ,Brentford
+Heritage Foods,4.0,FMCG , 1k-5k Employees , 31 years old ,Hyderabad/Secunderabad
+TCS iON,3.9,IT Services & Consulting , 1k-5k Employees , 12 years old ,Mumbai
+Unichem Laboratories,4.0,Pharma , 1k-5k Employees , 79 years old ,Mumbai
+Iffco Tokio General Insurance Co.,4.1,Insurance , 1k-5k Employees , 23 years old ,Gurgaon/Gurugram
+Synchrony,4.4,Financial Services , 1k-5k Employees , 20 years old ,Stamford
+Karma Ayurveda,4.5,Healthcare , 201-500 Employees , 201-500 Employees ,New Delhi
+SKF,3.9,Auto Components , 1k-5k Employees , 100 years old ,Gothenburg
+Bharat FIH,4.0,5k-10k Employees , Chennai +22 more,5k-10k Employees ,Chennai
+AGS Transact Technologies,3.4,BPO , 10k-50k Employees , 21 years old ,Mumbai
+EYGBS,3.8,50k-1 Lakh Employees , 5 years old , 5 years old ,Bangalore/Bengaluru
+Altisource,3.7,Real Estate , 1k-5k Employees , 16 years old ,Bangalore/Bengaluru
+Bisleri,4.2,FMCG , 1k-5k Employees , 58 years old ,Mumbai
+Adani Group,3.9,Power , 10k-50k Employees , 35 years old ,Ahmedabad
+Best Sellers,4.2,Fashion & Textile , 1k-5k Employees , 48 years old ,Brande
+DCM Shriram,4.2,Chemicals , 1k-5k Employees , 33 years old ,Delhi/NCR
+Consolidated Contractors,4.5,Engineering & Construction , 1k-5k Employees , 71 years old ,Marousi
+DISH TV,3.7,Media & Entertainment , 1k-5k Employees , 20 years old ,Noida
+FDC,4.0,Pharma , 1k-5k Employees , 83 years old ,Mumbai
+DENSO,4.1,Auto Components , 1k-5k Employees , 76 years old ,Kariya
+GE,4.3,Engineering & Construction , 1k-5k Employees , 131 years old ,Boston
+IFB,3.7,Consumer Electronics & Appliances , 201-500 Employees , 49 years old ,Kolkata
+Pine Labs,3.8,FinTech , 1k-5k Employees , 25 years old ,Noida
+Annapurna Finance,4.1,Financial Services , 5k-10k Employees , 14 years old ,Bhubaneswar
+Cargill,4.3,Food Processing , 1k-5k Employees , 158 years old ,Wayzata
+BVG India,4.0,Facility Management Services , 50k-1 Lakh Employees , 26 years old ,Pune
+Punj Lloyd,4.3,Engineering & Construction , 1k-5k Employees , 41 years old ,Gurgaon/Gurugram
+Fidelity National Financial,3.8,Financial Services , 1k-5k Employees , 176 years old ,Bangalore Rural
+EPAM Systems,3.8,IT Services & Consulting , 1k-5k Employees , 30 years old ,Newtown
+HighRadius,3.1,FinTech , 1k-5k Employees , 17 years old ,Houston
+Atul,4.0,Chemicals , 1k-5k Employees , 76 years old ,Valsad
+Vestas,4.2,Power , 1k-5k Employees , 78 years old ,Aarhus
+Devyani International,3.7,Retail , 5k-10k Employees , 32 years old ,Gurgaon/Gurugram
+Gannon Dunkerley,3.8,Engineering & Construction , 1k-5k Employees , 99 years old ,Mumbai
+Fino Payments Bank,4.1,FinTech , 1k-5k Employees , 17 years old ,Mumbai
+Fresenius Kabi,4.2,Healthcare , 1k-5k Employees , 111 years old ,Pune
+Serco,4.4,Analytics & KPO , 5k-10k Employees , 35 years old ,Hook
+Valeo,4.0,Auto Components , 5k-10k Employees , 100 years old ,Paris
+Luminous Power Technologies,4.2,Electrical Equipment , 1k-5k Employees , 35 years old ,Gurgaon/Gurugram
+Medhaj Techno Concept,4.4,Management Consulting , 1k-5k Employees , 16 years old ,Lucknow
+Shriram Pistons & Rings,4.1,Auto Components , 1k-5k Employees , 60 years old ,Delhi/NCR
+Amneal Pharmaceuticals,4.3,Pharma , 1k-5k Employees , 21 years old ,Bridgewater
+FastInfo,4.4,EdTech , 501-1k Employees , 4 years old ,Kolkata
+Burger King,3.9,Hospitality , 5k-10k Employees , 9 years old ,Miami
+Shadowfax Technologies,3.6,Logistics , 1k-5k Employees , 8 years old ,Bangalore
+ECIL,4.2,Defence & Aerospace , 501-1k Employees , 56 years old ,Hyderabad/Secunderabad
+GAIL,4.4,Oil & Gas , 1k-5k Employees , 39 years old ,Delhi/NCR
+TaskUs,3.6,BPO , 1k-5k Employees , 15 years old ,New Braunfels
+Newgen Software Technologies,3.5,IT Services & Consulting , 1k-5k Employees , 31 years old ,New Delhi
+Johnson Lifts,4.1,Industrial Machinery , 1k-5k Employees , 42 years old ,Chennai
+Majorel,4.5,BPO , 201-500 Employees , 4 years old ,Luxembourg
+Ola Electric Mobility,3.2,Internet , 1k-5k Employees , 6 years old ,Bangalore
+NeoSOFT,3.7,IT Services & Consulting , 1k-5k Employees , 27 years old ,Mumbai
+JW Marriott,4.2,Hospitality , 1k-5k Employees , 96 years old ,Bethesda
+XcelServ Solutions,4.6,IT Services & Consulting , 501-1k Employees , 12 years old ,Las Vegas
+Redcliffe Labs,4.5,Healthcare , 1k-5k Employees , 4 years old ,Gurgaon
+Piaggio,3.8,Automobile , 1k-5k Employees , 139 years old ,Pontedera
+Nielsen,3.9,IT Services & Consulting , 1k-5k Employees , 100 years old ,New York City
+Oil And Natural Gas Corporation,4.4,Oil & Gas , 10k-50k Employees , 67 years old ,Delhi/NCR
+NEC,4.5,IT Services & Consulting , 1k-5k Employees , 124 years old ,Noida
+Sahara India Pariwar,3.8,Broadcasting , 5k-10k Employees , 45 years old ,Lucknow
+PharmEasy,3.7,Internet , 1k-5k Employees , 8 years old ,Mumbai
+Petrofac,4.4,Oil & Gas , 1k-5k Employees , 42 years old ,Jermyn Street
+Zf Rane Automotive,4.0,Auto Components , 51-200 Employees , 51-200 Employees ,Chennai
+iSON Xperiences,3.5,BPO , 5k-10k Employees , 12 years old ,Lagos
+Bharat Sanchar Nigam,3.9,Telecom , 50k-1 Lakh Employees , 23 years old ,Delhi/NCR
+Vertex Customer Solutions,3.5,IT Services & Consulting , 5k-10k Employees , 13 years old ,Panchkula
+SAI Life Sciences,3.8,Pharma , 1k-5k Employees , 24 years old ,Hyderabad
+Tenneco,3.8,Auto Components , 1k-5k Employees , 83 years old ,Lake Forest
+Tikona Infinet,3.7,Telecom , 1k-5k Employees , 15 years old ,Mumbai
+Wheelseye Technology,3.8,Logistics , 11-50 Employees , 6 years old ,Gurgaon
+Wind World,3.9,Power , 5k-10k Employees , 29 years old ,Mumbai
+Intertek,3.8,Other , 1k-5k Employees , 26 years old ,London
+Indegene,3.7,Analytics & KPO , 1k-5k Employees , 25 years old ,Princeton
+Volkswagen,4.2,Automobile , 1k-5k Employees , 22 years old ,Mumbai
+Paytm Payments Bank,3.8,FinTech , 1k-5k Employees , 7 years old ,Noida
+Amara Raja Batteries,4.2,Auto Components , Fortune India 500 , Fortune India 500 ,Tirupati
+iQor Global Services,3.6,BPO , 1k-5k Employees , 25 years old ,Saint Petersburg
+PNB Housing Finance,3.9,NBFC , 1k-5k Employees , 35 years old ,Delhi/NCR
+ManpowerGroup,3.9,Recruitment , 50k-1 Lakh Employees , 26 years old ,New Delhi
+Gujarat Fluorochemicals,4.2,Chemicals , 5k-10k Employees , 36 years old ,Noida
+Bajaj Motors,3.8,Automobile , 5k-10k Employees , 37 years old ,Gurgaon
+LivSpace,3.5,Architecture & Interior Design , 1k-5k Employees , 8 years old ,Bangalore
+Spencer's Retail,4.0,Retail , 1k-5k Employees , 160 years old ,Kolkata
+TUV SUD,3.9,Other , 1k-5k Employees , 157 years old ,Munich
+United Alliance Technology,4.9,IT Services & Consulting , Pune +9 more,IT Services & Consulting ,Pune
+Continental Automotive Components,4.3,Auto Components , 5k-10k Employees , 152 years old ,Lower Saxony
+Clover Infotech,3.7,IT Services & Consulting , 1k-5k Employees , 29 years old ,Mumbai
+Mahindra CIE Automotive,3.7,Auto Components , 1k-5k Employees , 24 years old ,Mumbai
+JioMart,3.9,51-200 Employees , Kolkata +207 more,51-200 Employees ,Kolkata
+Schindler,3.9,1k-5k Employees , Pune +47 more,1k-5k Employees ,Pune
+Jubilant Pharmova,4.1,Pharma , 1k-5k Employees , 45 years old ,Noida
+Eaton Corporation,4.0,Power , 5k-10k Employees , 112 years old ,Cleveland
+Vibgyor High School,3.8,Education & Training , 1k-5k Employees , 19 years old ,Mumbai
+NSH,3.6,Engineering & Construction , 501-1k Employees , 45 years old ,Al Jubail
+IndiaFirst Life Insurance,4.2,Insurance , 1k-5k Employees , 14 years old ,Mumbai
+Slk Software Services,3.6,IT Services & Consulting , 1k-5k Employees , 23 years old ,Bangalore/Bengaluru
+Apco Infratech,3.8,Engineering & Construction , 1k-5k Employees , 31 years old ,Lucknow
+Suryoday Small Finance Bank,4.0,Banking , 1k-5k Employees , 15 years old ,Mumbai
+Jaquar,4.1,Furniture & Furnishing , 1k-5k Employees , 63 years old ,Gurgaon
+Goldman Sachs,3.7,Investment Banking / Venture Capital / Private Equity , 10k-50k Employees , 20 years old ,New York
+Siemens Gamesa Renewable Energy,4.1,Power , 1k-5k Employees , 47 years old ,Zamudio
+Strides Pharma,3.8,Pharma , 201-500 Employees , 33 years old ,Bangalore/Bengaluru
+Eureka Outsourcing Solutions,3.1,BPO , 1k-5k Employees , 21 years old ,Thane
+Episource,3.8,IT Services & Consulting , 1k-5k Employees , 17 years old ,Gardena
+Podar International School,4.3,Education & Training , 5k-10k Employees , 96 years old ,Mumbai
+Thyrocare Technologies,3.3,Healthcare , 1k-5k Employees , 27 years old ,Mumbai
+Zydus Lifesciences,4.0,Pharma , 10k-50k Employees , 71 years old ,Ahmedabad
+Infogain,3.6,IT Services & Consulting , 1k-5k Employees , 33 years old ,Los Gatos
+AIIMS,4.2,Healthcare , 5k-10k Employees , 67 years old ,Delhi/NCR
+Tata 1mg,3.8,Internet , 1k-5k Employees , 8 years old ,Gurgaon
+Sri Chaitanya Educational Institutions,3.8,Education & Training , 51-200 Employees , 37 years old ,Hyderabad/Secunderabad
+Sansera Engineering,4.1,Auto Components , 501-1k Employees , 37 years old ,Bangalore/Bengaluru
+JSW Cement,4.0,Building Material , 1k-5k Employees , 14 years old ,Mumbai
+HARMAN,3.8,Consumer Electronics & Appliances , 5k-10k Employees , 14 years old ,Stamford
+Intex Technologies,3.6,Consumer Electronics & Appliances , 1k-5k Employees , 27 years old ,Delhi/NCR
+Mando Automotive,3.9,Auto Components , 1k-5k Employees , 17 years old ,Kanchipuram
+Atos Global IT Solutions And Services,4.0,IT Services & Consulting , 5k-10k Employees , 23 years old ,Navi Mumbai
+Alstom,4.0,Urban Transport , 5k-10k Employees , 95 years old ,Saint-Ouen
+Tietoevry,4.2,IT Services & Consulting , 1k-5k Employees , 55 years old ,Helsinki
+Adobe,4.2,Software Product , 5k-10k Employees , 26 years old ,San Jose
+Sunknowledge Services,4.1,Healthcare , 51-200 Employees , 17 years old ,New York
+Coca-Cola Company,4.2,Marketing & Advertising , 201-500 Employees , 137 years old ,Atlanta
+Dhoot Transmission,3.6,Power , 201-500 Employees , 25 years old ,Mumbai
+QualityKiosk Technologies,3.7,IT Services & Consulting , 1k-5k Employees , 23 years old ,Mumbai
+TechnipFMC,3.9,Oil & Gas , 1k-5k Employees , 6 years old ,Paris
+TE Connectivity,4.1,Consumer Electronics & Appliances , 501-1k Employees , 82 years old ,Schaffhausen
+Godrej Consumer Products,4.2,FMCG , 1k-5k Employees , 22 years old ,Mumbai
+Kendriya Vidyalaya Sangathan,4.3,Education & Training , 10k-50k Employees , 60 years old ,Delhi/NCR
+Automotive Manufacturers,4.1,Automobile , 1k-5k Employees , 75 years old ,Mumbai
+Hinduja Leyland Finance,4.1,FinTech , 1k-5k Employees , 17 years old ,Chennai
+Aditya Birla Health Insurance Co,3.9,Insurance , 1k-5k Employees , 8 years old ,Mumbai
+Rockman Industries,3.8,Auto Components , 1k-5k Employees , 63 years old ,Delhi/NCR
+BGR Energy Systems,3.8,Oil & Gas , 1k-5k Employees , 38 years old ,Nellore
+Lemon Tree Hotels,4.1,Hospitality , 1k-5k Employees , 21 years old ,Delhi/NCR
+Xyz Company,3.8,Financial Services , 51-200 Employees (Global) , 51-200 Employees (Global) ,Mumbai
+Tata AutoComp Systems,4.0,Auto Components , 1k-5k Employees , 25 years old ,Pune
+SLK Global Services,3.9,IT Services & Consulting , 51-200 Employees , 23 years old ,Dallas
+1point1 Solutions,3.4,BPO , 5k-10k Employees , 15 years old ,Navi Mumbai
+Apotex Research,4.4,Pharma , 201-500 Employees , 20 years old ,Brantford
+Decathlon,4.0,Retail , 1k-5k Employees , 47 years old ,Lille
+RBL FinServe,4.1,Financial Services , 5k-10k Employees , 18 years old ,Mumbai
+Spinny,4.0,Internet , 1k-5k Employees , 8 years old ,Gurgaon
+Kirloskar Oil Engines,4.1,Industrial Machinery , 1k-5k Employees , 77 years old ,Pune
+Vistaar Finance,4.2,Financial Services , 1k-5k Employees , 13 years old ,Bangalore
+JK Lakshmi Cement,3.9,Building Material , 1k-5k Employees , 41 years old ,Delhi/NCR
+Hatsun Agro Product,4.0,FMCG , 1k-5k Employees , 53 years old ,Chennai
+Schaeffler India,4.2,Auto Components , 1k-5k Employees , 77 years old ,Mumbai
+Arthur J. Gallagher & Co,3.9,Insurance , 1k-5k Employees , 21 years old ,Pune
+Viraj Profiles,3.7,Iron & Steel , 1k-5k Employees , 23 years old ,Mumbai
+Apexon,3.4,IT Services & Consulting , 1k-5k Employees , 27 years old ,Santa Clara
+Worley,4.0,Engineering & Construction , 1k-5k Employees , 52 years old ,North Sydney
+MDIndia Health Insurance TPA,3.9,Insurance , 5k-10k Employees , 23 years old ,Pune
+Parexel International,4.1,Healthcare , 1k-5k Employees , 41 years old ,Massachusetts
+Onward Technologies Inc,3.3,Software Product , 1k-5k Employees , 32 years old ,Pune
+Infinx,3.7,IT Services & Consulting , 1k-5k Employees , 11 years old ,Mumbai
+V2 Retail,3.5,Fashion & Textile , 1k-5k Employees , 22 years old ,Delhi/NCR
+Aarvee Associates,3.8,Engineering & Construction , 1k-5k Employees , 34 years old ,Hyderabad/Secunderabad
+R Systems International,3.5,IT Services & Consulting , 1k-5k Employees , 30 years old ,El Dorado Hills
+Ceasefire Industries,3.3,Industrial Machinery , 1k-5k Employees , 21 years old ,Noida
+Shriram Life Insurance,3.9,Insurance , 1k-5k Employees , 18 years old ,Hyderabad/Secunderabad
+Barbeque Nation,4.0,Retail , 5k-10k Employees , 17 years old ,Bangalore/Bengaluru
+Novo Nordisk,4.0,Pharma , 1k-5k Employees , 100 years old ,New York City
+PNC Infratech,4.0,Engineering & Construction , 5k-10k Employees , 24 years old ,Delhi/NCR
+Power Grid Corporation of India,4.4,Power , 5k-10k Employees , 34 years old ,Gurgaon/Gurugram
+Foxconn,4.0,Electronics Manufacturing , 10k-50k Employees , 49 years old ,Taipei
+Wistron,3.8,Electronics Manufacturing , 201-500 Employees , 22 years old ,Taipei
+Tata Chemicals,4.1,Chemicals , 1k-5k Employees , 85 years old ,Mumbai
+Hyundai Mobis,3.8,Auto Components , 1k-5k Employees , 6 years old ,Kanchipuram
+Hathway,3.7,Media & Entertainment , 1k-5k Employees , 64 years old ,Mumbai
+Feedback Infrastructure Services,3.6,Engineering & Construction , 5k-10k Employees , 33 years old ,Gurgaon/Gurugram
+Dana Anand,4.2,Auto Components , 1k-5k Employees , 30 years old ,Delhi/NCR
+Dana Anand,4.2,Auto Components , 1k-5k Employees , 30 years old ,Delhi/NCR
+Morningstar,4.1,Financial Services , 1k-5k Employees , 39 years old ,Chicago
+K12 Techno Services,3.1,EdTech , 1k-5k Employees , 13 years old ,Bangalore/Bengaluru
+Shubham Housing Development Finance,4.1,NBFC , 10k-50k Employees , 13 years old ,Gurgaon
+Dixon Technologies,4.0,Consumer Electronics & Appliances , 1k-5k Employees , 30 years old ,Noida
+Shalby Hospitals,4.7,Healthcare , 1k-5k Employees , 29 years old ,Ahmedabad
+Godrej Properties,3.7,Real Estate , 1k-5k Employees , 33 years old ,Mumbai
+Spandana Sphoorty Financial,3.6,NBFC , 10k-50k Employees , 25 years old ,Hyderabad/Secunderabad
+VMware Software,4.3,Software Product , 5k-10k Employees , 25 years old ,Palo Alto
+Bosch Chassis Systems,4.2,Auto Components , 1k-5k Employees , 72 years old ,Gerlingen
+OM Logistics,4.1,Logistics , 1k-5k Employees , 24 years old ,Delhi/NCR
+Canara Bank,3.4,Banking , 50k-1 Lakh Employees , 117 years old ,Bangalore/Bengaluru
+Altimetrik,3.9,IT Services & Consulting , 1k-5k Employees , 11 years old ,Southfield
+Unicharm,4.2,Beauty & Personal Care , 1k-5k Employees , 62 years old ,Mita
+The Ramco Cements,4.3,Building Material , 1k-5k Employees , 62 years old ,Chennai
+Sundaram Clayton,4.0,Auto Components , 1k-5k Employees , 61 years old ,Chennai
+Ion Exchange India,3.8,Waste Management , 1k-5k Employees , 59 years old ,Mumbai
+Edelweiss Tokio Life Insurance,3.9,Financial Services , 1k-5k Employees , 12 years old ,Mumbai
+Urban Company,3.6,Internet , 1k-5k Employees , 8 years old ,Gurgaon
+Kirloskar Brothers,4.0,Industrial Machinery , 1k-5k Employees , 135 years old ,Pune
+Hindustan Zinc,3.9,Metals & Mining , 1k-5k Employees , 57 years old ,Udaipur
+Sonata Software,3.9,IT Services & Consulting , 1k-5k Employees , 37 years old ,Bangalore/Bengaluru
+Toppr,3.5,EdTech , 1k-5k Employees , 10 years old ,Mumbai
+Barclays Global Service Centre,4.2,IT Services & Consulting , 201-500 Employees , 16 years old ,Pune
+Next Education India,3.7,EdTech , 1k-5k Employees , 16 years old ,Hyderabad/Secunderabad
+Capacit'e Infraprojects,3.6,Engineering & Construction , 501-1k Employees , 11 years old ,Mumbai
+Nilkamal,3.9,Furniture & Furnishing , 1k-5k Employees , 42 years old ,Mumbai
+Provana,3.8,Software Product , 501-1k Employees , 12 years old ,Lisle
+Orion Edutech,3.2,EdTech , 5k-10k Employees , 17 years old ,Kolkata
+Nirma,4.3,Chemicals , 10k-50k Employees , 33 years old ,Ahmedabad
+Colgate Palmolive,4.2,FMCG , 1k-5k Employees , 86 years old ,New York
+UBS,3.9,Financial Services , 5k-10k Employees , 8 years old ,Zurich
+FLSmidth,3.7,Industrial Machinery , 1k-5k Employees , 141 years old ,Copenhagen
+VIP Industries,3.9,Retail , 501-1k Employees , 52 years old ,Mumbai
+Pricol,4.0,Auto Components , 1k-5k Employees , 48 years old ,Coimbatore
+AstraZeneca,4.2,IT Services & Consulting , 1k-5k Employees , 24 years old ,Cambridge
+Columbia Asia,4.4,Healthcare , 1k-5k Employees , 18 years old ,Bangalore/Bengaluru
+Fidelity Investment,4.4,Financial Services , 5k-10k Employees , 77 years old ,Boston
+Intel,4.3,Semiconductors , 10k-50k Employees , 55 years old ,Santa Clara
+ThyssenKrupp Industries India,4.1,Industrial Machinery , 1k-5k Employees , 76 years old ,Pune
+Pizza Hut,4.0,Hospitality , 1k-5k Employees , 65 years old ,Plano
+Visionet Systems,3.2,IT Services & Consulting , 1k-5k Employees , 28 years old ,Cranbury
+Trade India (Infocom Network Private Limited),3.3,Internet , 1k-5k Employees , 27 years old ,Noida
+Gmmco,4.1,Real Estate , 1k-5k Employees , 56 years old ,Chennai
+Airtel Payments Bank,4.2,FinTech , 501-1k Employees , 7 years old ,Delhi/NCR
+Sundaram Finance,4.2,NBFC , 1k-5k Employees , 69 years old ,Chennai
+Perfetti Van Melle,4.3,Food Processing , 1k-5k Employees , 22 years old ,Lainate
+Chetu,3.4,IT Services & Consulting , 1k-5k Employees , 23 years old ,Plantation
+CarDekho,3.6,Internet , 1k-5k Employees , 15 years old ,Jaipur
+Punjab National Bank,4.0,Banking , 1 Lakh+ Employees , 129 years old ,Delhi/NCR
+C&S Electric,3.9,Electrical Equipment , 5k-10k Employees , 57 years old ,Delhi/NCR
+iMerit,3.9,Software Product , 1k-5k Employees , 11 years old ,Kolkata
+CSB Bank,3.4,Banking , 1k-5k Employees , 103 years old ,Thrissur/Trichur
+CenturyPly,4.0,Furniture & Furnishing , 1k-5k Employees , 37 years old ,Kolkata
+Mahindra First Choice Wheels,3.9,Automobile , 201-500 Employees , 29 years old ,Mumbai
+Egis  India Consulting Engineers,4.2,Engineering & Construction , 1k-5k Employees , 18 years old ,Gurgaon/Gurugram
+Secure Meters,4.1,Electrical Equipment , 1k-5k Employees , 36 years old ,Chandlers Ford
+Hitachi Astemo,4.1,Auto Components , 1k-5k Employees , 1k-5k Employees ,Neemrana
+eClinicalWorks,4.1,IT Services & Consulting , 1k-5k Employees , 24 years old ,Westborough
+LOREAL,4.2,Beauty & Personal Care , 1k-5k Employees , 32 years old ,Clichy
+CADD Centre Training Services,4.0,Education & Training , 1k-5k Employees , 35 years old ,Chennai
+Bajaj Housing Finance,3.8,NBFC , 1k-5k Employees , 15 years old ,Pune
+Thomas Cook,3.7,Travel & Tourism , 1k-5k Employees , 142 years old ,Mumbai
+Teva Pharmaceuticals,4.2,Pharma , 1k-5k Employees , 44 years old ,Dublin
+Genius Consultants,3.8,Recruitment , 201-500 Employees , 30 years old ,Kolkata
+GEP Worldwide,3.8,IT Services & Consulting , 1k-5k Employees , 24 years old ,Clark
+MakeMyTrip,3.8,Travel & Tourism , 1k-5k Employees , 23 years old ,Gurgaon
+Dassault Systemes,4.0,Software Product , 1k-5k Employees , 42 years old ,Velizy-villacoublay
+Reliance AJIO,3.8,Internet , 1k-5k Employees , 7 years old ,Bengaluru
+MAHLE ANAND Filter Systems,4.1,Auto Components , 501-1k Employees , 18 years old ,Stuttgart
+Panasonic Life Solutions,4.1,Electrical Equipment , 1k-5k Employees , 60 years old ,Mumbai
+Exela Technologies,3.4,IT Services & Consulting , 1k-5k Employees , 12 years old ,Irving
+INDO-MIM,4.2,Industrial Machinery , 1k-5k Employees , 25 years old ,Bangalore/Bengaluru
+C.R.I. Pumps,3.8,Industrial Machinery , 1k-5k Employees , 62 years old ,Coimbatore
+Nippon Paint India,4.0,Chemicals , 1k-5k Employees , 142 years old ,Osaka
+Syngenta,4.3,Agriculture , 501-1k Employees , 23 years old ,Basel
+Colliers International,4.0,Real Estate , 1k-5k Employees , 28 years old ,Ontario
+TEKsystems,3.7,IT Services & Consulting , 1k-5k Employees , 40 years old ,Hanover
+Ahluwalia Contracts India,4.0,Engineering & Construction , 1k-5k Employees , 58 years old ,Delhi/NCR
+Ruchi Soya Industries,4.1,Food Processing , 1k-5k Employees , 37 years old ,Mumbai
+Vedanta Resources,3.8,Metals & Mining , 1k-5k Employees , 47 years old ,London
+Nykaa,3.4,Fitness & Wellness , 1k-5k Employees , 11 years old ,Mumbai
+Diageo,4.1,Beverage , 1k-5k Employees , 26 years old ,London
+Jacobs Engineering Group,4.2,Engineering & Construction , 201-500 Employees , 76 years old ,Dallas
+Huhtamaki,3.9,Packaging , 1k-5k Employees , 88 years old ,Espoo
+Nexa,4.1,Automobile , 1k-5k Employees , 8 years old ,Delhi/NCR
+Better.com,3.0,Financial Services , 201-500 Employees , 7 years old ,New York City
+Marks & Spencer,4.2,Retail , 1k-5k Employees , 139 years old ,London
+Yashoda Hospitals,3.9,Healthcare , 501-1k Employees , 34 years old ,Ghaziabad
+Jakson Group,3.9,Power , 1k-5k Employees , 76 years old ,Noida
+Amazon Logistics,4.3,Logistics , 51-200 Employees , 51-200 Employees ,Hyderabad/Secunderabad
+V5 Global Services,3.9,Recruitment , 10k-50k Employees , 18 years old ,Delhi/NCR
+Imperial Auto Industries,3.8,Automobile , 1k-5k Employees , 54 years old ,Faridabad
+Karur Vysya Bank,3.7,Banking , 5k-10k Employees , 107 years old ,Karur
+Medplus(optival Health Solutions),3.6,501-1k Employees , Fortune India 500 , 17 years old ,Hyderabad
+Future Supply Chain Solutions,4.3,Logistics , 1k-5k Employees , 17 years old ,Mumbai
+Neel Metal Products,4.1,Metals & Mining , 201-500 Employees , 201-500 Employees ,Gurgaon
+Karvy Computershare,3.7,Hyderabad/Secunderabad +61 more,,,Hyderabad/Secunderabad
+Indusind Marketing & Financial Services,4.0,Financial Services , 501-1k Employees , 21 years old ,Chennai
+Karvy Stock Broking,3.5,Financial Services , 1k-5k Employees , 33 years old ,Hyderabad/Secunderabad
+TNQ Technologies,3.7,Printing & Publishing , 1k-5k Employees , 25 years old ,Chennai
+ZF Steering Gear,3.7,Auto Components , 501-1k Employees , 108 years old ,Pune
+Sykes Business Services Of India,3.5,BPO , 10k-50k Employees , 46 years old ,Tampa
+Brillio,3.6,IT Services & Consulting , 1k-5k Employees , 9 years old ,Edison
+FOCUS EDUMATICS,2.8,EdTech , 5k-10k Employees , 24 years old ,Bangalore/Bengaluru
+HFCL,4.1,Hardware & Networking , 1k-5k Employees , 36 years old ,Delhi/NCR
+Pramerica Life Insurance,3.9,Insurance , 1k-5k Employees , 9 years old ,Gurgaon
+JTEKT,4.2,Auto Components , 501-1k Employees , 17 years old ,Osaka
+Future Focus Infotech,3.5,IT Services & Consulting , 5k-10k Employees , 26 years old ,Chennai
+Pernod Ricard,3.8,Beverage , 1k-5k Employees , 48 years old ,Paris
+THE LEELA PALACES HOTELS & RESORTS,4.0,Hospitality , 1k-5k Employees , 40 years old ,Mumbai
+Kinara Capital,4.4,FinTech , 1k-5k Employees , 12 years old ,Bangalore
+Metropolis Healthcare,4.0,Healthcare , 1k-5k Employees , 43 years old ,Mumbai
+Panacea Biotec,3.8,Biotechnology , 1k-5k Employees , 39 years old ,Delhi/NCR
+Centum Electronics,3.8,Electronics Manufacturing , 1k-5k Employees , 29 years old ,Bangalore/Bengaluru
+Meril,3.8,Medical Equipment , 1k-5k Employees , 17 years old ,Vapi
+Uber,4.2,Internet , 1k-5k Employees , 14 years old ,San Francisco
+Incedo,3.6,IT Services & Consulting , 1k-5k Employees , 12 years old ,Iselin
+Greaves Cotton,4.1,Industrial Machinery , 1k-5k Employees , 164 years old ,Mumbai
+Bank of India,3.9,Banking , 50k-1 Lakh Employees , 117 years old ,Mumbai
+Evision Technoserve,4.6,Recruitment , 201-500 Employees , 11 years old ,Delhi/NCR
+GAMMON INDIA,3.9,Engineering & Construction , 11-50 Employees , 101 years old ,Mumbai
+Birla Corporation,4.1,Building Material , 1k-5k Employees , 104 years old ,Kolkata
+KEI Industries,4.1,Electrical Equipment , 1k-5k Employees , 55 years old ,Delhi/NCR
+KIMS Hospital,4.1,Healthcare , 501-1k Employees , 11 years old ,Hyderabad/Secunderabad
+CALIBEHR,3.8,Recruitment , 1k-5k Employees , 44 years old ,Mumbai
+Qualcomm,4.0,Semiconductors , 10k-50k Employees , 27 years old ,San Diego
+Happiest Minds Technologies,4.0,IT Services & Consulting , 1k-5k Employees , 12 years old ,Bangalore
+Aviva Life Insurance India,4.0,Insurance , 1k-5k Employees , 327 years old ,London
+Fluor Daniel India,4.1,Engineering & Construction , 501-1k Employees , 111 years old ,Irving
+Snapdeal,4.0,Internet , 1k-5k Employees , 13 years old ,Delhi
+Troikaa Pharmaceuticals,3.9,Pharma , 1k-5k Employees , 40 years old ,Ahmedabad
+Sandvik Asia,4.4,Industrial Machinery , 10k-50k Employees (Global) , 161 years old ,Stockholm
+Air India,4.0,Aviation , 10k-50k Employees , 93 years old ,Delhi/NCR
+Reliance Capital,3.8,Financial Services , 1k-5k Employees , 18 years old ,Navi Mumbai
+Alok Industries,3.8,Fashion & Textile , 10k-50k Employees , 37 years old ,Mumbai
+SNC-Lavalin,4.3,Engineering & Construction , 1k-5k Employees , 112 years old ,Montreal
+Vedanta Aluminium,3.9,Metals & Mining , 1k-5k Employees , 20 years old ,Jharsuguda
+Hikal,4.0,Pharma , 1k-5k Employees , 35 years old ,Mumbai
+Patra Corporation,3.7,IT Services & Consulting , 1k-5k Employees , 18 years old ,El Dorado Hills
+Visionary RCM Infotech,3.4,IT Services & Consulting , 1k-5k Employees , 17 years old ,Chennai
+Mswipe Technologies,3.1,FinTech , 1k-5k Employees , 12 years old ,Mumbai
+Napino Auto & Electronics,4.1,Auto Components , 5k-10k Employees , 26 years old ,Gurgaon/Gurugram
+GVPR Engineers,4.1,Engineering & Construction , 501-1k Employees , 26 years old ,Hyderabad/Secunderabad
+Allianz Technology,4.5,IT Services & Consulting , 1k-5k Employees , 133 years old ,Munich
+HT Media,3.6,Media & Entertainment , 1k-5k Employees , 99 years old ,Delhi/NCR
+Acme Cleantech Solutions,3.9,Industrial Machinery , 1k-5k Employees , 20 years old ,Gurgaon/Gurugram
+Fusion Microfinance,4.0,NBFC , 5k-10k Employees , 13 years old ,Delhi
+Shriram General Insurance,3.7,Insurance , 10k-50k Employees , 15 years old ,Jaipur
+Micromax Informatics,3.8,Consumer Electronics & Appliances , 1k-5k Employees , 23 years old ,Gurgaon/Gurugram
+Vertiv,3.9,IT Services & Consulting , 51-200 Employees (Global) , 7 years old ,Columbus
+Tata Steel BSL,4.0,Metals & Mining , 10k-50k Employees , 36 years old ,Mumbai
+Precision Techserve,3.9,IT Services & Consulting , 1k-5k Employees , 24 years old ,Chennai
+United Breweries,3.8,Beverage , 1k-5k Employees , 166 years old ,Bangalore/Bengaluru
+Samsung Engineering,4.2,Engineering & Construction , 1k-5k Employees , 17 years old ,Suwon-Si
+Mu Sigma,3.1,Analytics & KPO , 1k-5k Employees , 19 years old ,Northbrook
+Air India Sats Airport Services,3.9,Aviation , 1k-5k Employees , 13 years old ,Mumbai
+B. G. Shirke Construction Technology,4.1,Engineering & Construction , 1k-5k Employees , 79 years old ,Pune
+Bechtel,4.2,Engineering & Construction , 1k-5k Employees , 125 years old ,Reston
+Parekh Integrated Services,4.1,Logistics , 1k-5k Employees , 42 years old ,Mumbai
+Duck Creek Technologies,4.5,Software Product , 501-1k Employees , 23 years old ,Boston
+Samasta Microfinance,4.1,Financial Services , 5k-10k Employees , 15 years old ,Bangalore
+Willis Towers Watson,4.0,Financial Services , 1k-5k Employees , 7 years old ,London
+Wheels,4.1,Auto Components , 1k-5k Employees , 61 years old ,Chennai
+Fareportal,3.3,Internet , 1k-5k Employees , 21 years old ,New York
+Everest Industries,4.1,Building Material , 1k-5k Employees , 89 years old ,Noida
+Medha Servo Drives,4.1,Electronics Manufacturing , 501-1k Employees , 39 years old ,Hyderabad/Secunderabad
+PayPal,4.1,IT Services & Consulting , 1k-5k Employees , 25 years old ,San Jose
+Galfar,4.2,Engineering & Construction , 1k-5k Employees , 51 years old ,Muscat
+CRB Tech Solution,4.3,EdTech , 501-1k Employees , 22 years old ,Pune
+ICICI Prudential Mutual Fund,3.9,Financial Services , 1k-5k Employees , 30 years old ,New Delhi
+Samsung Electronics Corporation,4.2,Consumer Electronics & Appliances , 1 Lakh+ Employees (Global) , Forbes Global 2000 ,Noida
+VeeTechnologies,3.7,IT Services & Consulting , 1k-5k Employees , 23 years old ,New York
+Godfrey Phillips India,4.2,FMCG , 1k-5k Employees , 90 years old ,Delhi/NCR
+Atlas Copco,4.3,Industrial Machinery , 1k-5k Employees , 150 years old ,Nacka Municipality
+HPCL-Mittal Energy,4.3,1k-5k Employees , 16 years old , 16 years old ,Noida
+Skill Lync,3.2,EdTech , 201-500 Employees , 8 years old ,Palo Alto
+Godrej Agrovet,4.1,Agriculture , 1k-5k Employees , 1k-5k Employees ,Mumbai
+Natco Pharma,3.9,Pharma , 1k-5k Employees , 42 years old ,Hyderabad/Secunderabad
+Gharda Chemicals,4.1,Chemicals , 1k-5k Employees , 56 years old ,Mumbai
+Sri Chaitanya Schools,4.0,Education & Training , 11-50 Employees , 37 years old ,Hyderabad
+Renew Solar Power,4.3,Power , 1k-5k Employees , 12 years old ,Gurgaon
+Knorr-Bremse,4.1,Auto Components , 501-1k Employees , 10 years old ,Munich
+Softenger,4.1,IT Services & Consulting , 501-1k Employees , 24 years old ,Pune
+DuPont,4.2,Chemicals , 1k-5k Employees , 221 years old ,Wilmington
+Sandhar Technologies,3.8,Auto Components , 1k-5k Employees , 36 years old ,Gurgaon/Gurugram
+Aristo Pharmaceuticals,4.1,Pharma , 1k-5k Employees , 52 years old ,Mumbai
+Suzuki Motorcycle,4.1,Automobile , 1k-5k Employees , 114 years old ,Hamamatsu
+Rashmi Metaliks,3.5,Metals & Mining , 10k-50k Employees , 19 years old ,Kolkata
+Centre for Development of Advanced Computing,3.8,IT Services & Consulting , 1k-5k Employees , 35 years old ,Pune
+Star Cement,4.1,Building Material , 1k-5k Employees , 22 years old ,Kolkata
+Indira IVF Hospital,4.0,Healthcare , 1k-5k Employees , 8 years old ,Udaipur
+Amara Raja Group,4.1,Electrical Equipment , 10k-50k Employees , 38 years old ,Bangalore/Bengaluru
+Varroc Polymers,3.8,Auto Components , 201-500 Employees , 28 years old ,Aurangabad
+DLF,4.0,Real Estate , 501-1k Employees , 77 years old ,Gurgaon/Gurugram
+GlaxoSmithKline Consumer Healthcare,4.5,Pharma , 1k-5k Employees , 23 years old ,London
+Federal Bank,3.9,Banking , 10k-50k Employees , 92 years old ,Aluva
+Telenor,4.5,Telecom , 501-1k Employees , 14 years old ,Fornebu
+Orchids International School,2.9,Education & Training , 1k-5k Employees , 19 years old ,Nasik/Nashik
+Greenko Group,3.8,Power , 1k-5k Employees , 19 years old ,Hyderabad
+Greenko Group,3.8,Power , 1k-5k Employees , 19 years old ,Hyderabad
+Kotak Mahindra Prime,4.0,Banking , 10k-50k Employees , 27 years old ,Mumbai
+Page Industries,4.3,Fashion & Textile , 10k-50k Employees , 29 years old ,Bangalore/Bengaluru
+Medlife,3.7,Internet , 1k-5k Employees , 9 years old ,Bangalore
+Prodapt,3.8,IT Services & Consulting , 1k-5k Employees , 24 years old ,Chennai
+Aarvi Encon,3.9,BPO , 1k-5k Employees , 36 years old ,Mumbai
+Timken,4.0,Industrial Machinery , 1k-5k Employees , 25 years old ,Bangalore/Bengaluru
+Rupeek,3.7,FinTech , 1k-5k Employees , 8 years old ,Bangalore
+General Mills,4.3,IT Services & Consulting , 1k-5k Employees , 95 years old ,Minneapolis
+Lakshmi Machine Works,4.0,Industrial Machinery , 1k-5k Employees , 61 years old ,Coimbatore
+Artech Infosystems,3.6,1k-5k Employees , 31 years old , 31 years old ,Morristown
+Leadec India,3.9,Facility Management Services , 1k-5k Employees , 61 years old ,Stuttgart
+Capital Numbers Infotech,4.7,IT Services & Consulting , 501-1k Employees , 11 years old ,Kolkata
+Test Yantra Software Solutions,3.5,IT Services & Consulting , 1k-5k Employees , 16 years old ,Bangalore/Bengaluru
+More Supermarket,3.8,Retail , 10k-50k Employees , 16 years old ,Mumbai
+Kohler,3.9,Furniture & Furnishing , 1k-5k Employees , 150 years old ,Kohler
+DAV Public School,4.0,Education & Training , 1 Lakh+ Employees , 137 years old ,Delhi/NCR
+Otis Elevator,4.0,Industrial Machinery , 1k-5k Employees , 170 years old ,Farmington
+Aspire Systems,3.9,IT Services & Consulting , 1k-5k Employees , 27 years old ,Oak Brook
+Medusind Solutions,3.9,IT Services & Consulting , 1k-5k Employees , 21 years old ,Mumbai
+Aparna Constructions and Estates,4.1,Real Estate , 1k-5k Employees , 27 years old ,Hyderabad/Secunderabad
+Navayuga Engineering Company,4.1,Engineering & Construction , 501-1k Employees , 124 years old ,Hyderabad/Secunderabad
+Michelin,4.0,Auto Components , 1k-5k Employees , 14 years old ,Clermont-Ferrand
+Bridge & Roof Co,3.6,Engineering & Construction , 1k-5k Employees , 103 years old ,Kolkata
+T-SYSTEMS ICT INDIA,4.0,IT Services & Consulting , 1k-5k Employees , 7 years old ,Frankfurt
+Allscripts,4.2,IT Services & Consulting , 1k-5k Employees , 41 years old ,Chicago
+Sanden Vikas,3.8,Auto Components , 1k-5k Employees , 41 years old ,Faridabad
+Carnival Cruise Lines,4.5,Sports & Recreation , 1k-5k Employees , 51 years old ,Miami
+IDFC FIRST Bharat,4.2,NBFC , 5k-10k Employees , 7 years old ,Tiruchirappalli
+ValueMomentum,3.5,IT Services & Consulting , 1k-5k Employees , 23 years old ,Piscataway
+Genpact Headstrong Capital Markets,3.8,IT Services & Consulting , 1k-5k Employees , 25 years old ,New Delhi
+SFO Technologies,3.6,Electronics Manufacturing , 1k-5k Employees , 33 years old ,Kochi/Cochin
+Musashi Auto Parts,3.9,Auto Components , 1k-5k Employees , 85 years old ,Gurgaon/Gurugram
+Webhelp,3.8,BPO , 1k-5k Employees , 23 years old ,Paris
+Pacific BPO,3.6,BPO , 1k-5k Employees , 13 years old ,Noida
+Pristyn Care,3.6,Healthcare , 1k-5k Employees , 5 years old ,Delhi
+Hindustan Sanitaryware & Industries,4.1,Furniture & Furnishing , 1k-5k Employees , 63 years old ,Gurgaon/Gurugram
+LEAD School,3.3,EdTech , 1k-5k Employees , 10 years old ,Mumbai
+ICA Edu Skills,3.7,Education & Training , 1k-5k Employees , 24 years old ,Kolkata
+OCS Group,3.9,Facility Management Services , 10k-50k Employees , 27 years old ,Mumbai
+Grant Thornton,3.7,Accounting & Auditing , 5k-10k Employees , 99 years old ,Chicago
+GirnarSoft,3.7,IT Services & Consulting , 1k-5k Employees , 16 years old ,Jaipur
+OLX,3.9,IT Services & Consulting , 1k-5k Employees , 17 years old ,Gurgaon
+Reliance Power,4.2,Power , 1k-5k Employees , 28 years old ,Navi Mumbai
+Kalpataru Group,3.8,Real Estate , 1k-5k Employees , 54 years old ,Mumbai
+Zoho,4.3,Software Product , 10k-50k Employees , 27 years old ,Chennai
+ICCS,3.2,BPO , 501-1k Employees , 18 years old ,Delhi/NCR
+Ageas Federal Life Insurance,3.7,Insurance , 501-1k Employees , 15 years old ,Mumbai
+Schlumberger,4.2,Oil & Gas , 5k-10k Employees , 97 years old ,Houston
+Amazon Services,4.2,Hyderabad/Secunderabad +40 more,,,Hyderabad/Secunderabad
+Aditya Birla Finance,3.9,Financial Services , 10k-50k Employees , 11 years old ,Mumbai
+Ugam Solution,3.6,IT Services & Consulting , 1k-5k Employees , 23 years old ,Mumbai
+NetAmbit,3.4,FinTech , 501-1k Employees , 23 years old ,Noida
+Temenos,3.2,IT Services & Consulting , 1k-5k Employees , 30 years old ,Geneva
+Defence Research & Development Organisation,4.5,Defence & Aerospace , 10k-50k Employees , 65 years old ,Delhi/NCR
+Cult.fit,3.7,Internet , 1k-5k Employees , 7 years old ,Bangalore
+Athena BPO,3.2,BPO , 201-500 Employees , 4 years old ,Mumbai
+Steag Energy Services,4.2,Power , 1k-5k Employees , 23 years old ,Essen
+Capri Global Capital,3.9,NBFC , 1k-5k Employees , 26 years old ,Mumbai
+H.G. Infra Engineering,4.3,Engineering & Construction , 1k-5k Employees , 20 years old ,Jaipur
+Indiabulls Ventures,3.6,Financial Services , 1k-5k Employees , 28 years old ,Mumbai
+Kurlon,4.3,Furniture & Furnishing , 1k-5k Employees , 61 years old ,Bangalore/Bengaluru
+L&T Power,3.8,Power , 1k-5k Employees , 17 years old ,Mumbai
+Tanishq,4.2,Jewellery , 1 Lakh+ Employees , 29 years old ,Bangalore/Bengaluru
+Royal Sundaram General Insurance,3.9,Insurance , 1k-5k Employees , 22 years old ,Chennai
+Netscribes,3.0,Analytics & KPO , 1k-5k Employees , 23 years old ,New York
+Samsung Research,3.4,Consumer Electronics & Appliances , 1k-5k Employees , 54 years old ,Seocho-gu
+J B Chemicals And Pharmaceuticals,3.9,Pharma , 1k-5k Employees , 47 years old ,Mumbai
+Tata Starbucks,4.3,Retail , 1k-5k Employees , 52 years old ,Seattle
+Lowe's,4.3,Retail , 1k-5k Employees , 77 years old ,Mooresville
+Collins Aerospace,4.0,Defence & Aerospace , 1k-5k Employees , 5 years old ,Charlotte
+NBC Bearings,3.9,Auto Components , 1-10 Employees , 77 years old ,Jaipur
+Velocis Systems,4.0,IT Services & Consulting , 1k-5k Employees , 28 years old ,Noida
+SBFC Finance,3.7,Financial Services , 501-1k Employees , 6 years old ,Mumbai
+The Lalit,4.0,Hospitality , 1k-5k Employees , 42 years old ,New Delhi
+Sheenlac Paints,4.4,Chemicals , 501-1k Employees , 61 years old ,Chennai
+Quest Retail Private Limited,4.4,Retail , 501-1k Employees , 18 years old ,Gurgaon/Gurugram
+Stanza Living,2.9,Internet , 501-1k Employees , 6 years old ,Delhi
+Acuity Knowledge Partners,3.6,Financial Services , 1k-5k Employees , 21 years old ,London
+Eveready Industries,4.1,Auto Components , 1k-5k Employees , 89 years old ,Kolkata
+Asirvad Microfinance,3.9,NBFC , 5k-10k Employees , 16 years old ,Chennai
+Eveready Industries,4.1,Auto Components , 1k-5k Employees , 89 years old ,Kolkata
+Tata Consumer Products,3.9,FMCG , 1k-5k Employees , 61 years old ,Mumbai
+Flash Electronics,3.5,Electronics Manufacturing , 1k-5k Employees , 34 years old ,Pune
+Volvo,4.2,Automobile , 1k-5k Employees , 25 years old ,Gothenburg
+NetCracker,3.3,IT Services & Consulting , 1k-5k Employees , 30 years old ,Waltham
+Knight Frank,4.2,Real Estate , 501-1k Employees , 127 years old ,London
+Crowne Plaza,4.2,Hospitality , 501-1k Employees , 40 years old ,Atlanta
+Dunzo,3.5,Internet , 1k-5k Employees , 9 years old ,Bangalore
+Lumen Technologies,3.9,Telecom , 1k-5k Employees , 93 years old ,Monroe
+Arohan Financial Services,3.9,Financial Services , 5k-10k Employees , 17 years old ,Kolkata
+Signify,3.7,Consumer Electronics & Appliances , 1k-5k Employees , 93 years old ,Amsterdam
+Bharti Infratel,4.5,Telecom , 1k-5k Employees , 17 years old ,Gurgaon/Gurugram
+Shilpa Medicare,3.6,Pharma , 1k-5k Employees , 36 years old ,Raichur
+Westside,4.1,Fashion & Textile , 5k-10k Employees , 25 years old ,Mumbai
+Hitachi Payment Services,3.9,FinTech , 1k-5k Employees , 15 years old ,Mumbai
+Magna Infotech,3.3,Automobile , 1k-5k Employees , 26 years old ,Bangalore
+Aparajitha Corporate Services,3.9,Recruitment , 1k-5k Employees , 23 years old ,Madurai
+Transsion,4.3,Hardware & Networking , 501-1k Employees , 17 years old ,Shenzhen
+bnp paribas india solutions,4.0,Banking , 10k-50k Employees , 175 years old ,Paris
+bnp paribas india solutions,4.0,Banking , 10k-50k Employees , 175 years old ,Paris
+NoBrokerHOOD,3.5,Software Product , 501-1k Employees , Startup ,Bengaluru/Bangalore
+Xebia,3.7,IT Services & Consulting , 1k-5k Employees , 22 years old ,Hilversum
+Investors Clinic,3.9,Real Estate , 1k-5k Employees , 14 years old ,Noida
+Sagility,4.0,BPO , 10k-50k Employees , 10k-50k Employees ,Bangalore Rural
+Trimax IT Infrastructure Services,3.4,IT Services & Consulting , 1k-5k Employees , 28 years old ,Mumbai
+Kutumbh Care,4.0,Recruitment , 5k-10k Employees , 16 years old ,Noida
+Jaya Hind Industries,3.7,Auto Components , 1k-5k Employees , 76 years old ,Pune
+CNH Industrial,4.2,Automobile , 1k-5k Employees , 10 years old ,London
+Lumina Datamatics,3.6,IT Services & Consulting , 1k-5k Employees , 48 years old ,Mumbai
+First Advantage,3.8,Recruitment , 1k-5k Employees , 20 years old ,Atlanta
+GE Healthcare,4.2,Healthcare , 1k-5k Employees , 29 years old ,Chicago
+IMPACT Infotech,3.6,IT Services & Consulting , 501-1k Employees , 29 years old ,Pune
+Hitachi Systems Micro Clinic,4.0,IT Services & Consulting , 1k-5k Employees , 32 years old ,Chiyoda City
+Jio Platforms,3.7,IT Services & Consulting , 10k-50k Employees , 10k-50k Employees ,Navi Mumbai
+RAMTeCH Software Solutions,3.8,IT Services & Consulting , 1k-5k Employees , 31 years old ,Noida
+Electrosteel Steels,4.2,Iron & Steel , 501-1k Employees , 17 years old ,Jharkhand
+Advik Hi Tech,3.7,Auto Components , 1k-5k Employees , 23 years old ,Pune
+Bitwise Solutions,4.3,IT Services & Consulting , 501-1k Employees , 27 years old ,Schaumburg
+City Union Bank,3.4,Banking , 5k-10k Employees , 119 years old ,Thanjavur
+City Union Bank,3.4,Banking , 5k-10k Employees , 119 years old ,Thanjavur
+Bitwise Solutions,4.3,IT Services & Consulting , 501-1k Employees , 27 years old ,Schaumburg
+Denave,3.9,Marketing & Advertising , 501-1k Employees , 24 years old ,Noida
+EMERSON PROCESS MANAGEMENT,3.9,Industrial Machinery , 1k-5k Employees , 133 years old ,St. Louis
+Deepak Fertilisers and Petrochemicals,3.8,Agro Chemicals , 1k-5k Employees , 44 years old ,Pune
+Redington,4.0,Hardware & Networking , 1k-5k Employees , 24 years old ,Dubai
+Chennai Radha Engineering Works,3.9,Industrial Machinery , 5k-10k Employees , 18 years old ,Chennai
+Caparo Engineering India,3.8,Auto Components , 51-200 Employees , 55 years old ,Gurgaon/Gurugram
+CreditAccess Grameen,4.2,Financial Services , 10k-50k Employees , 24 years old ,Bangalore/Bengaluru
+Rebel Foods,3.7,Internet , 5k-10k Employees , 11 years old ,Mumbai
+Adani Green Energy,4.2,Power , 501-1k Employees , 8 years old ,Ahmedabad
+HomeLane,3.5,Architecture & Interior Design , 501-1k Employees , 9 years old ,Bangalore
+ACTE,4.8,Education & Training , 1-10 Employees , 12 years old ,Chennai
+Eris Lifesciences,3.8,Pharma , 1k-5k Employees , 16 years old ,Ahmedabad
+Engineers India,4.3,1k-5k Employees , Public , 58 years old ,Delhi/NCR
+AuthBridge Research Services,3.4,IT Services & Consulting , 501-1k Employees , 18 years old ,Gurgaon
+Religare,3.7,Financial Services , 1k-5k Employees , 39 years old ,New Delhi
+Salesforce,4.1,Software Product , 1k-5k Employees , 24 years old ,San Francisco
+Dhani Loans and Services,3.7,NBFC , 1k-5k Employees , 1k-5k Employees ,New Delhi
+Ingram Micro,4.0,IT Services & Consulting , 1k-5k Employees , 44 years old ,Irvine
+TCNS Clothing Company,4.1,Fashion & Textile , 501-1k Employees , 22 years old ,Delhi/NCR
+Ebix Software India,3.4,IT Services & Consulting , 1k-5k Employees , 47 years old ,Atlanta
+Innodata Isogen,3.1,IT Services & Consulting , 1k-5k Employees , 26 years old ,New Jersey
+McDermott International,4.2,Oil & Gas , 1k-5k Employees , 100 years old ,Houston
+Finolex Cables,3.8,Electrical Equipment , 1k-5k Employees , 67 years old ,Pune
+Apollo Munich Health Insurance,3.9,Financial Services , 1k-5k Employees , 16 years old ,Gurgaon
+Svatantra Microfin,4.3,NBFC , 1k-5k Employees , 11 years old ,Mumbai
+Rodic Consultants,4.3,Management Consulting , 501-1k Employees , 23 years old ,Delhi/NCR
+Globant,4.0,IT Services & Consulting , 1k-5k Employees , 20 years old ,San Francisco
+Neeyamo Enterprise Solutions,3.7,Recruitment , 1k-5k Employees , 14 years old ,Chennai
+Lea Associates South Asia,4.3,Power , 201-500 Employees , 30 years old ,Delhi/NCR
+Ukb Electronics,4.4,Electronics Manufacturing , 1k-5k Employees , 27 years old ,Noida
+TÜV NORD,3.6,Other , 201-500 Employees , 34 years old ,Mumbai
+Sharda Motor Industries,3.9,Auto Components , 1k-5k Employees , 37 years old ,Delhi/NCR
+Jain Irrigation Systems,4.1,Accounting & Auditing , 51-200 Employees , 60 years old ,Jalgaon
+Adani Enterprises,4.0,Financial Services , 1k-5k Employees , 35 years old ,Mumbai
+IFFCO,4.0,Agro Chemicals , 1k-5k Employees , 56 years old ,Delhi/NCR
+GSK Pharmaceuticals,4.2,Pharma , 1k-5k Employees , 193 years old ,Middlesex
+HSBC Bank,4.4,Fortune India 500 , Hyderabad/Secunderabad +28 more,Fortune India 500 ,Hyderabad/Secunderabad
+Biba Apparels,4.0,Fashion & Textile , 1k-5k Employees , 37 years old ,Gurgaon
+Gayatri Projects,3.9,Engineering & Construction , 1k-5k Employees , 60 years old ,Hyderabad/Secunderabad
+Ashirvad Pipes,4.2,Building Material , 1k-5k Employees , 48 years old ,Bengaluru/Bangalore
+Ihg Group,4.1,Hospitality , 5k-10k Employees , 20 years old ,Gurgaon/Gurugram
+TDK India,4.0,Semiconductors , 1k-5k Employees , 2023 years old ,Nashik
+Indo Autotech,4.0,Auto Components , 1k-5k Employees , 49 years old ,Faridabad
+Ameriprise Financial,4.0,Financial Services , 1k-5k Employees , 129 years old ,Gurgaon/Gurugram
+Amphenol Interconnect,4.2,Electrical Equipment , 51-200 Employees , 51 years old ,Pune
+Silaris Informations,3.1,BPO , 1k-5k Employees , 12 years old ,New Delhi
+FIITJEE,3.7,Education & Training , 1k-5k Employees , 31 years old ,New Delhi
+Guardian India,4.1,IT Services & Consulting , 1k-5k Employees , 163 years old ,Gurgaon/Gurugram
+Royal Caribbean International,4.6,Sports & Recreation , 501-1k Employees , 54 years old ,Mumbai
+ANZ Banking Group,4.0,Banking , 1k-5k Employees , 16 years old ,Bengaluru/Bangalore
+Isuzu Motors,3.9,Automobile , 501-1k Employees , 11 years old ,Sri City
+Pratap Technocrats,3.9,Telecom , 501-1k Employees , 25 years old ,Jaipur
+Citco,3.3,Financial Services , 1k-5k Employees , 7 years old ,Pune
+Muthoot Microfin,4.1,Financial Services , 5k-10k Employees , 8 years old ,Ernakulam
+Edubridge Learning,3.8,Education & Training , 501-1k Employees , 14 years old ,Mumbai
+United Spirits,4.1,Beverage , 1k-5k Employees , 26 years old ,Bengaluru/Bangalore
+Sintex Industries,4.2,Industrial Machinery , 5k-10k Employees , 92 years old ,Ahmedabad
+Echobooom Management & Entrepreneurial Solutions,4.0,Management Consulting , 201-500 Employees , 3 years old ,Kolkata
+Raychem RPG,4.1,Electrical Equipment , 501-1k Employees , 34 years old ,Mumbai
+Sl Lumax,3.2,Auto Components , 1k-5k Employees , 26 years old ,Sriperumbudur
+Progressive Infotech,3.4,IT Services & Consulting , 501-1k Employees , 25 years old ,Noida
+Government of India,4.1,Government , 1 Lakh+ Employees , 73 years old ,New Delhi
+Rico Auto Industries,3.9,Auto Components , 1k-5k Employees , 40 years old ,Gurgaon/Gurugram
+NTT DATA Business Solutions,3.9,IT Services & Consulting , Bengaluru/Bangalore +21 more,IT Services & Consulting ,Bengaluru/Bangalore
+Ramco Systems,3.4,Software Product , 1k-5k Employees , 26 years old ,Chennai
+Astral Pipe,4.1,Building Material , 1-10 Employees , Fortune India 500 ,Ahmedabad
+Piramal Pharma,3.9,Pharma , 1k-5k Employees , 35 years old ,Lexington
+Ups Logistics,4.3,Logistics , 1k-5k Employees , 116 years old ,Atlanta
+Bses Rajdhani Power,3.8,Power , 5k-10k Employees (Global) , 22 years old ,Delhi/NCR
+Union Bank of India,3.9,Banking , 50k-1 Lakh Employees , 104 years old ,Mumbai
+Jabil Circuit India,3.9,Electronics Manufacturing , 1k-5k Employees , 57 years old ,St Petersburg
+Wipro Infrastructure Engineering,3.8,Industrial Machinery , 1k-5k Employees , 47 years old ,Bangalore/Bengaluru
+Xceedance,3.7,Insurance , 1k-5k Employees , 10 years old ,Boston
+Mastek,3.8,IT Services & Consulting , 1k-5k Employees , 41 years old ,Mumbai
+Zydus Wellness,3.4,FMCG , 1k-5k Employees , 35 years old ,Ahmedabad
+Country Holidays Inn & Suites,4.5,Travel & Tourism , 501-1k Employees , 7 years old ,Noida
+Rane (Madras),4.1,Auto Components , 201-500 Employees , 26 years old ,Vallancherry
+Skipper,3.7,Power , 1k-5k Employees , 42 years old ,Kolkata
+Re Sustainability Limited,4.0,Waste Management , 10k-50k Employees , 29 years old ,Hyderabad
+MattsenKumar,3.4,BPO , 1k-5k Employees , 13 years old ,Gurgaon/Gurugram
+Omaxe,3.8,Real Estate , 1k-5k Employees , 34 years old ,Delhi/NCR
+VA Tech Wabag,3.9,Waste Management , 501-1k Employees , 99 years old ,Chennai
+PUMA,4.3,Fashion & Textile , 1k-5k Employees , 75 years old ,Herzogenaurach
+HCL Comnet,3.8,Noida +37 more,,,Noida
+Target,4.4,Retail , 1k-5k Employees , 121 years old ,Minneapolis
+Fractal Analytics,4.1,IT Services & Consulting , 1k-5k Employees , 23 years old ,New York City
+OMICS International,2.7,Printing & Publishing , 51-200 Employees , 16 years old ,Hyderabad/Secunderabad
+Vakrangee,3.7,BPO , 1k-5k Employees , 33 years old ,Mumbai
+Sadbhav Engineering,4.3,Engineering & Construction , 1k-5k Employees , 35 years old ,Ahmedabad
+Epicenter Technologies,3.6,IT Services & Consulting , 1k-5k Employees , 22 years old ,Mumbai
+AVEVA,4.3,IT Services & Consulting , 1k-5k Employees , 56 years old ,Cambridge
+Future Lifestyle Fashion,4.2,Retail , 5k-10k Employees , 11 years old ,Mumbai
+Ag Industries,4.0,Auto Components , 201-500 Employees , 32 years old ,Delhi/NCR
+Rohan Builders,4.3,Real Estate , 1k-5k Employees , 30 years old ,Pune
+Amway India Enterprises,4.2,FMCG , 501-1k Employees , 28 years old ,Ada Township
+Thriveni Earthmovers,3.9,Metals & Mining , 5k-10k Employees , 32 years old ,Salem
+Times Internet,3.9,Internet , 10k-50k Employees , 24 years old ,Gurgaon
+Shaktiman Tirth Agro Technology,4.1,Industrial Machinery , 1k-5k Employees , 26 years old ,Rajkot
+Rentokil Pest Control,3.8,Facility Management Services , 501-1k Employees , 69 years old ,Mumbai
+Integreon,3.5,Legal , 1k-5k Employees , 23 years old ,Fargo
+Fleetguard Filters,4.1,Auto Components , 1k-5k Employees , 36 years old ,Pune
+ZUVENTUS HEALTHCARE,4.0,Pharma , 1k-5k Employees , 21 years old ,Mumbai
+Mott MacDonald,4.2,Engineering & Construction , 501-1k Employees , 121 years old ,Croydon
+Simplilearn,3.3,EdTech , 1k-5k Employees , 14 years old ,San Francisco
+Tata Hitachi Construction Machinery,3.9,1k-5k Employees , Fortune India 500 , 24 years old ,Bangalore/Bengaluru
+Bioclinica,3.1,Pharma , 1k-5k Employees , 15 years old ,Princeton
+Central Industrial Security Force,4.5,Government , 1 Lakh+ Employees , 54 years old ,Delhi/NCR
+Epsilon,4.0,Marketing & Advertising , 1k-5k Employees , 54 years old ,Texas
+CMS Computers Limited (INDIA),3.7,IT Services & Consulting , 1k-5k Employees , 47 years old ,Mumbai
+India Cements,3.8,Building Material , 1k-5k Employees , 77 years old ,Chennai
+Linde India,4.1,Oil & Gas , 201-500 Employees , 144 years old ,Pullach
+Quatrro,3.4,IT Services & Consulting , 501-1k Employees , 18 years old ,Gurgaon
+NSB Bpo Solutions,2.9,BPO , 1k-5k Employees , 30 years old ,Bhopal
+Merino Industries,3.8,Building Material , 501-1k Employees , 55 years old ,Delhi/NCR
+H&M,4.1,Retail , 1k-5k Employees , 76 years old ,Stockholm
+Toyo Engineeering,3.8,Engineering & Construction , 1k-5k Employees , 47 years old ,Mumbai
+Somany Ceramics,4.2,Building Material , 1k-5k Employees , 55 years old ,Noida
+Bpo Convergence,3.4,BPO , 1k-5k Employees , 9 years old ,Bhubaneswar
+Adani Solar,4.0,Power , 1k-5k Employees , 8 years old ,Ahmedabad
+EPL Limited,3.9,Packaging , 1k-5k Employees , 39 years old ,Mumbai
+GKN,4.1,Industrial Machinery , 1k-5k Employees , 38 years old ,Redditch
+SitusAMC,3.3,Software Product , 1k-5k Employees , 1k-5k Employees ,Gurgaon/Gurugram
+NielsenIQ,3.9,IT Services & Consulting , 1k-5k Employees , 100 years old ,Chicago
+Bikanervala,4.0,FMCG , 1k-5k Employees , 73 years old ,Delhi/NCR
+Alshaya Group,3.9,Retail , 501-1k Employees , 133 years old ,Kuwait City
+Wonder Cement,4.2,Building Material , 1k-5k Employees , 13 years old ,Ajmer
+Creambell,3.9,FMCG , 201-500 Employees , 32 years old ,Baddi
+Naukri,3.9,Internet , 1k-5k Employees , 27 years old ,Noida
+Baxter International,4.2,Healthcare , 1k-5k Employees , 27 years old ,Deerfield
+Diebold Nixdorf,3.9,IT Services & Consulting , 1k-5k Employees , 31 years old ,North Canton
+KaaShiv InfoTech Company,4.9,IT Services & Consulting , 51-200 Employees , 51-200 Employees ,Chennai
+Deepak Nitrite,3.9,Chemicals , 1k-5k Employees , 53 years old ,Vadodara/Baroda
+Csc E Governance Services,3.9,Government , 201-500 Employees , 14 years old ,Delhi
+BASF,4.5,Chemicals , 1k-5k Employees , 80 years old ,Ludwigshafen
+Lionbridge Technologies,3.8,Content Development , 1k-5k Employees , 27 years old ,Waltham
+Vijaya Diagnostic Centre,4.0,Healthcare , 501-1k Employees , 42 years old ,Hyderabad/Secunderabad
+General Motors,4.4,Automobile , 1k-5k Employees , 27 years old ,Detroit
+MagicBricks,3.3,Internet , 501-1k Employees , 17 years old ,Noida
+LifeCell International,3.6,Biotechnology , 1k-5k Employees , 19 years old ,Chennai
+Encore Capital Group,4.1,IT Services & Consulting , 1k-5k Employees , 70 years old ,San Diego
+Experis IT,3.1,Recruitment , 1k-5k Employees , 25 years old ,Milwaukee
+India Japan Lighting,4.2,Auto Components , 501-1k Employees , 27 years old ,Chennai
+MPS Limited,4.0,Printing & Publishing , 1k-5k Employees , 53 years old ,Noida
+KGISL,3.4,IT Services & Consulting , 501-1k Employees , 27 years old ,Coimbatore
+Citigroup,3.8,Banking , 10k-50k Employees , 211 years old ,New York City
+Bluestream Software Solution,4.7,IT Services & Consulting , 1k-5k Employees , 1k-5k Employees ,New Delhi
+Accolite,3.6,IT Services & Consulting , 1k-5k Employees , 16 years old ,Dallas
+Mount Litera Zee School,3.9,Education & Training , 1k-5k Employees , 29 years old ,Mumbai
+Hella,4.0,Auto Components , 1k-5k Employees , 124 years old ,Lippstadt
+India Shelter Finance Corporation,4.0,NBFC , 1k-5k Employees , 13 years old ,Gurgaon
+Financial Software & Systems,3.8,FinTech , 1k-5k Employees , 32 years old ,Chennai
+T.v. Sundram Iyengar & Sons,4.3,Automobile , 1k-5k Employees , 112 years old ,Chennai
+Sun Life Financial,4.4,IT Services & Consulting , 1k-5k Employees , 158 years old ,Toronto
+Deccan Fine Chemicals,3.7,Agro Chemicals , 1k-5k Employees , 15 years old ,Hyderabad/Secunderabad
+MasterCard,4.2,IT Services & Consulting , 1k-5k Employees , 57 years old ,Purchase
+Quikr,3.7,Internet , 1k-5k Employees , 15 years old ,Bangalore
+Saud Bahwan Group,3.4,Automobile , 201-500 Employees , 48 years old ,Muscat
+Radical Minds,2.8,BPO , 5k-10k Employees , 13 years old ,Gurgaon/Gurugram
+Educomp Solutions,3.5,EdTech , 11-50 Employees , 29 years old ,Gurgaon/Gurugram
+Care Hospital,4.0,Healthcare , 1k-5k Employees , 26 years old ,Hyderabad/Secunderabad
+Prism Johnson,3.9,Building Material , 1k-5k Employees , 31 years old ,Mumbai
+Electrotherm,4.2,Iron & Steel , 1k-5k Employees , 40 years old ,Ahmedabad
+Micro Turners,3.7,Auto Components , 51-200 Employees , 54 years old ,Panchkula
+Northern Trust,3.9,Financial Services , 5k-10k Employees , 5k-10k Employees ,Bengaluru/Bangalore
+Mindarika,3.8,Auto Components , 1k-5k Employees , 31 years old ,Gurgaon/Gurugram
+JK Paper,4.0,Pulp & Paper , 1k-5k Employees , 61 years old ,Delhi/NCR
+SoftAge Information Technology,4.1,IT Services & Consulting , 1k-5k Employees , 29 years old ,Gurgaon/Gurugram
+Rane Engine Valve Limited,4.0,Auto Components , 1k-5k Employees , 64 years old ,Chennai
+Lovely Professional University,3.5,Education & Training , 1k-5k Employees , 18 years old ,Phagwara
+Parag Milk Foods,3.9,FMCG , 1k-5k Employees , 31 years old ,Mumbai
+Welspun World,3.9,Building Material , 1k-5k Employees , 38 years old ,Mumbai
+TIAA Global Business Services,4.2,IT Services & Consulting , 1k-5k Employees , 105 years old ,Manhattan
+Titan Eye Plus,4.3,Other , 1 Lakh+ Employees (Global) , 16 years old ,Bangalore/Bengaluru
+Sunbeam Auto,3.7,Auto Components , 1k-5k Employees , 37 years old ,Gurgaon/Gurugram
+Border Security Force,4.6,Defence & Aerospace , 1 Lakh+ Employees , 58 years old ,Delhi/NCR
+Astral Adhesives,4.1,Chemicals , 1k-5k Employees , 36 years old ,Ahmedabad
+Balkrishna Industries,4.1,Auto Components , 1k-5k Employees , 36 years old ,Mumbai
+K Raheja Corp,4.2,Real Estate , 1k-5k Employees , 67 years old ,Mumbai
